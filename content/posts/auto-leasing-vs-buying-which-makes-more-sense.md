@@ -7,7 +7,7 @@ excerpt: "A CPA-backed framework for deciding whether to lease or buy your next 
 image: business-owner-reviewing-car-keys-paperwork.jpg
 image_alt: "A business owner sitting at a desk comparing vehicle paperwork and a calculator before deciding between leasing and buying a car"
 tags: ["tax planning", "business vehicles", "Section 179"]
-meta_title: "Lease vs Buy a Car: A CPA's Framework for Owners"
+meta_title: "Lease vs Buy a Car: A CPA's Framework for Owners | Aurora Consulting Group LLC"
 meta_description: "Weighing lease vs buy a car for your business? See how Section 179, depreciation, and cash flow actually change the answer, from a Visalia CPA firm."
 target_keyword: "lease vs buy a car"
 secondary_keywords: ["car leasing tax deductions", "Section 179 vehicle deduction", "business vehicle purchase vs lease", "auto loan vs lease pros and cons"]
