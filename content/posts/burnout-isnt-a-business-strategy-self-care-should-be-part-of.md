@@ -7,7 +7,7 @@ excerpt: "Burnout doesn't just wear down business owners, it drains the judgment
 image: business-owner-resting-at-desk.jpg
 image_alt: "A business owner pausing at a sunlit desk, reflecting sustainable work habits rather than constant hustle"
 tags: ["business owner wellness", "burnout", "sustainable growth", "advisory"]
-meta_title: "Self-Care for Business Owners: Protect Your Judgment"
+meta_title: "Self-Care for Business Owners: Protect Your Judgment | Aurora Consulting Group LLC"
 meta_description: "Burnout quietly drains the judgment that keeps a business solvent. Learn why self-care for business owners is a financial safeguard, not an indulgence."
 target_keyword: "self-care for business owners"
 secondary_keywords: ["business owner burnout", "entrepreneur mental health", "work-life balance for small business owners", "sustainable business growth habits"]
