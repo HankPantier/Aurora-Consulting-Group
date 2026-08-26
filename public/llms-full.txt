@@ -1,0 +1,1888 @@
+# About Aurora Consulting Group LLC
+
+## Identity
+Aurora Consulting Group LLC was founded in 2011 in Visalia, California, by Sandra L. Koch, who serves as CEO and Founder. The firm's tagline — "Your team for tax and accounting and a whole lot more" — reflects its mission to empower entrepreneurs by building enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching.
+
+Aurora describes its team as advisory-focused, operating as an extension of each client's business rather than a detached, transactional vendor. The firm's tone is warm, approachable, and client-centered — professional, proactive, empowering, and trustworthy — while deliberately avoiding stiff or automated communication.
+
+The team includes Sandra L. Koch (CEO-Founder), Connor Brooks (Client Controller), Andrea Dunigan (Client CFO), Alannah Dunkle (Client Service Manager), Annette Shuler (Business Support & Operations Coordinator), Cedar Gonzalez (Executive Assistant to the CEO), and team members Haydee Lamberty-Rodriguez and Maureen Lykins.
+
+## Positioning & Differentiation
+Aurora positions itself as the outsourced financial team that goes beyond numbers — an embedded advisory partner that handles accounting and tax while actively driving client growth and decisions.
+
+Key differentiators include:
+- A "Team of 3" approach — a Client Service Manager, Client Controller, and Client CFO — delivering the expertise of three professionals for less than the cost of one full-time hire.
+- Enrolled Agents with IRS representation authority.
+- Fixed monthly pricing with no annual contracts.
+- Customized technology stacks and secure digital workflows tailored to each client.
+- A fully remote, culture-driven team.
+
+Aurora's ideal clients are entrepreneurs and business owners who value integrity in their financial data and relationships, hold high standards for delivering value to their own customers, and seek proactive problem-solving from a responsive financial team. This includes professionals and consultants (legal, medical, financial, engineering/architecture, real estate, healthcare/social services), technology companies from startups to established SaaS and e-commerce businesses, and nonprofit organizations.
+
+Clients typically need support with HR, corporate compliance, insurance, and multi-state/multi-entity operations, and benefit from frequent advisory meetings. The firm's clients are primarily aged 35–55 and find Aurora through referrals, Google search, networking, and its website.
+
+Geographically, the majority of Aurora's clients are based in California, including Visalia (where the firm was founded), Tulare County, Kings County, Fresno County, Kern County, and Central California stretching from Chico down to San Diego. Aurora is a BBB Accredited Business and a listed Gusto Partner.
+
+## Industries Served
+
+### Real Estate Investors
+Aurora provides tax strategy, entity structuring, and accounting for real estate investors managing rental portfolios, fix-and-flip projects, and long-term wealth building across multiple properties and entities. Common pain points include depreciation schedules and cost segregation tracking across multiple properties, entity structure confusion (LLC, S-corp, partnership) as portfolios grow, multi-state income allocation and filing requirements, passive activity loss rules and material participation tracking, 1031 exchange documentation and deadline compliance, and inconsistent cash flow visibility across properties.
+
+### Real Estate Brokers
+Aurora offers outsourced accounting, tax planning, and advisory services for real estate brokers and agents navigating commission-based income, self-employment tax, and the financial complexity of running an independent practice. Pain points include inconsistent cash flow tied to commission cycles, self-employment tax planning and quarterly estimated payments, tracking business expenses (marketing, MLS fees, vehicle, home office) across engagements, entity structure decisions as income scales, lack of proactive tax strategy, and multi-state licensing and income allocation when closing deals across state lines.
+
+### Contractors
+Aurora delivers bookkeeping, job costing, and tax planning for contractors and trades businesses managing project-based revenue, subcontractors, payroll, and the financial demands of a growing field operation. Pain points include job costing and project profitability tracking across multiple active jobs, payroll and subcontractor 1099 compliance, cash flow gaps between billing and payment cycles, equipment depreciation and asset management, entity structure decisions as the business scales, and sales tax and licensing compliance across jurisdictions.
+
+### Business-to-Business Service Providers
+Aurora supports accounting, tax strategy, and advisory for B2B service companies — including consulting firms, staffing agencies, marketing agencies, and professional service businesses — focused on profitability, cash flow, and scalable growth. Pain points include tracking billable vs. overhead expenses across client engagements, inconsistent cash flow tied to client payment cycles and net terms, entity structure confusion as revenue and headcount grow, lack of proactive tax strategy, HR/payroll/contractor compliance as teams scale, and multi-state income allocation for businesses with clients or staff in multiple states.
+
+### Multi-State / Multi-Entity Businesses
+Aurora provides specialized accounting, compliance, and advisory support for businesses operating across multiple states or structured through multiple legal entities, built for owners who need a fully embedded financial team that understands the full picture. Pain points include state registration, nexus, and compliance obligations across jurisdictions; intercompany transactions and consolidated reporting; inconsistent financial data when entities are managed separately; entity structure optimization for tax efficiency and liability protection; payroll tax compliance for remote or multi-state employees; and the lack of a unified advisory partner who understands the full picture across all entities.
+
+---
+
+## Industries We Serve
+
+### Real Estate Investors
+URL: /industries/real-estate-investors
+
+<!-- block: content-split | variant: image-right | image: real-estate-portfolio-review.jpg | alt: "Investor and CPA reviewing a rental property portfolio spreadsheet" | query: "real estate investor reviewing financials" -->
+## Accounting built around how real estate investors operate
+
+Real estate investors don't need generic bookkeeping. Portfolios grow property by property, and every acquisition carries its own depreciation schedule, loan structure, and tax treatment. Aurora Consulting Group builds accounting systems that track performance at the property level and the portfolio level at once, so an investor can see which assets carry their weight and which ones need attention.
+
+Founded in Visalia, California, the firm works with investors holding rental properties, short-term rentals, and commercial assets across Tulare, Kings, Fresno, and Kern counties. Cap rates, cash-on-cash returns, and the difference between a 1031 exchange and a cost segregation study aren't abstractions here; they're the daily work. Large institutional firms manage funds and capital allocations for shareholders. This firm manages your books, your entities, and your tax strategy, built around the properties you actually hold.
+
+<!-- block: checklist-section | variant: with-image | image: cost-segregation-study.jpg | alt: "Accountant analyzing a cost segregation study for a rental property" | query: "accountant analyzing property depreciation report" -->
+## Depreciation and cost segregation tracking across every property
+
+Missed depreciation is money left on the table, and it happens more than most investors realize once a portfolio grows past two or three properties. Aurora Consulting Group maintains depreciation schedules for every property individually and rolls them into a consolidated view, so nothing slips through when a property is bought, improved, or sold.
+
+What's included for each property in your portfolio:
+
+- Depreciation schedules tracked from acquisition through disposition, including component-level detail
+- Coordination with cost segregation studies to accelerate depreciation on qualifying components
+- Adjustments for capital improvements, partial dispositions, and bonus depreciation eligibility
+- Reconciliation against tax filings each year so schedules and returns always match
+
+This level of tracking is what separates a firm that files your return once a year from one that manages the asset with you.
+
+<!-- block: content-split | variant: image-left | image: entity-structure-planning.jpg | alt: "CPA advising a real estate investor on LLC and S-corp structure" | query: "business advisor discussing entity structure" -->
+## Choosing the right entity structure for your portfolio
+
+Most investors start with a single LLC and end up confused three properties later. Should each property sit in its own LLC? Does an S-corp election make sense for a flipping business but not a buy-and-hold portfolio? Does a holding company reduce liability exposure without adding unnecessary complexity? These questions get harder, not easier, as a portfolio grows.
+
+Aurora Consulting Group's Team of 3 model puts a Client Service Manager, Client Controller, and Client CFO on your structure decisions together, so liability protection and tax efficiency get weighed at the same time, not in separate conversations with separate advisors. The right structure at five properties is rarely the right structure at fifteen. This team revisits entity structure as the portfolio changes, rather than setting it once and moving on.
+
+<!-- block: content-split | variant: image-right | image: tax-planning-property-acquisition.jpg | alt: "Enrolled agent reviewing tax strategy documents for a property sale" | query: "tax advisor reviewing real estate contract" -->
+## Proactive tax planning for property acquisitions and sales
+
+Tax strategy for real estate investors can't wait until March. A 1031 exchange has strict identification windows. A property sale mid-year changes estimated tax payments. An acquisition financed with a cash-out refinance carries interest tracing rules that affect what's deductible. Waiting until tax season to address any of these means the planning window has already closed.
+
+Aurora Consulting Group's Enrolled Agents hold IRS representation authority and build tax strategy around your acquisition and disposition timeline throughout the year, not just at filing. Before a sale closes, before a refinance funds, before a new property enters an entity, the tax impact gets modeled and discussed. That's the difference between a preparer who reports what happened and a team that helps decide what happens next.
+
+<!-- block: checklist-section | variant: with-image-left | image: multi-state-portfolio-compliance.jpg | alt: "Map and spreadsheets showing multi-state property portfolio compliance tracking" | query: "business documents multiple state maps" -->
+## Support for multi-state and multi-entity real estate portfolios
+
+Investors who expand beyond one county, or one state, run into compliance questions that a single-property owner never faces. State registration requirements differ. Nexus rules determine where you owe tax, not just where the property sits. Consolidated reporting across multiple entities gets complicated fast when properties and entities don't share a structure.
+
+Aurora Consulting Group supports investors managing:
+
+- State registration and annual compliance filings across jurisdictions
+- Nexus determination as portfolios expand beyond California into new states
+- Intercompany transactions and consolidated reporting across multiple LLCs or holding entities
+- Coordinated tax filings so no state deadline or entity return gets missed
+
+For investors holding properties across Tulare, Kings, Fresno, and Kern counties and beyond, this coordination happens inside one team instead of across several disconnected advisors.
+
+<!-- block: feature-grid | variant: 3-col -->
+## Your dedicated team of three for real estate accounting
+
+A growing portfolio needs more than a bookkeeper. It needs someone managing day-to-day accuracy, someone overseeing financial systems and reporting, and someone thinking strategically about structure and tax. Aurora Consulting Group provides all three for less than the cost of one full-time hire, on fixed monthly pricing with no annual contract.
+
+### Client Service Manager
+icon: UserCheck
+
+Handles day-to-day communication and makes sure bookkeeping, documents, and deadlines stay on track across every property in your portfolio.
+
+### Client Controller
+icon: ChartBar
+
+Oversees financial statements, depreciation schedules, and reporting accuracy, catching issues before they become problems at tax time.
+
+### Client CFO
+icon: Briefcase
+
+Brings strategic guidance on entity structure, acquisitions, and tax planning, acting as the forward-looking advisor most solo investors never have on call.
+
+<!-- block: cta-banner | variant: image-bg | image: central-california-real-estate-team.jpg | alt: "Central California farmland and neighborhoods viewed from above near Visalia" | query: "Central California countryside aerial view" -->
+## Partner with a firm that knows Central California real estate
+
+Aurora Consulting Group started in Visalia and still works closest with investors across Tulare, Kings, Fresno, and Kern counties, alongside clients spread across multiple states. The team is fully remote and culture-driven, so distance from the office has never limited how closely they work with a client's portfolio.
+
+If depreciation tracking, entity confusion, or multi-state compliance has been eating into time you'd rather spend finding the next property, schedule a consultation and find out what a Team of 3 looks like for your portfolio.
+
+[Schedule a consultation](/contact)
+
+---
+
+### Real Estate Brokers
+URL: /industries/real-estate-brokers
+
+<!-- block: intro-text | variant: centered -->
+## A financial team that understands commission-based income
+
+Commission checks don't arrive on a schedule, and neither should your financial support. Real estate brokers in Visalia, Tulare County, and across Central California deal with a rhythm most CPAs never see up close: months of pipeline building followed by a closing that finally clears escrow. A once-a-year tax preparer misses that rhythm entirely.
+
+Aurora Consulting Group assigns every broker client a Team of 3, a Client Service Manager, Client Controller, and Client CFO, working together for less than the cost of one full-time hire. That means someone is watching your numbers between closings, not just in March. We build tax strategy and bookkeeping around how you actually get paid, with fixed monthly pricing and no annual contract locking you in.
+
+If you're growing a book of business, building a team, or weighing a move toward brokerage ownership, this is the kind of embedded advisory relationship that pays for itself.
+
+<!-- block: content-split | variant: image-right | image: broker-cash-flow-planning.jpg | alt: "Real estate broker reviewing commission statements with a financial advisor" | query: "real estate broker reviewing documents office" -->
+## Smoothing out commission-cycle cash flow
+
+A slow month after a big closing can feel like a crisis even when your annual production is strong. That gap between deals is the single biggest financial stress point we hear from brokers, and it's solvable with the right structure.
+
+Our Client Controllers build reserve targets based on your actual closing history, not generic percentages. We help you set aside a portion of each commission before it hits your personal account, so a slow quarter doesn't force decisions you'll regret. For brokers running a small team or splitting commissions with agents, we also track payables and draws so cash doesn't quietly evaporate between deals.
+
+This isn't a one-time budget exercise. It's a recurring conversation, built into your monthly check-ins, that adjusts as your production changes.
+
+<!-- block: checklist-section | variant: with-image-left | image: enrolled-agent-tax-review.jpg | alt: "Enrolled Agent calculating quarterly estimated tax payments for a client" | query: "accountant calculating tax payments desk" -->
+## Self-employment tax and quarterly estimated payments made simple
+
+Self-employment tax catches independent brokers off guard almost every year, usually around the same time an underpayment penalty notice shows up. Our Enrolled Agents, credentialed with IRS representation authority, calculate your quarterly estimates using real-time production data instead of last year's guesswork.
+
+What that looks like in practice:
+
+- Quarterly estimate recalculations as your commission pipeline shifts
+- Self-employment tax planning that accounts for retirement contributions and deductions
+- Direct IRS representation if a notice or audit question comes up
+- Coordination with your entity structure to reduce what's owed at the self-employment tax rate
+- A clear calendar so payment dates never come as a surprise
+
+Because our Enrolled Agents can represent you directly before the IRS, you're never navigating a notice alone or paying a separate firm to interpret it.
+
+<!-- block: content-split | variant: image-left | image: broker-mileage-expense-tracking.jpg | alt: "Real estate broker tracking mileage and marketing expenses on a laptop" | query: "business person tracking expenses laptop" -->
+## Tracking expenses, mileage, and marketing spend with clarity
+
+Mileage logs, MLS fees, staging costs, open house signage, client gifts: brokers accumulate dozens of small deductible expenses that add up to real tax savings, if they're actually captured. Most brokers lose track of half of them by Q3.
+
+Our outsourced accounting team builds a bookkeeping system, connected to your bank feeds and mileage tracking app, that categorizes these expenses as they happen instead of during a frantic January reconstruction. We flag marketing spend by campaign so you can see which listings, sponsorships, or lead sources are actually generating return, not just which ones felt productive.
+
+By the time your Client CFO sits down for your quarterly review, the numbers are already clean. That means the conversation is about strategy, not data entry.
+
+<!-- block: content-split | variant: image-right | image: broker-entity-structure-planning.jpg | alt: "Financial advisor and broker discussing S-corp entity structure options" | query: "advisor client discussing business documents" -->
+## Choosing the right entity structure as your production grows
+
+Many brokers start as sole proprietors and never revisit that decision, even after production doubles. Once self-employment tax on net income starts outweighing the cost of running payroll, an S-corp election usually makes sense, but the timing and the numbers behind it matter more than the general rule.
+
+Our Client CFOs model the actual break-even point for your production level before recommending a change, and coordinate the election, payroll setup, and reasonable-compensation analysis so it's done correctly the first time. For brokers expanding into a brokerage, property management arm, or a second entity, we bring the same multi-entity and multi-state expertise we apply to [multi-state and multi-entity businesses](/industries/multi-state-multi-entity-businesses), including intercompany transactions and consolidated reporting.
+
+Getting the structure right early avoids a messy, expensive correction later.
+
+<!-- block: feature-grid | variant: 3-col -->
+## HR, insurance, and compliance help as your business grows
+
+Building a team changes what you need from your financial partner. Payroll, insurance requirements, and state compliance obligations show up fast once you hire your first assistant or bring on agents under your brokerage.
+
+### Payroll and HR support
+icon: Users
+
+As a Gusto Partner, we set up and manage payroll for your assistants or team agents, handle 1099 versus W-2 classification questions, and keep withholding accurate as your headcount changes.
+
+### Insurance and risk guidance
+icon: ShieldCheck
+
+We help you understand how E&O coverage, general liability, and entity structure interact so a claim or audit doesn't expose personal assets unnecessarily.
+
+### Corporate compliance tracking
+icon: FileCheck
+
+Annual filings, business license renewals, and state registration deadlines are tracked and managed for you, so a missed form never becomes a bigger problem.
+
+<!-- block: cta-banner | variant: image-bg | image: broker-consultation-meeting.jpg | alt: "Real estate broker shaking hands with a financial advisor after a consultation" | query: "handshake business meeting office professionals" -->
+## Let's build a tax and accounting plan around your production
+
+You already know your production numbers. What you need is a team that turns them into a plan, quarterly tax estimates that match reality, cash reserves that hold up between closings, and an entity structure built for where you're headed next.
+
+Aurora Consulting Group's Team of 3 gives you a Client Service Manager, Client Controller, and Client CFO for less than one full-time hire, with fixed monthly pricing and no annual contract. Schedule a consultation and we'll walk through your last twelve months of commissions together.
+
+[Schedule a consultation](/contact)
+
+---
+
+### Contractors
+URL: /industries/contractors
+
+<!-- block: content-prose -->
+## Financial guidance built for contractors and construction businesses
+
+Construction margins run thin, and one underbid job or one late payment from a general contractor can turn a profitable quarter into a scramble. Contractors need more than a CPA who shows up in March. Aurora Consulting Group works alongside contractors and construction business owners across Visalia, Tulare County, Kings County, Fresno County, and Kern County, tracking job costs, payroll, and tax obligations throughout the year, not just at filing time.
+
+Every contractor we work with juggles multiple active jobs, subcontractor crews, and material costs that shift week to week. Our Team of 3, a Client Service Manager, Client Controller, and Client CFO, gives you the visibility of three financial professionals for less than the cost of one full-time hire. You get answers before a cost overrun becomes a loss, not after it shows up on a tax return.
+
+<!-- block: content-split | variant: image-right | image: job-costing-review.jpg | alt: "Contractor and accountant reviewing job costing spreadsheet at a job site table" | query: "contractor reviewing paperwork job site" -->
+## Job costing and project profitability tracking
+
+Knowing whether a job made money shouldn't require waiting for a year-end report. Your Client Controller sets up job costing systems that track labor, materials, subcontractor costs, and overhead against each project's budget, so you can see which jobs are actually profitable and which ones are quietly draining cash.
+
+Frequent advisory check-ins, not a single annual meeting, are what catch cost overruns while there's still time to act. If a project's material costs run 15% over budget in week three, you'll know in week three, not in April. Your Client CFO reviews profitability across active jobs on a schedule that matches your job cycles, flagging trends before they turn into a surprise on next year's return.
+
+That level of detail also makes bidding future work easier. When you know your true cost per square foot or per crew-hour on past projects, your next bid is built on real numbers instead of a guess.
+
+<!-- block: checklist-section | variant: with-image-left | image: payroll-crew-management.jpg | alt: "Foreman reviewing payroll and subcontractor paperwork with construction crew nearby" | query: "construction foreman reviewing paperwork" -->
+## Payroll, subcontractor compliance, and 1099 management
+
+Running payroll for a crew and issuing 1099s to subcontractors is one of the highest-risk parts of a construction business. Misclassify a worker, miss a filing deadline, or lose track of a sub's W-9, and the penalties land on you, not on the sub.
+
+We handle:
+- Weekly or biweekly payroll processing for your crew, including workers' comp reporting
+- Subcontractor W-9 collection and 1099-NEC issuance at year-end
+- Worker classification review, so employees and subcontractors are categorized correctly from the start
+- Multi-jurisdiction payroll tax filings when your crews cross county or state lines
+
+As a Gusto Partner, we build payroll workflows on a platform that ties directly into your books, so labor costs land in job costing reports without double entry.
+
+<!-- block: content-split | variant: image-left | image: quarterly-tax-planning-meeting.jpg | alt: "Business owner and CFO discussing quarterly tax planning documents in an office" | query: "small business owner meeting financial advisor" -->
+## Tax strategy and quarterly planning for construction businesses
+
+Construction income doesn't arrive in even amounts. A big draw in June and a slow month in November can throw off quarterly estimated payments if nobody's watching your numbers between tax seasons. Your Client CFO builds a quarterly tax plan around your actual cash flow, adjusting estimates as jobs close and new contracts start, so April doesn't bring a bill you didn't see coming.
+
+Entity structure matters just as much. Whether you're operating as a sole proprietor, LLC, or S-corp affects self-employment tax, how you pay yourself, and how equipment purchases and depreciation flow through your return. We walk through those decisions as your revenue grows, not as a one-time setup conversation you never revisit.
+
+If the IRS ever sends a letter, our Enrolled Agents carry federal representation authority and can speak with the IRS directly on your behalf. You won't be the one on the phone trying to decode a notice.
+
+<!-- block: feature-grid | variant: 3-col -->
+## Support for multi-state contractors and growing operations
+
+Taking on jobs in a new county, or a new state, adds tax obligations most contractors don't see coming until a notice arrives. We help contractors expanding beyond Tulare County into Fresno, Kern, and Kings counties, and beyond California's border, stay ahead of registration and filing requirements instead of catching up on them.
+
+### State registration and nexus tracking
+icon: MapPin
+
+We track where your work creates a tax filing obligation and handle the registration paperwork before a project starts, not after a state sends a letter.
+
+### Multi-entity structuring
+icon: Building2
+
+Running separate entities for bonding, liability, or ownership reasons? We keep each entity's books, filings, and intercompany transactions organized and reconciled.
+
+### Consolidated reporting
+icon: FileCheck
+
+For contractors operating under more than one entity, we build consolidated reports so you see the whole business's performance, not just one piece of it.
+
+<!-- block: checklist-section | variant: with-image-right | image: remote-cpa-team-workflow.jpg | alt: "Remote accounting team collaborating over laptops on financial dashboards" | query: "remote team collaborating laptops office" -->
+## A team that works the way your job sites do
+
+Job sites don't run on a 9-to-5, and neither should your financial team. Aurora Consulting Group is fully remote and culture-driven, built to be responsive when you need an answer between site visits, not just during business hours at a downtown office.
+
+What that looks like for you:
+- Fixed monthly pricing, so a busy month with extra questions never means a surprise invoice
+- No annual contracts, you stay because the work is worth it, not because you signed a year-long agreement
+- A digital workflow built around how you already operate, from mobile receipt capture to shared dashboards
+- Direct access to your Client Service Manager, Client Controller, and Client CFO, not a rotating cast of preparers
+
+<!-- block: cta-banner | variant: image-bg | image: contractor-handshake-jobsite.jpg | alt: "Contractor shaking hands with a business advisor at a construction site" | query: "contractor handshake business meeting site" -->
+## Start building a stronger financial foundation
+
+You didn't get into contracting to spend your evenings reconciling job costs or wondering if last month's estimated payment was enough. A financial team that understands job costing, subcontractor compliance, and the rhythm of construction income can hand that back to you.
+
+Aurora Consulting Group works with contractors across Visalia, Tulare County, Kings County, Fresno County, and Kern County, building the kind of financial visibility that makes bidding, hiring, and growing feel less like guesswork.
+
+Schedule a consultation and let's talk about where your business stands today, and what it needs to land the next job, hire the next crew, or open the next market.
+
+---
+
+### Business-to-Business Service Providers
+URL: /industries/business-to-business-service-providers
+
+<!-- block: intro-text | variant: centered -->
+## Financial clarity for B2B service businesses
+
+Consultants, agencies, and professional service firms run on relationships, but the accounting behind those relationships is rarely simple. Revenue arrives in uneven bursts tied to client contracts. Overhead gets buried inside project costs. Owners often can't say, with confidence, which client engagement actually made money last quarter.
+
+Aurora Consulting Group built its Team of 3 model for exactly this kind of complexity. A Client Service Manager, Client Controller, and Client CFO work together on your books, giving you three levels of financial expertise for less than the cost of one full-time hire. For B2B service providers in Visalia, Fresno, and across Central California, that means billing gets tracked to the engagement, cash flow gets forecasted around payment cycles, and margin questions get answered instead of guessed at.
+
+<!-- block: checklist-section | variant: with-image | image: b2b-financial-challenges.jpg | alt: "Consultant reviewing client billing reports on a laptop at a desk" | query: "consultant reviewing financial reports laptop" -->
+## Common financial challenges we solve
+
+B2B service firms tend to hit the same walls as they grow, and most generic bookkeeping setups aren't built to catch them.
+
+- Billable hours and overhead expenses get lumped together, hiding which client engagements are actually profitable
+- Cash flow swings hard between invoicing cycles, especially with net-30 or net-60 client payment terms
+- Owners can't see margin by client or project without hours of manual spreadsheet work
+- Utilization rates and staff capacity aren't connected to the financial picture, making pricing decisions a guessing game
+- Multiple client contracts with different billing structures (retainer, project-based, hourly) complicate revenue recognition
+
+Each of these shows up repeatedly across the consulting, agency, and professional services engagements Aurora Consulting Group manages. The fix isn't more spreadsheets. It's a bookkeeping structure built around how service firms actually earn revenue.
+
+<!-- block: content-split | variant: image-right | image: engagement-based-accounting.jpg | alt: "Client controller organizing project ledgers and expense categories on a computer" | query: "accountant organizing project files office" -->
+## Outsourced accounting built around client engagements
+
+Generic bookkeeping treats every expense the same. Aurora Consulting Group's outsourced accounting service structures your books around engagements instead, so revenue and cost get tagged to the client or project that generated them.
+
+That structure means a professional service firm running five active client contracts can see, at a glance, which ones carry the highest margin and which are eating staff time without matching revenue. Overhead allocation happens by formula, not by feel. Reports arrive monthly through a secure digital workflow customized to your existing tools, whether that's a project management platform, a CRM, or a time-tracking system already in use.
+
+<!-- block: content-split | variant: image-left | image: b2b-advisory-coaching-session.jpg | alt: "Business owner and advisor discussing growth strategy over financial documents" | query: "business advisor coaching session office" -->
+## Advisory and coaching for scaling service firms
+
+Growing a consulting practice or agency past a founder-led stage means solving problems that a monthly close report won't surface on its own: What should the next hire cost? Is the pricing model still working at this volume? Where is utilization slipping?
+
+Aurora Consulting Group's two coaching tracks address both sides of that question. One track works through financial strategy, tying pricing, staffing costs, and cash reserves together into decisions you can actually act on. The other focuses on operational growth, covering the systems and workflows that let a firm add headcount without losing margin. Both run on a recurring meeting cadence, not a once-a-year check-in.
+
+<!-- block: content-split | variant: image-right | image: consultant-tax-planning-meeting.jpg | alt: "Tax advisor and consultant reviewing quarterly estimated payments together" | query: "tax advisor meeting with consultant" -->
+## Tax planning for consultants and professional service providers
+
+Most B2B service providers operate as pass-through entities, which means tax strategy has to happen well before April. Aurora Consulting Group's Enrolled Agents build a year-round plan around quarterly estimated payments, entity structure (LLC, S-corp, or multi-member setups), and the deduction opportunities specific to consulting, agency, and professional service work.
+
+For firms with clients or contractors in more than one state, that planning extends to multi-state filing obligations and nexus questions that generic tax prep often misses. If the IRS ever sends a letter, our Enrolled Agents carry representation authority to handle it directly, without routing you through a third party.
+
+<!-- block: feature-grid | variant: 3-col -->
+## HR, compliance, and insurance guidance as you grow
+
+Adding headcount or expanding into new states brings a set of obligations that fall outside pure accounting, but land on the owner's desk anyway. Aurora Consulting Group's Client Service Manager coordinates on these directly.
+
+### HR and payroll coordination
+icon: Users
+
+As a Gusto Partner, Aurora Consulting Group helps set up and manage payroll, benefits, and HR workflows for growing teams, including contractor 1099 tracking for firms that mix employees and freelancers.
+
+### Corporate compliance tracking
+icon: FileCheck
+
+Annual filings, registered agent requirements, and entity maintenance get tracked on a calendar so nothing lapses quietly while you're focused on client work.
+
+### Insurance guidance
+icon: ShieldCheck
+
+We help owners think through coverage gaps as revenue grows or new service lines get added, so protection keeps pace with exposure.
+
+### Multi-state and multi-entity support
+icon: Globe
+
+For firms operating across state lines or under more than one entity, we manage registration, nexus tracking, and consolidated reporting so each jurisdiction stays in compliance.
+
+<!-- block: cta-banner | variant: image-bg | image: b2b-team-consultation.jpg | alt: "Two professionals shaking hands after a consulting business meeting" | query: "business handshake consulting meeting" -->
+## Partner with a team that understands your business model
+
+B2B service firms don't need a generic bookkeeper. They need a team that already understands engagement billing, uneven cash flow, and what margin looks like on a per-client basis. Aurora Consulting Group offers that expertise through fixed monthly pricing with no annual contracts, so the arrangement stays flexible as your firm grows or changes shape.
+
+[Schedule a consultation](/contact) with a Client Service Manager, Client Controller, and Client CFO who already speak your language.
+
+---
+
+### Multi-State / Multi-Entity Businesses
+URL: /industries/multi-state-multi-entity-businesses
+
+<!-- block: intro-text | variant: centered -->
+## Growing across state lines creates accounting complexity we solve daily
+
+A second location in Nevada. A holding company in Texas. A remote hire who quietly triggers nexus in a state you've never filed in. Growth like this is good news until the compliance mail starts arriving from agencies you didn't know you owed anything to.
+
+Business owners across Tulare County, Kings County, Fresno County, Kern County, and the rest of Central California come to us the moment expansion outpaces their bookkeeping. Registration deadlines get missed. Intercompany loans go untracked. Nobody's quite sure which LLC owns which asset anymore.
+
+We built this practice around exactly that problem: entrepreneurs running multiple entities across multiple states who need someone already fluent in the mess. You don't need a lecture on nexus rules. You need a team that's already registered a business in a new state this quarter and knows which form gets filed first.
+
+<!-- block: content-split | variant: image-right | image: team-of-three-advisory-meeting.jpg | alt: "Three accounting professionals reviewing financial reports together at a table" | query: "team meeting financial advisors office" -->
+## Your team of three keeps every entity and every state in sync
+
+Every Aurora client gets a [Team of Three](/meet-the-team/your-team): a Client Service Manager who keeps communication tight, a Client Controller who owns the books for each entity, and a Client CFO who reads the consolidated picture and translates it into decisions. For less than the cost of one full-time controller, you get three specialists who talk to each other daily instead of one generalist stretched across everything.
+
+That structure matters once you're running three LLCs and an S-corp holding company. Someone needs to reconcile intercompany loans between the operating entity in Fresno and the property entity in Arizona. Someone needs to know that California's franchise tax rules don't match Nevada's. Someone needs to turn all of that into a package your bank or your board can actually read.
+
+Your Client Controller handles entity-level bookkeeping day to day. Your Client CFO builds the consolidated view and flags what's shifting quarter over quarter. Between them, your Client Service Manager makes sure nothing falls through the cracks. Building an internal finance department first isn't a prerequisite.
+
+<!-- block: checklist-section | variant: with-image-left | image: multi-entity-financial-reports.jpg | alt: "Accountant reviewing consolidated financial statements for multiple business entities" | query: "accountant reviewing financial statements office" -->
+## Multi-entity consolidation and reporting built to stay clean
+
+Running LLCs and an S-corp holding structure across state lines means intercompany transactions pile up fast: management fees between entities, shared payroll allocations, loans that need documented terms. Get the treatment wrong and you're looking at reclassified income or a blown pass-through election.
+
+We build consolidation schedules that show what your business is doing across every entity, alongside the standalone detail your CPA needs come tax season. In practice, that means:
+
+- Consolidated financial statements alongside standalone entity-level reporting
+- Intercompany transaction tracking with proper elimination entries
+- Ownership structure documentation that stays current as entities change
+- A multi-entity chart of accounts built for clean cross-entity comparison
+- Reporting packages formatted for lenders, investors, or your board
+
+<!-- block: content-split | variant: image-left | image: multi-state-tax-planning-review.jpg | alt: "Enrolled agent reviewing multi-state tax documents at a desk" | query: "tax advisor reviewing documents desk" -->
+## Multi-state tax planning and compliance handled proactively, not reactively
+
+Nexus doesn't wait for you to notice it. Hire one remote employee in Colorado, cross an economic nexus threshold in Texas, or open a warehouse in Arizona, and you've created new filing obligations whether or not anyone told you. We track where those thresholds sit for every state you touch and register your entities before a state notices for you.
+
+That includes quarterly estimated payments calculated correctly across jurisdictions, state-specific apportionment strategy, and franchise tax deadlines that rarely align with your federal calendar. Our [tax planning services](/services/tax-planning-strategy) are led by Enrolled Agents carrying IRS representation authority, which matters when a notice arrives referencing activity in a state you thought was settled two years ago.
+
+Multi-state tax planning isn't a once-a-year conversation for our clients. It's part of the same advisory meetings where we review your books, so a new hire in another state gets flagged before it becomes a compliance problem instead of after.
+
+<!-- block: feature-grid | variant: 3-col -->
+## HR, payroll, and compliance support for every state you operate in
+
+Payroll taxes work differently once you cross a state line. Withholding rules, unemployment insurance rates, paid leave mandates, and worker classification standards all shift by jurisdiction, and getting one wrong stacks penalties on top of the tax you already owe. We handle this inside your regular accounting cycle, not as a separate line item billed by the hour.
+
+### Multi-state payroll compliance
+icon: Users
+
+Withholding registrations, unemployment insurance accounts, and paid leave requirements tracked for every state where you have an employee, contractor, or remote worker.
+
+### Corporate and HR compliance
+icon: ClipboardCheck
+
+Annual report filings, registered agent updates, and HR policy gaps flagged before they become fines, especially for entities operating under different names across state lines.
+
+### Insurance and risk considerations
+icon: ShieldCheck
+
+Coordination on workers' comp, general liability, and coverage gaps that surface when a business adds employees or property in a new jurisdiction.
+
+<!-- block: checklist-section | variant: with-image-right | image: fixed-monthly-pricing-meeting.jpg | alt: "Business owner and advisor discussing fixed monthly pricing plan" | query: "business owner advisor discussing pricing" -->
+## Fixed monthly pricing that scales with your entities, not your headcount
+
+Add a state registration or a fourth entity, and your invoice shouldn't turn into a surprise. We price by fixed monthly fee, not by the hour and not by headcount, so a growing multi-entity structure doesn't quietly become a growing bill.
+
+There's no annual contract locking you in, either. If your structure changes, your plan changes with it, on 30 days' notice instead of a signed agreement you're stuck honoring.
+
+- Fixed monthly fee set for your specific entity count and state footprint
+- No annual contract or long-term lock-in
+- Pricing adjusts as you add or close entities, not after a surprise invoice
+- One predictable cost instead of hourly billing for every state filing
+
+<!-- block: cta-banner | variant: image-bg | image: multi-state-business-consultation.jpg | alt: "Business owner shaking hands with advisor after a consultation meeting" | query: "business handshake consultation office" -->
+## Let's map your multi-state structure and find what's costing you
+
+If you're running entities in more than one state and you're not entirely sure where your compliance gaps sit, that's a normal place to be. Most of our multi-entity clients started there too. Bring us your current structure, whether it's two LLCs or a holding company with subsidiaries across five states, and we'll show you what's working, what's exposed, and what it actually costs to fix.
+
+[Schedule a consultation](/contact) and let's start mapping it out.
+
+---
+
+## Services
+
+### Outsourced Accounting
+URL: /services/outsourced-accounting
+
+<!-- block: content-split | variant: image-right | image: outsourced-accounting-team.jpg | alt: "Accountant and business owner reviewing financial reports together at a desk" | query: "accountant business owner reviewing reports" -->
+## A full back office without a full-time hire
+
+Hiring one in-house bookkeeper costs more than the salary line suggests once payroll taxes, benefits, software, and training enter the picture. And one person covers one skill set, usually data entry, not financial strategy.
+
+Outsourced accounting through Aurora Consulting Group gives you a full back office: bookkeeping, reconciliations, financial reporting, and strategic guidance, without adding a line to your payroll. You get the expertise of three professionals for less than the cost of one full-time hire. That's the entire premise behind our Team of 3 model. A business past a million dollars in revenue needs more than someone entering transactions; it needs a controller catching errors before they compound and a CFO turning those numbers into decisions.
+
+Whether you run a professional practice, a growing SaaS company, or a nonprofit answering to a board, the math holds: less overhead, more oversight.
+
+<!-- block: feature-grid | variant: 3-col -->
+## Meet your team of three
+
+Every Aurora client is assigned three people, not one generalist juggling everything from data entry to tax strategy. Each role has a defined lane, and the three work together so nothing falls between them.
+
+### Client Service Manager
+icon: UserCheck
+
+Your day-to-day contact. Handles transaction coding, bill pay, invoicing, and the questions that come up between monthly close, so nothing sits unanswered in an inbox for a week.
+
+### Client Controller
+icon: FileCheck
+
+Oversees the books, reviews every reconciliation, and catches discrepancies before they become a surprise at tax time. It's the accuracy layer a single in-house hire rarely provides, since nobody audits their own work.
+
+### Client CFO
+icon: ChartLine
+
+Reads the financial statements your controller prepares and turns them into direction: pricing decisions, cash flow forecasts, entity structure questions, and the calls that shape where your business goes next.
+
+This structure is also why the model pencils out financially. You're paying for three specialized functions, priced together, for less than one full-time controller salary alone. Curious how the CFO layer works day to day? See [Advisory & Coaching](/services/advisory-coaching) for how those conversations run alongside the accounting.
+
+<!-- block: checklist-section | variant: with-image | image: bookkeeping-reconciliation-review.jpg | alt: "Two professionals reviewing bookkeeping records and financial statements on a laptop" | query: "professionals reviewing financial statements laptop" -->
+## What outsourced accounting includes
+
+The scope is built around what a professional services firm, a technology company, or a multi-entity operation actually needs each month, not a generic bookkeeping package.
+
+- Monthly bookkeeping and transaction categorization across every business account
+- Accounts payable and accounts receivable management, including vendor payments and client invoicing
+- Bank and credit card reconciliations completed on a set monthly schedule
+- Financial statement preparation: profit and loss, balance sheet, and cash flow statement
+- Monthly or quarterly reporting calls, sized to how often your business needs to talk
+- A reporting cadence built around your entity structure and industry, not a one-size template
+
+Clients in professional services, technology, and nonprofit work also lean on us for the pieces that sit next to accounting: HR questions, corporate compliance deadlines, and insurance coordination that a solo bookkeeper typically can't touch.
+
+<!-- block: content-split | variant: image-left | image: multi-state-business-documents.jpg | alt: "Business owner reviewing multi-state compliance documents and entity structure charts" | query: "business owner reviewing compliance documents" -->
+## Built for multi-state and multi-entity complexity
+
+One entity in one state is manageable with basic bookkeeping software. Three entities across California and two other states, with intercompany loans and a consolidated P&L your board wants to see, is a different problem.
+
+We track nexus and registration obligations by jurisdiction, reconcile intercompany transactions so they don't distort each entity's standalone numbers, and produce consolidated reporting that shows the whole business alongside each piece of it. This is where the Client Controller and Client CFO roles matter most: someone has to keep the entities separate on paper while still telling you how the group performs together. If this describes your operation, our [Multi-State and Multi-Entity Businesses](/industries/multi-state-multi-entity-businesses) page goes into more detail on how we structure that work.
+
+<!-- block: content-split | variant: image-right | image: secure-digital-accounting-workflow.jpg | alt: "Accountant setting up secure digital accounting software on a laptop screen" | query: "accountant using accounting software laptop" -->
+## Technology and workflows customized to how you work
+
+We don't hand every client the same software stack and call it done. Your Client Service Manager sets up a digital workflow built around the tools you already use, or recommends new ones where it makes sense, then keeps everything running through secure, encrypted channels.
+
+For clients running payroll, we work directly inside Gusto as a listed Gusto Partner, syncing payroll data with your books instead of re-entering it by hand. The result is a system specific to your business: your entities, your reporting needs, your existing software, connected in one place instead of scattered across five logins.
+
+<!-- block: content-prose -->
+## Simple, fixed pricing with no long-term contract
+
+You'll know your monthly cost before the engagement starts, and it won't move because your invoice volume had a busy quarter. That's fixed monthly pricing, set based on the actual complexity of your business, not a per-transaction meter running in the background.
+
+There's no annual contract locking you in. If the fit isn't right, you're not stuck for twelve months finding that out. Most clients stay because the Team of 3 model earns its cost back in caught errors, better cash flow visibility, and CFO-level input they weren't getting before, not because they signed something that makes leaving expensive.
+
+<!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and client shaking hands after a consultation meeting in an office" | query: "advisor client handshake office meeting" -->
+## See if outsourced accounting is the right fit
+
+Some businesses need a bookkeeper. Others need a controller. Many need both plus someone reading the numbers strategically, which is exactly what the Team of 3 model was built to solve. A short conversation is the easiest way to find out which one describes you, and whether fixed monthly pricing makes more sense than your current setup.
+
+[Schedule a consultation](/contact) with Aurora Consulting Group and we'll walk through your books, your entities, and where the gaps are.
+
+---
+
+### Advisory & Coaching
+URL: /services/advisory-coaching
+
+<!-- block: intro-text | variant: centered -->
+## Advisory that goes beyond bookkeeping for real estate investors
+
+Most real estate investors don't need another bookkeeper. They need someone asking the harder questions: should this next property go into a new LLC, is your depreciation schedule actually saving you money this year, and what happens to your cash position if a refinance falls through? Aurora Consulting Group's Advisory & Coaching service is built around those questions, not just year-end filings.
+
+Every client works with a Team of 3, a Client Service Manager, Client Controller, and Client CFO, delivering the combined expertise of three professionals for less than the cost of one full-time hire. For an investor managing several properties and entities across Central California, that structure means someone is reviewing your numbers between tax seasons, not just before them. It's advisory built for people who plan to keep growing.
+
+<!-- block: content-split | variant: image-right | image: coaching-strategy-session.jpg | alt: "Advisor and real estate investor reviewing portfolio strategy at a desk" | query: "business advisor client meeting discussion" -->
+## Two coaching tracks for financial strategy and business growth
+
+Aurora's advisory model runs on two complementary tracks. The first is financial strategy coaching, focused on tax positioning, entity structure, and reinvestment planning, the kind of decisions that determine whether a 1031 exchange or a cost segregation study actually pays off. The second is business coaching, aimed at the operational side: staffing decisions, systems, and the growth plan behind the portfolio itself.
+
+For investors confused about whether a property belongs in an LLC, an S-corp, or a straightforward personal hold, the financial strategy track brings clarity before the closing happens, not after. The business coaching track picks up from there, helping owners decide when to add a property manager, when to bring on staff, and how to reinvest profit without straining cash flow. Together, the two tracks give investors a full picture instead of a partial one.
+
+<!-- block: checklist-section | variant: with-image | image: depreciation-cost-segregation-review.jpg | alt: "Advisor reviewing property depreciation schedules with an investor client" | query: "accountant reviewing property financial documents" -->
+## Solving the challenges unique to real estate investing
+
+Real estate investors face a specific set of accounting problems that generic bookkeeping software doesn't solve. Aurora's advisory team works directly on these, including:
+
+- Depreciation schedules and cost segregation tracking maintained across every property in your portfolio, not recalculated from scratch each year
+- Entity structure guidance for LLCs, S-corps, and holding company setups, matched to how you actually plan to grow
+- Cash flow visibility across a growing portfolio, so you know which properties are carrying the group and which are draining it
+- Tax strategy built around acquisition timing, refinancing, and disposition, not just the April deadline
+
+These are the questions that come up in a real advisory meeting, not a generic year-end call. Because the Team of 3 model puts a Client CFO on your account, portfolio-level strategy gets the same attention as the day-to-day books.
+
+<!-- block: content-split | variant: image-left | image: multi-entity-portfolio-review.jpg | alt: "Advisor discussing multi-entity business structure with a client using a laptop" | query: "consultant client laptop discussion office" -->
+## Guidance for multi-state and multi-entity portfolios
+
+Investors expanding beyond California run into a different tier of complexity: state registration requirements, nexus questions, and nexus and compliance obligations that shift with every new jurisdiction. Add a second or third entity, and intercompany transactions start needing consolidated reporting that a single-entity bookkeeping setup was never built to handle.
+
+Aurora's advisory clients with multi-state and multi-entity holdings meet with their team more frequently than a typical annual check-in, because these are decisions that shouldn't wait. Your Client Controller tracks the entity-level detail, while your Client CFO looks at the consolidated picture, so registration deadlines and reporting obligations don't get discovered after the fact. If your portfolio spans Tulare, Kings, Fresno, or Kern County and beyond, that structure is designed to scale with you.
+
+<!-- block: feature-grid | variant: 3-col -->
+## Support that extends into HR, compliance, and insurance decisions
+
+Growing a portfolio brings questions that have nothing to do with taxes directly but affect the bottom line just as much. Aurora's advisory scope covers these too.
+
+### HR and staffing decisions
+icon: Users
+
+As your portfolio grows and you bring on property managers, maintenance staff, or administrative help, your advisory team helps you think through classification, payroll setup, and cost, including support through our Gusto partnership.
+
+### Corporate compliance obligations
+icon: ShieldCheck
+
+Annual filings, registered agent requirements, and entity maintenance across states are easy to miss when you're focused on the next acquisition. Your Client Service Manager keeps these on a calendar, not a guessing game.
+
+### Insurance and risk questions
+icon: FileCheck
+
+Coverage decisions carry real financial weight for investors with multiple properties. Advisory conversations include how insurance choices intersect with entity structure and liability exposure.
+
+<!-- block: process-steps | variant: vertical -->
+## What working with your advisory team looks like
+
+Here's what the relationship actually looks like once you get started.
+
+### Fixed monthly pricing, no surprises
+You'll know your cost upfront on a fixed monthly plan with no annual contract, so advisory support doesn't come with a hidden invoice at tax time.
+
+### A tech stack built around how you already work
+Your team sets up a customized technology stack and secure digital workflow suited to your properties and entities, rather than forcing you into one system.
+
+### A remote team that shows up like a local one
+Aurora operates as a fully remote, culture-driven firm, but your Team of 3 meets with you regularly enough to feel like an in-house department, not a vendor.
+
+### Ongoing strategy, not a once-a-year call
+Meetings happen on a cadence that matches your portfolio's complexity, so decisions get made before deadlines force them.
+
+<!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and real estate investor shaking hands after a consultation" | query: "business handshake office consultation" -->
+## Start building a proactive financial strategy
+
+Whether you're structuring your first LLC, adding a second state to your portfolio, or trying to get a clearer read on cash flow across multiple properties, Aurora's Team of 3 is built to handle it with you. Enrolled Agents on staff mean IRS representation is already part of the relationship, not an add-on you'll need to find elsewhere later.
+
+Schedule a consultation and see what a proactive advisory team looks like for your portfolio.
+
+---
+
+### Tax Planning & Strategy
+URL: /services/tax-planning-strategy
+
+<!-- block: content-split | variant: image-right | image: tax-planning-meeting.jpg | alt: "Client Service Manager and Client CFO reviewing tax strategy with a business owner" | query: "accountant client planning meeting office" -->
+## Proactive tax strategy instead of once-a-year filing
+
+Most tax preparers show up once a year, hand you a return, and disappear until next April. That's filing. It isn't strategy.
+
+At Aurora Consulting Group, planning starts months before year-end and keeps going after the deadline passes. Your Team of 3, a Client Service Manager, Client Controller, and Client CFO, stays on your file year-round, watching for opportunities as your business changes rather than reacting to what already happened.
+
+Quarterly estimates get built on real numbers, not guesses. Entity elections get reviewed before they cost you money, not after the return is filed.
+
+Founded in Visalia, California, we built this firm for entrepreneurs and professionals who wanted an accountant asking questions in June, not just in March. If your current preparer only calls when something's due, this is the shift you've been looking for.
+
+<!-- block: feature-grid | variant: 3-col -->
+## Strategic planning for entrepreneurs and professionals
+
+Tax planning that works for a SaaS founder doesn't work for a physician, and what works for a physician doesn't work for a nonprofit executive director. We build strategy around your entity type, income pattern, and growth stage.
+
+### Professionals and Consultants
+icon: Briefcase
+
+Attorneys, physicians, financial advisors, engineers, architects, and real estate professionals often operate as S-corporations or partnerships with income that swings by quarter. We review reasonable compensation, retirement contribution limits, and deduction timing so self-employment tax doesn't eat into a strong year.
+
+### Technology Companies
+icon: Zap
+
+From early-stage SaaS startups to established e-commerce businesses, tech companies face decisions around R&D credits, equity compensation, and multi-state sales tax exposure as they scale. Planning happens before the next funding round or product launch, not after the books close.
+
+### Nonprofit Organizations
+icon: Users
+
+Nonprofits carry their own compliance calendar, including unrelated business income tax, Form 990 filings, and donor restriction tracking. We help boards and executive directors stay ahead of filing requirements while keeping tax-exempt status intact.
+
+<!-- block: content-split | variant: image-left | image: multi-state-tax-planning.jpg | alt: "Accountant reviewing multi-state tax documents and entity charts on a laptop" | query: "accountant reviewing documents multiple states" -->
+## Navigating multi-state and multi-entity tax complexity
+
+A lot of our clients don't fit into one state or one entity anymore. A real estate investor picks up a property in Kern County and another out of state. A consulting firm hires a remote employee in Texas. A multi-entity operation in Fresno County needs consolidated reporting across three LLCs and an S-corp.
+
+Each of those moves creates a nexus question, and nexus questions create registration and filing obligations most business owners never see coming until a notice arrives. We determine where you owe, register you correctly, and build consolidated reporting that shows the full picture across entities instead of three disconnected returns.
+
+Clients across Tulare County, Kings County, Fresno County, Kern County, and Central California come to us specifically because multi-state and multi-entity structures are where generalist preparers tend to miss things. It's the kind of work that requires someone watching intercompany transactions all year, not just at filing time.
+
+<!-- block: checklist-section | variant: with-image | image: irs-representation-enrolled-agent.jpg | alt: "Enrolled Agent reviewing an IRS notice with a client at a desk" | query: "tax professional reviewing IRS letter" -->
+## IRS representation from Enrolled Agents you can trust
+
+An IRS notice in the mailbox is stressful even when you've done nothing wrong. Our Enrolled Agents hold federal authority to represent you directly before the IRS on audits, collections, and appeals, so you're not the one on the phone trying to decode agency language alone.
+
+Enrolled Agent status is granted by the IRS itself, not a state license, which means the same credential applies whether your issue starts in Visalia or spans multiple states. Here's what that representation covers:
+
+- Audit representation and response to IRS correspondence
+- Negotiating installment agreements and offers in compromise
+- Resolving back taxes and unfiled returns
+- Appeals and penalty abatement requests
+
+You get someone with legal standing to speak for you, not just someone who prepared the return.
+
+<!-- block: content-split | variant: image-right | image: integrated-tax-accounting-advisory.jpg | alt: "Client CFO and business owner reviewing integrated financial reports" | query: "financial advisor client reviewing reports" -->
+## Tax strategy connected to accounting and advisory
+
+Tax planning built on stale books is a guess. That's why our tax strategy work runs alongside [outsourced accounting](/services/outsourced-accounting) and [advisory & coaching](/services/advisory-coaching), not as a separate service you have to coordinate yourself.
+
+Your Client Controller keeps the books current, your Client CFO uses those numbers to model tax scenarios before decisions get made, and your Client Service Manager keeps everyone on the same page between meetings. When bookkeeping, forecasting, and tax strategy live in one relationship instead of three vendors, decisions happen faster and fewer things fall through the cracks.
+
+This is the kind of coordination business owners usually only get from an in-house finance department, minus the salary and benefits that come with hiring three separate people.
+
+<!-- block: process-steps | variant: vertical -->
+## What working with our tax strategy team looks like
+
+Here's what changes once you're on the calendar:
+
+### A conversation, not a questionnaire
+We start with your entity structure, income sources, and goals for the next 12 to 24 months, not a generic intake form.
+
+### A customized plan and technology stack
+Your Team of 3 builds a strategy around how your business actually runs, connected through secure digital workflows set up for your specific accounts and reporting needs.
+
+### Fixed monthly pricing, no annual contract
+You know the cost upfront, and you're not locked into a year-long agreement if the fit isn't right.
+
+### Advisory meetings on a schedule that fits your business
+Quarterly or monthly check-ins keep the plan current as your income, entity structure, or state footprint changes.
+
+If you're ready to trade once-a-year filing for a team watching your tax position all year, schedule a consultation and we'll walk through exactly where you stand.
+
+<!-- block: cta-banner | variant: image-bg | image: schedule-tax-consultation.jpg | alt: "Business owner and advisor shaking hands after a planning meeting" | query: "business owner advisor handshake meeting" -->
+## Ready for a tax strategy that works year-round
+
+Stop waiting for April to find out what you owe. Talk with a Team of 3 built to plan ahead of it, not behind it.
+
+[Schedule a consultation](/contact)
+
+---
+
+## Other
+
+### Meet Our Team | Aurora Consulting Group LLC
+URL: /meet-the-team
+
+<!-- block: content-split | variant: image-right | image: team-of-three-meeting.jpg | alt: "Three accounting professionals reviewing financial reports together at a desk" | query: "accounting team collaborating office meeting" -->
+## A team built around your business, not a single accountant
+
+Most small businesses end up with one overworked bookkeeper or a single CPA splitting attention across too many files. Aurora Consulting Group built something different. Every client gets a dedicated Team of 3: a Client Service Manager, a Client Controller, and a Client CFO.
+
+Your Client Service Manager keeps day-to-day questions answered and deadlines on track, so nothing falls through the cracks between tax season and year-end. Your Client Controller owns the accounting detail: reconciliations, reporting, and the numbers behind your numbers. Your Client CFO brings the strategic view, tax planning, cash flow forecasting, and the advisory conversations that help you decide what to do next, not just what already happened.
+
+This structure gives you three professionals' worth of expertise for less than the cost of one full-time hire. There's no single point of failure and no waiting on one person's calendar. It's a coordinated team that knows your business file as well as you do, because three people are actually looking at it.
+
+<!-- block: checklist-section | variant: with-image | image: irs-representation-review.jpg | alt: "Accountant reviewing an IRS notice letter with tax documents on desk" | query: "tax professional reviewing IRS notice" -->
+## Enrolled agents who can represent you before the IRS
+
+An IRS letter shouldn't mean scrambling to find someone who can actually speak to the agency on your behalf. Enrolled Agents on the Aurora Consulting Group team hold federal authorization to represent clients directly before the IRS, on audits, back tax matters, and multi-state notices alike.
+
+That credential matters most when things get complicated: a missed filing across two states, a residency question after a move, or an audit notice that lands in your mailbox with no warning. Instead of forwarding you to outside counsel, our EAs handle the correspondence, the documentation, and the conversation.
+
+- Direct IRS representation authority, not just tax preparation
+- Support for audits, back taxes, and penalty abatement requests
+- Multi-state notice and compliance handling for clients operating across jurisdictions
+- Proactive planning that reduces the odds of a notice in the first place
+
+<!-- block: industry-cards | variant: 3-col -->
+## Advisors who understand your industry
+
+Generic bookkeeping advice doesn't hold up against real depreciation schedules, commission-based cash flow, or multi-entity consolidations. The team spends real time inside the industries listed below, which means fewer explanations from you and faster, more useful answers from us.
+
+### Professionals and Consultants
+icon: Briefcase
+
+Legal, medical, financial, engineering, architecture, and real estate professionals get accounting built around billable hours, entity structure, and retirement planning, not a one-size template.
+
+### Technology Companies
+icon: Zap
+
+From early-stage SaaS startups to established e-commerce operations, we handle recurring revenue accounting, burn rate tracking, and the reporting investors actually want to see.
+
+### Nonprofit Organizations
+icon: Users
+
+Fund accounting, grant compliance, and board-ready financials, delivered by a team that understands the reporting nonprofits are held to.
+
+### Real Estate Investors and Brokers
+icon: Home
+
+Depreciation schedules, cost segregation tracking across multiple properties, entity structure clarity, and commission-cycle tax planning for brokers with uneven income.
+
+### Contractors
+icon: Hammer
+
+Job costing and project profitability tracking across active jobs, plus payroll and subcontractor 1099 compliance handled without the year-end scramble.
+
+### Multi-State and Multi-Entity Businesses
+icon: Globe
+
+State registration, nexus determination, and consolidated reporting for businesses operating across California and beyond.
+
+<!-- block: content-split | variant: image-left | image: remote-team-video-call.jpg | alt: "Accounting team members on a video call from home offices" | query: "remote professional team video call" -->
+## A culture of responsiveness and genuine partnership
+
+Aurora Consulting Group operates fully remote and built the culture to match: fast, direct, and human. Team members are chosen for how they communicate, not just what they know on paper. That shows up in how quickly you get an answer and how little you have to repeat yourself.
+
+We treat every engagement as an embedded extension of your business rather than an outside vendor filing paperwork once a year. Frequent advisory meetings are built into the relationship, not billed as an upsell. If your business runs across multiple states or entities and needs HR, corporate compliance, or insurance questions routed to someone who already knows your file, that's the working relationship this team is designed for.
+
+<!-- block: content-split | variant: image-right | image: visalia-central-california-office.jpg | alt: "Aerial view of Central California agricultural landscape near Visalia" | query: "Central California landscape small town" -->
+## Rooted in Central California, built for growth anywhere
+
+Aurora Consulting Group was founded in Visalia, California, and most of the client base is based across Tulare County, Kings County, Fresno County, Kern County, and the surrounding Central California region. That local footprint still shapes how the firm works: direct relationships, fast response times, and a real understanding of the agricultural, real estate, and small business economies here.
+
+The fully remote structure also means the team serves clients with operations well beyond those five counties. Multi-state and multi-entity businesses, technology companies, and professional practices outside California work with the same Team of 3 model, the same secure digital workflows, and the same fixed monthly pricing, regardless of zip code.
+
+<!-- block: testimonials | variant: grid -->
+## Trusted by business owners who value integrity and results
+
+Clients describe the team as compassionate and practical, the kind of firm that treats small business growth as a shared project rather than a transaction. Aurora Consulting Group holds a 5.0 rating on Yelp across client reviews, is a BBB Accredited Business, and is listed in the Gusto Partner Directory. The firm was also featured in Moorland Association News Survey's piece, "Aurora Consulting Group: Unlocking Business Potential."
+
+None of that replaces a conversation. If you want to know whether this team fits how your business actually runs, the fastest way to find out is to talk with us directly.
+
+<!-- block: cta-banner | variant: image-bg | image: cpa-team-handshake.jpg | alt: "CPA and business owner shaking hands after a consultation meeting" | query: "business handshake professional consultation" -->
+## Ready to meet the team handling your books
+
+Schedule a consultation and talk through your business, your entities, and what a dedicated Team of 3 could take off your plate.
+
+[Schedule a consultation](/contact)
+
+
+---
+
+### Meet Our Team | Aurora Consulting Group LLC
+URL: /meet-the-team/your-team
+
+<!-- block: content-split | variant: image-right | image: team-of-three-meeting.jpg | alt: "Three Aurora Consulting Group advisors reviewing client financials at a table" | query: "accounting team collaborating office meeting" -->
+## A team of three built around you
+
+Every client at Aurora Consulting Group gets three specialists, not one generalist stretched thin across fifty accounts. Your Client Service Manager coordinates day-to-day requests, keeps your books current, and makes sure nothing falls through the cracks between meetings. Your Client Controller reviews the financials, catches discrepancies before they become problems, and manages the accounting detail that keeps your numbers audit-ready. Your Client CFO sits above the numbers and translates them into decisions: pricing, hiring, entity structure, and the timing of a big purchase.
+
+Most businesses can't afford to hire a controller and a CFO separately, let alone both. A single senior accounting hire in California often clears six figures once payroll taxes and benefits are added in. The Team of 3 model delivers that same depth, plus a dedicated point of contact, for a fixed monthly fee that runs less than one full-time salary. Three people already understand your business before you ever have to explain it twice.
+
+<!-- block: checklist-section | variant: with-image | image: irs-representation-review.jpg | alt: "Enrolled Agent reviewing IRS correspondence with a client at a desk" | query: "tax professional reviewing IRS documents" -->
+## Enrolled Agents you can trust with the IRS
+
+When the IRS sends a notice, most bookkeepers can only tell you to call a CPA and start over. Our team includes Enrolled Agents, federally licensed to represent clients directly before the IRS. That means the person who already knows your books can also stand in front of the IRS's own agents on your behalf, without a handoff to a stranger.
+
+- Direct representation during audits, appeals, and collections, no outside referral required
+- Faster response to notices because your EA already knows your financial history
+- Authority recognized in all 50 states, useful for clients operating across state lines
+- One team from tax planning through resolution, so you never re-explain your situation
+
+<!-- block: content-split | variant: image-left | image: remote-advisory-team-call.jpg | alt: "Accounting advisor on a video call with a small business owner" | query: "remote professional video call consultation" -->
+## Advisors who become part of your business
+
+Aurora Consulting Group is built as a fully remote, culture-driven firm on purpose. Skipping the overhead of a traditional office means your fee goes toward advisory time, not rent. It also means your team is available on your schedule, not confined to one branch location in Visalia.
+
+Clients describe the relationship as tight-knit rather than transactional. Meetings happen often enough that your CFO already knows what's coming before you bring it up. Questions get answered the same week, sometimes the same day. HR questions, corporate compliance filings, insurance renewals, a new state registration: these get routed to the right person on your team instead of bouncing between departments. You end up with a financial team that behaves like it works down the hall, even when it works three counties or three states away.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Specialized experience across real estate, contracting, and multi-entity businesses
+
+Our advisory work centers on five recurring niches, alongside the professional, technology, and nonprofit sectors we prioritize for firms like architecture practices, SaaS companies, and social service organizations. Each niche below comes with its own compliance quirks, and our team has built specific workflows around them.
+
+### Real Estate Investors
+icon: Building2
+
+Depreciation schedules and cost segregation tracking across multiple properties, plus entity structure decisions between LLCs and S-corps that keep liability and tax exposure separated deal by deal.
+
+### Real Estate Brokers
+icon: Home
+
+Commission-cycle cash flow smoothing and quarterly estimated tax planning built around self-employment income that swings month to month.
+
+### Contractors
+icon: Hammer
+
+Job costing and profitability tracking across active projects, subcontractor 1099 compliance, and payroll structured around seasonal crew changes.
+
+### B2B Service Providers
+icon: Briefcase
+
+Billable-versus-overhead tracking across client engagements and cash flow planning when payment terms stretch 30, 60, or 90 days out.
+
+### Multi-State and Multi-Entity Businesses
+icon: Globe
+
+State registration, nexus determination, and consolidated reporting across jurisdictions, plus intercompany transaction tracking between related entities.
+
+<!-- block: content-split | variant: image-right | image: visalia-central-california-team.jpg | alt: "Aurora Consulting Group team members reviewing plans in a bright office" | query: "small business office California team" -->
+## Rooted in Visalia, serving Central California and beyond
+
+Aurora Consulting Group started in Visalia, California, and most of our clients are still based across Tulare, Kings, Fresno, and Kern counties. That local footing shapes how the team works: fast response times, familiarity with California filing requirements, and a real understanding of what growing a business in Central California actually looks like.
+
+Being remote from the start let that same team take on clients with operations in other states without missing a step. Multi-state and multi-entity businesses get the same Team of 3 structure, the same fixed monthly pricing, and the same Enrolled Agent representation, wherever the entities are registered.
+
+<!-- block: cta-banner | variant: image-bg | image: schedule-consultation-team.jpg | alt: "Business owner shaking hands with an accounting advisor after a meeting" | query: "business handshake advisor meeting" -->
+## Get to know your future team
+
+The best way to understand the Team of 3 model is to talk to the three people who'd be on yours. You'll meet your Client Service Manager, Client Controller, and Client CFO, walk through fixed monthly pricing with no annual contract, and see how the technology stack gets set up around your business specifically, not the other way around. [Schedule a consultation](/contact) and find out what having three specialists on call actually feels like.
+
+---
+
+### Our Mission | Aurora Consulting Group LLC
+URL: /meet-the-team/our-mission
+
+<!-- block: intro-text | variant: centered -->
+## Helping entrepreneurs build lasting businesses is why we exist
+
+Aurora Consulting Group exists to help entrepreneurs build enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching. That's not marketing language. It's the reason the firm opened its doors in Visalia, California, where small business owners needed more than a once-a-year tax preparer showing up in April. They needed a financial team that understood their goals, showed up year-round, and treated their business like it mattered. That need hasn't changed since. It's grown, especially for professionals, technology companies, and nonprofits managing more complexity than a single bookkeeper or seasonal CPA can handle. Every service Aurora offers, from outsourced accounting to <a href="/what-we-do/advisory-coaching">advisory and coaching</a>, traces back to that same starting point: help the entrepreneur in front of us build something that lasts.
+
+<!-- block: content-split | variant: image-right | image: team-of-three-planning-meeting.jpg | alt: "Client service manager, controller, and CFO reviewing financial reports together" | query: "accounting team meeting discussion office" -->
+## Building relationships that outlast a single tax season
+
+A lot of firms measure success by how fast they can close a return and move to the next client. Aurora measures it differently. The <a href="/meet-the-team/your-team">Team of 3 model</a>, a Client Service Manager, Client Controller, and Client CFO working together, exists because business owners need more than transactional service. They need a group that knows their numbers well enough to spot a problem before it becomes expensive.
+
+That structure gives clients the depth of three professionals for less than the cost of one full-time hire, and it's built for the long haul, not a single filing deadline. Meetings happen regularly, not just at tax time. Questions get answered before they turn into surprises. The relationship is the product, and the compliance work is what proves it.
+
+<!-- block: checklist-section | variant: with-image | image: cpa-reviewing-financials-client.jpg | alt: "Accountant reviewing financial statements with a small business client" | query: "accountant client review documents" -->
+## The values guiding every client interaction
+
+Values only matter if they show up in daily work, not just on a website. Here's what shapes how Aurora's team operates with every client, every month:
+
+- Integrity in financial data, because decisions are only as good as the numbers behind them
+- High standards for the value delivered, matching the standards clients hold for their own customers
+- Proactive problem solving instead of waiting for a client to call with bad news
+- Responsiveness, with a team that answers questions in days, not weeks
+- Enrolled Agents on staff, giving clients direct IRS representation authority when it matters most
+
+These aren't aspirational bullet points. They're the standard clients across Tulare, Kings, Fresno, and Kern Counties have come to expect.
+
+<!-- block: content-split | variant: image-left | image: remote-team-video-call.jpg | alt: "Remote accounting team members on a video call working together" | query: "remote team video call collaboration" -->
+## A culture that feels like an extension of your team
+
+Aurora runs fully remote, and that's intentional. A distributed, culture-driven team means the firm hires the right advisor for the client, not just the closest one to the office. It also means the team avoids the stiff, hierarchical feel of a larger corporate firm.
+
+Clients notice the difference in small ways: a call that starts with an actual conversation, a response that sounds like a person wrote it, a team that remembers the context from last quarter without being reminded. Secure digital workflows and a technology stack built around each client's needs make the remote model work without sacrificing security or speed. The goal isn't to feel like a vendor. It's to feel like the financial department a growing business hasn't built yet.
+
+<!-- block: feature-grid | variant: 3-col -->
+## Living our mission with professionals, tech companies, and nonprofits
+
+### Professionals and Consultants
+icon: Briefcase
+
+Attorneys, physicians, engineers, and financial advisors carry compliance burdens their peers rarely see: licensing costs, liability structuring, and entity decisions that affect both taxes and personal risk. Advisory support means those decisions get made with a full picture, not guesswork.
+
+### Technology Companies
+icon: Zap
+
+From early-stage SaaS startups to established e-commerce operations, tech companies need accounting that keeps pace with fast growth, investor reporting, and multi-state sales tax questions that traditional bookkeeping wasn't built to handle.
+
+### Nonprofit Organizations
+icon: HeartPulse
+
+Nonprofits answer to boards, grantors, and the communities they serve. Meticulous accounting and transparent reporting aren't optional here. They're the foundation of trust the mission depends on.
+
+<!-- block: cta-banner | variant: image-bg | image: entrepreneur-advisory-handshake.jpg | alt: "CPA advisor shaking hands with a business owner in a bright office" | query: "business handshake advisor office meeting" -->
+## Where we're headed as your long-term advisory partner
+
+Growth for Aurora doesn't mean adding thousands of clients. It means going deeper with the ones already trusted, especially <a href="/industries/multi-state-multi-entity-businesses">multi-state and multi-entity businesses</a> juggling nexus rules, intercompany transactions, and HR compliance across jurisdictions. That's where embedded advisory work matters most, and it's where the firm intends to keep building.
+
+If a business has outgrown a bookkeeper who only shows up in April, or a big firm that treats it like a file number, it's worth a conversation. Schedule a consultation with Aurora Consulting Group and find out what a real advisory relationship feels like.
+
+---
+
+### How We Serve | Aurora Consulting Group LLC
+URL: /meet-the-team/how-we-serve
+
+<!-- block: team-grid | variant: 2-col -->
+## Your dedicated team of three
+
+Most firms hand you one contact and hope for the best. Aurora Consulting Group builds a Team of Three around every client: a Client Service Manager, a Client Controller, and a Client CFO. Each role covers a distinct layer of your financial operation, from day-to-day questions to long-range strategy, so nothing falls through the cracks between bookkeeping and the boardroom.
+
+For less than the cost of one full-time accounting hire, you get three specialists working in concert. That's the model professionals, technology companies, and nonprofits across Visalia, Tulare County, and the wider Central Valley rely on when they've outgrown a single bookkeeper but aren't ready to build a finance department.
+
+### Client Service Manager
+Your first point of contact and the person who keeps communication moving. They coordinate deadlines, answer day-to-day questions, and make sure requests don't sit in an inbox.
+
+### Client Controller
+Owns the accuracy of your books: reconciliations, financial statements, and the details that make your numbers reliable enough to act on.
+
+### Client CFO
+Brings the strategic view, translating your financials into decisions about pricing, hiring, entity structure, and growth.
+
+<!-- block: content-split | variant: image-right | image: advisory-meeting-cfo.jpg | alt: "Client CFO and business owner reviewing financial strategy at a table" | query: "advisor client meeting discussion office" -->
+## A relationship built on advisory, not just entries
+
+Compliance work tells you what happened. Advisory work helps you decide what happens next. Aurora Consulting Group builds every client relationship around the second half of that sentence.
+
+Instead of a single annual meeting before tax season, you'll sit down with your Client CFO on a recurring schedule, reviewing margins, cash flow, and upcoming decisions while there's still time to act on them. We ask the questions a business owner is often too close to ask themselves: should this hire wait a quarter, is this the year to elect S-corp status, does this contract change your estimated tax payments.
+
+That rhythm is what separates an embedded advisory partner from a firm that only shows up when a form is due. Entrepreneurs across Tulare, Kings, Fresno, and Kern counties use these conversations to plan the next twelve months, not just close out the last one.
+
+<!-- block: checklist-section | variant: with-image | image: hr-compliance-support.jpg | alt: "Team member reviewing HR and compliance documents with a client" | query: "business owner reviewing documents office" -->
+## Support beyond the numbers
+
+Growing a business means more than clean books. Payroll questions, contractor classifications, business insurance renewals, and state filings tend to land on a business owner's desk right alongside the numbers, and most of them can't wait for a slow response.
+
+Aurora Consulting Group's Team of Three helps coordinate the pieces around your accounting, not just the accounting itself:
+
+- HR guidance, including payroll setup and compliance support through our partnership with Gusto
+- Corporate compliance tracking, from registered agent renewals to annual state filings
+- Insurance coordination, flagging gaps before a claim or audit exposes them
+- 1099 and contractor classification support for teams that mix employees and subcontractors
+- IRS representation from Enrolled Agents when a notice or audit shows up in the mail
+
+None of this replaces a dedicated HR or legal team once you're large enough to need one. It does mean fewer surprises while you're growing into that size.
+
+<!-- block: content-split | variant: image-left | image: multi-entity-reporting.jpg | alt: "Accountant reviewing consolidated financial reports for multiple business entities" | query: "accountant reviewing reports multiple documents" -->
+## Built for multi-state and multi-entity complexity
+
+California businesses that grow past one county rarely stay simple. A second entity, a second state registration, or a client base that spans Visalia and Sacramento each add a layer of compliance most in-house bookkeepers weren't built to track.
+
+Aurora Consulting Group works with multi-state and multi-entity businesses across Central California, handling nexus questions, intercompany transactions, and consolidated reporting so ownership sees one clear financial picture instead of five disconnected sets of books. Your Client Controller tracks the mechanics; your Client CFO connects them to the bigger decision, like whether a new entity actually makes sense before you file the paperwork.
+
+This is where the Team of Three model earns its keep. A single generalist bookkeeper can maintain one entity's books. Keeping multiple entities, multiple states, and multiple filing deadlines aligned takes three people paying attention to three different layers of the business.
+
+<!-- block: content-split | variant: image-right | image: custom-tech-workflow.jpg | alt: "Team member setting up digital accounting workflow on a laptop" | query: "accountant using laptop software office" -->
+## Technology and workflows tailored to you
+
+No two clients run on the same software, so Aurora Consulting Group doesn't force one. We build a technology stack around the systems you already use, whether that's Gusto for payroll, a point-of-sale platform for a retail client, or project software for a contractor tracking job costs.
+
+Every client gets a secure digital workflow for sharing documents, approving payroll, and reviewing financials, built so information moves without a stack of email attachments or a shared drive nobody can find. As a Gusto Partner, we set up payroll integrations that sync directly with your books rather than requiring a manual re-entry every pay period.
+
+The result is a system that fits how your business already operates, not one that asks you to change how you work to fit ours.
+
+<!-- block: checklist-section | variant: standalone -->
+## Fixed pricing, no surprises
+
+Hourly billing creates an incentive to work slowly and a habit of dreading the invoice. Aurora Consulting Group prices every engagement as a fixed monthly fee, agreed on before work begins.
+
+- One flat monthly rate covering your Team of Three, not a running meter
+- No annual contract locking you into a service that no longer fits
+- Pricing scaled to the complexity of your business, not padded for unpredictability
+- Clear scope set upfront, so a phone call doesn't turn into a surprise line item
+
+You'll know the cost of working with us before you sign anything, and you're free to leave if the fit changes. That's the kind of transparency we'd want from an advisor of our own.
+
+<!-- block: cta-banner | variant: image-bg | image: team-consultation-cta.jpg | alt: "Advisory team shaking hands with client after consultation meeting" | query: "business handshake consultation meeting" -->
+## Ready to add a team, not just an accountant
+
+You've read how the Team of Three model works. The next step is finding out what it looks like applied to your business, whether that's a second entity in another state, a payroll system that needs cleaning up, or a set of books nobody has trusted in months.
+
+[Schedule a consultation](/contact) and talk with a real person about what's actually going on in your business, not a script.
+
+---
+
+### Careers | Aurora Consulting Group LLC
+URL: /meet-the-team/careers
+
+<!-- block: content-split | variant: image-right | image: remote-cpa-team-meeting.jpg | alt: "Remote accounting team members collaborating on a video call" | query: "remote team video call professional" -->
+## Why build your career with our team
+
+Most accounting jobs ask you to process transactions and move on. At Aurora Consulting Group, the work is different because the relationship is different. We built a Team of 3 model, pairing a Client Service Manager, Client Controller, and Client CFO around every client, so the people doing the work actually understand the business behind the numbers.
+
+If you're tired of compliance-only checklists and want to be part of strategic conversations, this is a place where that happens weekly, not once a year at tax time. Founded in Visalia, California, we work with entrepreneurs, professionals, and multi-entity businesses across Tulare, Kings, Fresno, and Kern counties who expect proactive answers, not year-end surprises.
+
+<!-- block: content-split | variant: image-left | image: remote-workspace-accountant.jpg | alt: "Accountant working from a home office desk with laptop and notebook" | query: "home office professional working laptop" -->
+## What it's like to work here
+
+The firm runs fully remote, with a culture-driven team that stays connected through structured check-ins rather than open floor plans. You'll work inside the Client Service Manager, Client Controller, and Client CFO structure, which means clear ownership of your role and daily visibility into how your work fits the bigger picture for each client.
+
+There's no corporate script here. Conversations with clients and coworkers are direct, and feedback moves fast because the team is small enough that everyone knows the accounts they touch. Clients get fixed monthly pricing and no annual contracts, so the team's focus stays on delivering value, not defending a scope-of-work document. That accountability shapes how the whole team operates, including how new hires are trained and supported.
+
+<!-- block: feature-grid | variant: 3-col -->
+## Roles we're building toward
+
+As Aurora grows its base of multi-state and multi-entity clients, we're adding capacity across all three service lines: outsourced accounting, advisory and coaching, and tax planning and strategy.
+
+### Client Controller track
+icon: Calculator
+
+Hands-on bookkeeping and financial statement review for clients across real estate, professional services, and technology sectors. Strong candidates bring QuickBooks or similar platform experience and comfort managing multiple client books at once.
+
+### Client CFO track
+icon: ChartLine
+
+Strategic advisory work: cash flow forecasting, budgeting, and the kind of forward-looking analysis that turns a bookkeeping relationship into a growth partnership. Ideal for candidates who want client-facing advisory responsibility, not just data entry.
+
+### Enrolled Agent and tax strategist track
+icon: ShieldCheck
+
+Year-round tax planning and IRS representation for entrepreneurs and multi-entity businesses. Enrolled Agent credentials or active pursuit of EA status is a strong fit here, especially for candidates interested in multi-state compliance work.
+
+### Client Service Manager track
+icon: Users
+
+The relationship hub for each client account, coordinating between the Controller and CFO roles while managing communication, deadlines, and onboarding for new engagements across our California client base.
+
+<!-- block: checklist-section | variant: with-image | image: accountant-reviewing-client-documents.jpg | alt: "Accounting professional reviewing financial documents with focused attention" | query: "accountant reviewing documents desk" -->
+## Who thrives on our team
+
+The candidates who do well here share a few traits, regardless of which track they join.
+
+- Comfortable building relationships with business owners, not just processing their transactions
+- Detail-oriented enough to catch a depreciation schedule error or a misclassified 1099 before it becomes a problem
+- Curious about the businesses behind the numbers, whether that's a real estate investor with cost segregation questions or a SaaS founder tracking multi-state nexus
+- Comfortable in a remote setting with structured communication instead of hallway check-ins
+- Interested in serving professionals and consultants, nonprofits, contractors, and technology companies, since that's where most of our client base sits
+
+<!-- block: content-split | variant: image-right | image: cpa-studying-certification.jpg | alt: "Professional studying materials for an accounting certification exam" | query: "professional studying certification exam" -->
+## Growth and development opportunities
+
+We treat credentials as career investments, not checkboxes. Team members pursuing Enrolled Agent status gain IRS representation authority, which opens direct client-facing tax work that larger firms often reserve for partners. Others build depth in advisory and coaching, developing the skills to run strategic planning sessions rather than just deliver reports.
+
+Multi-state and multi-entity work is where the firm is growing fastest, so team members who develop expertise in state nexus rules, intercompany transactions, and consolidated reporting find themselves handling increasingly complex client relationships. Technology fluency matters too: each client runs on a customized stack, and comfort learning new platforms translates directly into career advancement.
+
+<!-- block: cta-banner | variant: image-bg | image: team-collaboration-office-remote.jpg | alt: "Accounting professionals collaborating remotely on client advisory work" | query: "professionals collaborating remote work discussion" -->
+## How to apply
+
+If this sounds like the kind of accounting career you've been looking for, we want to hear from you. Send your resume and a short note about which track interests you, whether that's Client Controller, Client CFO, or the Enrolled Agent path.
+
+We respond personally, not with an automated rejection email three weeks later. If you're a business owner reading this instead of a job seeker, the same responsiveness applies to you. Schedule a consultation to see how the Team of 3 model works for your business.
+
+---
+
+### Outsourced Accounting Solutions | Aurora Consulting Group LLC
+URL: /what-we-do
+
+<!-- block: content-split | variant: image-right | image: team-of-three-accounting.jpg | alt: "Client Controller and Client CFO reviewing financial reports with a business owner" | query: "accounting team meeting business owner" -->
+## A full-service accounting team without the full-time hire
+
+Running a growing business means the books can't wait, but hiring a full accounting department isn't realistic for most owners. Aurora Consulting Group built its outsourced accounting service around a simple idea: give clients three specialists for less than the cost of one full-time hire.
+
+Every client gets a [Team of 3](/meet-the-team/your-team): a Client Service Manager who handles day-to-day communication and deadlines, a Client Controller who manages the accounting detail, and a Client CFO who brings strategic financial guidance to the table. That structure means you're never waiting on one overworked bookkeeper or guessing who to call with a question.
+
+Founded in Visalia, California, Aurora works with entrepreneurs, professionals, technology companies, and nonprofits across Tulare, Kings, Fresno, and Kern counties who want a financial team that acts like part of the business, not an outside vendor. The Team of 3 model replaces the guesswork of hiring with a structured, accountable partnership.
+
+<!-- block: checklist-section | variant: with-image | image: monthly-financial-reporting.jpg | alt: "Bookkeeper reconciling accounts and preparing monthly financial statements" | query: "bookkeeper reconciling accounts financial statements" -->
+## What our outsourced accounting service includes
+
+Full-service bookkeeping and back-office accounting cover the transactional work that keeps a business financially sound, without pulling you away from the work only you can do.
+
+- Day-to-day transaction management and bank and credit card reconciliations
+- Monthly financial statements delivered on a consistent schedule
+- Accounts payable and receivable tracking
+- Payroll processing coordination and support
+- Custom reporting built around the metrics that matter to your business
+- A recurring cadence of check-ins so nothing sits unresolved
+
+When the books close on time every month, you get real financial statements to make decisions from, not a shoebox of receipts sorted once a year. That's the standard the Client Controller and Client CFO hold every engagement to.
+
+<!-- block: content-split | variant: image-left | image: secure-digital-accounting-workflow.jpg | alt: "Accountant working on a secure digital accounting dashboard on a laptop" | query: "accountant laptop digital dashboard workflow" -->
+## Technology and workflows tailored to your business
+
+Every business runs on different software, and forcing a client into one fixed system rarely works. Aurora builds a technology stack around what you already use, then layers in secure digital workflows for document sharing, approvals, and reporting.
+
+As a Gusto Partner, Aurora connects payroll data directly into your accounting workflow, cutting down on manual entry and the errors that come with it. Bank feeds, receipt capture, and reporting dashboards get configured to match how you already operate, not the other way around. The result is a system built around your business, updated as it grows, and secured with the same standards Aurora applies to its own client data.
+
+<!-- block: feature-grid | variant: 3-col -->
+## HR, compliance, and insurance guidance as you grow
+
+Growing past a handful of employees brings problems that have nothing to do with debits and credits. Multi-entity clients in particular run into HR questions, compliance deadlines, and insurance gaps that a transactional bookkeeper won't flag. Aurora's Client CFOs raise these issues in [advisory sessions](/what-we-do/advisory-coaching) before they become expensive.
+
+### HR support
+icon: Users
+
+From onboarding paperwork to classification questions between employees and 1099 contractors, the team helps you stay compliant as headcount grows.
+
+### Corporate compliance
+icon: FileCheck
+
+Annual filings, registered agent requirements, and entity maintenance across states get tracked so deadlines don't slip.
+
+### Insurance guidance
+icon: ShieldCheck
+
+Coverage gaps show up fast in growing or multi-entity businesses. Aurora flags where a policy review is overdue.
+
+<!-- block: content-split | variant: image-right | image: multi-entity-business-reporting.jpg | alt: "Client CFO reviewing consolidated financial reports for a multi-entity business" | query: "financial consultant reviewing multiple reports" -->
+## Built for multi-state and multi-entity complexity
+
+Businesses operating in more than one state, or running multiple entities under one ownership group, face a different level of complexity: state registration requirements, nexus questions, and consolidated reporting that a single-state bookkeeper isn't built to handle.
+
+Aurora's Client Controllers and Client CFOs work directly with [multi-state and multi-entity businesses](/industries/multi-state-multi-entity-businesses) across California, including clients based in Visalia, Tulare County, Kings County, Fresno County, and Kern County who have expanded operations into other states. That means tracking where you owe tax, reconciling intercompany transactions between related entities, and producing consolidated reporting that reflects the whole business, not just one piece of it.
+
+This is the kind of work that benefits from frequent advisory meetings rather than a once-a-year phone call. Aurora structures its engagement around that reality, checking in regularly enough to catch a registration deadline or a nexus threshold before it becomes a compliance problem.
+
+<!-- block: content-prose -->
+## Simple, predictable pricing with no long-term contract
+
+Outsourced accounting pricing at Aurora is fixed and monthly. You know the cost before the engagement starts, and it doesn't change because of a slow month or a busy one.
+
+There's no annual contract locking you in. If the fit isn't right, either side can end the engagement without penalty. That structure exists because Aurora would rather earn the relationship every month than rely on a signature from a year ago.
+
+Compare that to hourly billing that punishes you for asking questions, or a bundled contract that locks you into services you don't need yet. Fixed monthly pricing keeps budgeting straightforward, and it keeps the Team of 3 accountable to deliver value, not just renew a contract.
+
+<!-- block: cta-banner | variant: image-bg | image: schedule-consultation-cpa.jpg | alt: "Business owner shaking hands with an accounting advisor after a consultation" | query: "business owner advisor handshake meeting" -->
+## See if outsourced accounting is the right fit for your business
+
+Whether you're a professional running a growing practice, a technology company scaling past its first hires, a nonprofit managing grant compliance, or a multi-entity business spread across state lines, the right accounting partner should already understand the shape of your problem.
+
+Aurora Consulting Group works with entrepreneurs and business owners across Visalia, Tulare County, Kings County, Fresno County, Kern County, and Central California who want a financial team that acts like an extension of their own. [Schedule a consultation](/contact) to talk through where your business stands and whether the Team of 3 model fits how you operate.
+
+---
+
+### Bookkeeping, Tax & QuickBooks Experts | Aurora Consulting Group
+URL: /what-we-do/outsourced-accounting
+
+<!-- block: content-split | variant: image-right | image: outsourced-accounting-team-review.jpg | alt: "Accountant and business owner reviewing bookkeeping reports at a desk" | query: "accountant business owner reviewing financial reports" -->
+## Accounting support built for owners who'd rather run their business
+
+Running a business in Visalia, or anywhere across Tulare, Kings, Fresno, or Kern County, means your attention belongs with customers, not with categorizing expenses in QuickBooks at 11pm. Aurora Consulting Group's outsourced accounting service handles the books so you can handle the business.
+
+Full bookkeeping, reconciliations, and reporting arrive on a schedule you can plan around, delivered by people who treat your numbers like their own. This isn't a call center reading from a script. It's a small, culture-driven group of accountants who work remotely and stay close to your business year-round, month after month.
+
+Your team for tax and accounting, and a whole lot more, starts here.
+
+<!-- block: feature-grid | variant: 3-col -->
+## Meet your team of three financial experts
+
+Most outsourced bookkeeping arrangements hand you a single generalist and hope for the best. Aurora structures every engagement around three specialists, each with a distinct role, so nothing falls through the cracks between bookkeeping, strategy, and communication.
+
+### Client Service Manager
+icon: UserCheck
+
+Your main point of contact, coordinating deadlines, questions, and day-to-day communication so you're never chasing down an answer.
+
+### Client Controller
+icon: FileCheck
+
+Oversees the books, reconciliations, and monthly financial reporting, catching discrepancies before they become real problems.
+
+### Client CFO
+icon: ChartLine
+
+Brings strategic insight to cash flow, budgeting, and growth decisions, the kind of guidance usually reserved for a full-time hire.
+
+Together, that's the expertise of three professionals for less than the cost of one full-time employee.
+
+<!-- block: checklist-section | variant: with-image | image: quickbooks-reconciliation-workflow.jpg | alt: "Bookkeeper reconciling accounts on a laptop using QuickBooks software" | query: "bookkeeper working laptop quickbooks accounting" -->
+## What's included in your bookkeeping and accounting plan
+
+Every plan starts with the fundamentals done right, then builds out based on how your business actually operates.
+
+- Daily and monthly bookkeeping, categorized and reconciled against your bank and credit card statements
+- Financial statement preparation, including profit and loss, balance sheet, and cash flow reports
+- Payroll coordination through Gusto, keeping wages, tax deposits, and filings on schedule, backed by Aurora's status as a listed Gusto Partner
+- QuickBooks setup, cleanup, and ongoing management, built around your existing workflow rather than forcing a switch
+- Secure digital document exchange and reporting, so sensitive financial data never travels by unsecured email
+- A technology stack chosen for your business, not a one-size-fits-all system applied to every client the same way
+
+Each piece connects back to your Client Controller, who reviews the numbers before they ever reach you.
+
+<!-- block: content-split | variant: image-left | image: tax-planning-enrolled-agent-consultation.jpg | alt: "Enrolled Agent reviewing tax planning documents with a client" | query: "tax advisor reviewing documents with client" -->
+## Tax planning and IRS representation from Enrolled Agents
+
+Tax prep once a year tells you what already happened. Aurora builds tax strategy into the accounting relationship year-round, adjusting as your income, entity structure, or expenses shift.
+
+Enrolled Agent status carries IRS representation authority. If a notice arrives, an audit gets scheduled, or a collections issue needs resolving, your Client CFO or Client Controller can speak to the IRS directly on your behalf, not just help you draft a response and hope for the best.
+
+For owners across Visalia and Central California managing multiple entities or multi-state operations, that combination of proactive planning and representation authority closes a gap that bookkeeping-only services tend to leave open. It's why tax planning and accounting live under one roof at Aurora instead of two separate vendors.
+
+<!-- block: feature-grid | variant: 3-col -->
+## HR, compliance, and multi-entity support built into the relationship
+
+The professionals, technology companies, and nonprofits Aurora works with often need more than bookkeeping. Multi-state and multi-entity operations bring HR questions, compliance deadlines, and insurance decisions that don't wait for tax season to get addressed.
+
+### HR and payroll compliance
+icon: Users
+
+Guidance on payroll setup, worker classification, and multi-state withholding, coordinated through your Client Service Manager and the Gusto integration already built into your plan.
+
+### Corporate compliance and entity coordination
+icon: Building2
+
+Registered agent deadlines, annual filings, and intercompany transactions tracked across every state and entity your business operates in, consolidated into one clear picture.
+
+### Insurance and risk guidance
+icon: ShieldCheck
+
+Practical input on coverage gaps and risk exposure as your business adds employees, locations, or entities, flagged before they become expensive surprises.
+
+<!-- block: content-prose -->
+## Simple, fixed monthly pricing with no surprises
+
+Aurora charges one flat monthly fee, agreed on before work begins, based on the complexity of your business rather than hours logged. No annual contract locks you in, and no surprise invoice shows up after a busy quarter.
+
+Pricing scales with real factors: number of entities, transaction volume, payroll headcount, and how many states you operate in. A single-entity consulting practice in Visalia pays differently than a multi-entity nonprofit with locations across Tulare and Kings County, and both know their number before day one.
+
+If your needs change, your plan changes with them, discussed openly at your next advisory meeting rather than buried in fine print months later.
+
+<!-- block: cta-banner | variant: image-bg | image: business-owner-consultation-handshake.jpg | alt: "Business owner and advisor shaking hands after a consultation meeting" | query: "business owner advisor handshake meeting" -->
+## See if we're the right fit for your business
+
+Every engagement starts with a conversation about how your business actually runs, not a generic sales pitch. Bring your questions about entities, states, payroll, or that QuickBooks file nobody's touched since March.
+
+Schedule a consultation and find out what a Client Service Manager, Client Controller, and Client CFO could do for your books this month.
+
+---
+
+### Business Coaching Services | Aurora Consulting Group LLC
+URL: /what-we-do/advisory-coaching
+
+<!-- block: intro-text | variant: centered -->
+## Coaching that's part of your Team of 3, not an add-on
+
+Advisory and coaching at Aurora Consulting Group isn't a line item tacked onto your monthly invoice. It's built into the Team of 3 model you already have: your Client Service Manager, Client Controller, and Client CFO. Once your books are accurate and your taxes are planned, a different question shows up. What do you do with this information? That's the gap coaching fills.
+
+We run two coaching tracks side by side, one focused on the financial mechanics of growing a business, the other on the person running it. Entrepreneurs across Visalia, Tulare County, and Central California come back to this pairing because spreadsheets alone don't build a business, and neither does motivation alone. You need both, delivered by people who already know your numbers.
+
+<!-- block: content-split | variant: image-right | image: coaching-strategy-session.jpg | alt: "Client CFO and business owner reviewing financial strategy on a laptop" | query: "business coaching session laptop meeting" -->
+## Two tracks of support, built around how your business grows
+
+The financial strategy track is led by your Client CFO and centers on the decisions that move revenue: cash flow forecasting, pricing, KPI tracking, and the timing question every growing business faces, which is when to hire, when to invest, and when to wait. This isn't a quarterly review buried in a slide deck. It's a working relationship where your CFO already knows your numbers and can talk through a decision the week it comes up, not the month after.
+
+The second track is personal and leadership coaching, built for the entrepreneur, not just the entity. Delegation, mindset under pressure, work-life balance, and career pathing for a growing team all belong here. A contractor scaling from one crew to three faces different leadership questions than a solo consultant hiring a first employee, and this track flexes to fit either. Most clients use both tracks. Some lean harder on one for a season and shift as priorities change.
+
+<!-- block: checklist-section | variant: with-image | image: hr-compliance-coaching.jpg | alt: "Advisor discussing HR compliance documents with a business owner" | query: "advisor discussing documents office" -->
+## Guidance for the decisions accounting alone can't answer
+
+A clean set of books tells you what happened. It doesn't tell you whether to classify your next hire as a W-2 employee or a 1099 contractor, or whether your business insurance actually covers the risk you're carrying now that you have five employees instead of two. These are the questions that land on an entrepreneur's desk with no obvious place to send them, and they're exactly where our coaching sessions earn their keep.
+
+- HR decisions: hiring timelines, contractor vs. employee classification, and compensation structure as headcount grows
+- Corporate compliance: entity maintenance, registered agent requirements, and multi-state registration obligations
+- Insurance gaps: coverage reviews tied to revenue growth, new locations, or added risk exposure
+- Workforce planning: career pathing and org structure as a five-person team becomes a fifteen-person team
+
+<!-- block: industry-cards | variant: 3-col -->
+## Built for professionals, tech companies, and nonprofits navigating growth
+
+### Professionals and Consultants
+icon: Briefcase
+
+Legal, medical, financial, engineering, and real estate professionals need coaching that respects billable-hour economics. We help you separate overhead from client-facing costs and plan around income that swings with caseload or project volume.
+
+### Technology Companies
+icon: Lightbulb
+
+From early-stage SaaS startups to established e-commerce operations, tech clients need coaching that keeps pace with fundraising rounds, burn rate, and recurring revenue metrics that traditional accounting reports don't surface on their own.
+
+### Nonprofit Organizations
+icon: HeartPulse
+
+Boards ask different questions than shareholders do. Coaching sessions for nonprofit clients focus on grant compliance, program versus administrative cost allocation, and the board reporting that keeps funders confident.
+
+### Multi-State and Multi-Entity Businesses
+icon: Building2
+
+Once a business operates across California county lines or holds multiple entities, nexus and intercompany transactions get complicated fast. Frequent advisory meetings, not an annual check-in, are what keep these structures compliant and coordinated.
+
+<!-- block: process-steps | variant: vertical -->
+## What working with your Client CFO looks like
+
+### Onboarding and strategy mapping
+We start by mapping your current entity structure, cash flow patterns, and the decisions you're facing over the next twelve months. Your Client CFO builds the coaching agenda around what's actually on your plate.
+
+### Monthly advisory meetings
+Most clients meet monthly, not annually. That cadence is what catches a pricing problem or a compliance deadline while there's still time to act on it.
+
+### Quarterly deep dives
+Four times a year, we step back from the month-to-month and look at KPIs, tax positioning, and whether your entity structure still fits your growth stage.
+
+### Direct access between meetings
+Questions don't wait for a scheduled call. You reach your Team of 3 directly, and pricing stays fixed each month with no annual contract locking you in.
+
+<!-- block: cta-banner | variant: image-bg | image: business-owner-planning-future.jpg | alt: "Business owner and advisor shaking hands after a planning meeting" | query: "business owner advisor handshake meeting" -->
+## Start with a conversation about where your business is headed
+
+Aurora Consulting Group started in Visalia, California, with a simple idea: entrepreneurs do better when they have a real team behind them, not a stack of software and a once-a-year phone call. If you're weighing a hire, an entity change, or just want someone who already knows your numbers to talk it through with, that's the conversation to have first.
+
+[Schedule a consultation](/contact)
+
+---
+
+### Tax Planning & Preparation Services | Aurora Consulting Group
+URL: /what-we-do/tax-planning
+
+<!-- block: intro-text | variant: centered -->
+## Proactive tax planning that goes beyond filing season
+
+Most tax preparers show up once a year, run the numbers, and send an invoice. That works fine for a hobby, but it leaves real money on the table for entrepreneurs building something bigger. Aurora Consulting Group treats tax planning as a year-round conversation, not a spring deadline.
+
+We meet with clients throughout the year to model quarterly estimates, entity elections, and timing decisions before they get locked into a return. A contractor deciding whether to buy equipment in December or January. A consultant weighing an S-corp election against staying a sole proprietor. A tech founder tracking R&D expenses as they happen instead of reconstructing them in April. Each decision compounds, and catching it early is the difference between a strategy and a surprise.
+
+Based in Visalia, California, our team works with business owners across Tulare, Kings, Fresno, and Kern counties who want a tax approach that keeps pace with how their business actually runs, not just how the calendar says it should be filed.
+
+<!-- block: content-split | variant: image-right | image: team-of-three-tax-strategy.jpg | alt: "Three accounting professionals reviewing tax strategy documents at a conference table" | query: "accounting team planning meeting office" -->
+## Personalized strategy from your Team of 3
+
+Tax strategy sharpens when more than one perspective is in the room. Every Aurora client is supported by a Client Service Manager, a Client Controller, and a Client CFO, three professionals who bring distinct expertise to the same strategy session instead of routing you through a single overworked preparer.
+
+Your Client Service Manager keeps communication tight and deadlines visible. Your Client Controller makes sure the underlying books are clean enough to plan from, because tax strategy built on messy data is just guesswork. Your Client CFO connects the tax picture to your broader business goals: growth financing, owner compensation, multi-entity structuring, retirement contributions.
+
+Clients get the combined judgment of three specialists for less than the cost of one in-house hire. That structure is why the same team filing your return in April is often the one flagging a planning opportunity in September.
+
+<!-- block: checklist-section | variant: with-image | image: enrolled-agent-irs-representation.jpg | alt: "Enrolled Agent reviewing an IRS notice with a client in an office" | query: "tax advisor reviewing documents client" -->
+## IRS representation from Enrolled Agents you can trust
+
+A letter from the IRS rarely arrives at a convenient time, and most bookkeepers can't do much once it does. Aurora's tax team includes Enrolled Agents, federally licensed to represent clients before the IRS on any tax matter, in any state, without restriction. That authority matters when a notice, audit, or collections case lands on your desk.
+
+Enrolled Agent status is granted directly by the IRS after passing a rigorous three-part exam covering individual and business tax law, or through prior IRS service. It carries the same representation authority held by attorneys and CPAs, meaning we speak for you directly instead of handing you a script to read to an examiner.
+
+Here's where that authority gets used most often:
+
+- Responding to IRS notices and information requests before deadlines pass
+- Representing clients through federal audits, from initial inquiry to resolution
+- Negotiating payment plans and offers in compromise on back taxes
+- Correcting prior-year filings and resolving multi-year discrepancies
+
+<!-- block: content-split | variant: image-left | image: multi-state-multi-entity-tax.jpg | alt: "Business owner and advisor reviewing multi-state tax documents and entity charts" | query: "business owner consulting multiple documents office" -->
+## Tax strategy for multi-state and multi-entity businesses
+
+Operating across county or state lines multiplies the number of ways a return can go wrong. A real estate investor with properties in three counties. A B2B service firm with contractors in two states. A SaaS company with remote employees creating nexus in jurisdictions the founder has never visited. Each entity and each state carries its own registration, filing, and compliance calendar.
+
+Aurora tracks state registration requirements, nexus thresholds, and intercompany transactions across the businesses we serve throughout Central California and beyond. When a client runs an LLC that owns a property management company billing a separate S-corp, we build the consolidated reporting structure that keeps those entities tax-efficient and audit-defensible, instead of three disconnected books that don't talk to each other.
+
+This is where the Client CFO role earns its keep: mapping entity structure to tax outcome, not just closing the books at year-end.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Specialized tax guidance for professionals, tech companies, and nonprofits
+
+Tax planning changes shape depending on the business behind it. Three groups make up a large share of the entrepreneurs we work with, each carrying its own set of recurring tax questions.
+
+### Professionals and Consultants
+icon: Briefcase
+
+Attorneys, physicians, engineers, and financial consultants often start as sole proprietors and outgrow that structure fast. We evaluate S-corp elections, retirement plan options, and reasonable-compensation calculations so self-employment tax doesn't quietly erode a strong year.
+
+### Technology Companies
+icon: Zap
+
+From early-stage SaaS startups to established e-commerce businesses, tech companies face R&D credit eligibility, multi-state sales tax nexus, and equity compensation questions a generic preparer often misses. We track qualifying research expenses as they happen, not at filing time.
+
+### Nonprofit Organizations
+icon: HeartPulse
+
+Unrelated business income, Form 990 accuracy, and donor restriction tracking carry real compliance risk. We keep nonprofit clients current on filing requirements while helping boards understand what the numbers mean for programmatic decisions.
+
+<!-- block: content-prose -->
+## Fixed monthly pricing with no surprises
+
+Tax planning shouldn't come with a bill that changes based on how many questions you asked this month. Aurora clients pay a fixed monthly fee that covers ongoing planning conversations, not just the return itself, and that fee doesn't lock anyone into a multi-year contract.
+
+If your business changes, whether you add an entity, hire your first employee, or expand into a new state, your plan adjusts and so does the pricing conversation, openly and in advance. No retainer surprises, no by-the-hour clock running during a planning call. Clients tell us this is the difference between calling with a question and avoiding the phone because they're worried about the invoice.
+
+<!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and client shaking hands after a tax planning consultation" | query: "business handshake office consultation" -->
+## Start your tax strategy conversation today
+
+A stronger tax strategy starts with an actual conversation, not a questionnaire. Tell us about your business, your entities, and where you're headed, and we'll tell you honestly what we can do about the tax bill you're carrying now. Aurora Consulting Group is based in Visalia and works remotely with entrepreneurs across Tulare, Kings, Fresno, and Kern counties, plus clients well beyond Central California who want a team that answers the phone.
+
+[Schedule a consultation](/contact)
+
+---
+
+### Category: Blog | Aurora Consulting Group LLC
+URL: /category/blog
+
+<!-- block: intro-text | variant: centered -->
+## Practical guidance for entrepreneurs and business owners
+
+Most tax and accounting content online is either too generic to matter or too technical to use. We built this space to fix that. Aurora Consulting Group's blog gathers tax and accounting insights we'd otherwise share in a client meeting: proactive planning ideas, compliance updates, and the kind of advisory thinking that comes from working alongside entrepreneurs in Visalia, Tulare County, and across Central California.
+
+We write for business owners who want to stay ahead of deadlines, not scramble after them. That means fewer surface-level explainers and more real answers to the questions our clients actually ask, whether they run a professional practice, a growing SaaS company, or a nonprofit navigating grant compliance. If you're looking for a firm that thinks past the tax return, start here.
+
+<!-- block: feature-grid | variant: 3-col -->
+## Topics we cover for professionals, tech companies, and nonprofits
+
+Our content follows the same priorities as our client work: proactive tax strategy, clean books, and advisory support that catches problems before they become expensive ones.
+
+### Tax Planning and Strategy
+icon: Calculator
+
+Year-round tax planning topics for professionals, consultants, and technology companies, including entity structure, quarterly estimates, and strategies to reduce surprises at filing time.
+
+### HR, Insurance, and Corporate Compliance
+icon: ShieldCheck
+
+Guidance on payroll setup, benefits decisions, and the corporate compliance details that pull business owners away from running their companies.
+
+### Advisory and Coaching
+icon: Lightbulb
+
+Financial strategy and coaching insights built for founders and practice owners who want a sounding board, not just a bookkeeper.
+
+### Nonprofit Financial Management
+icon: FileCheck
+
+Budgeting, reporting, and compliance topics specific to nonprofit organizations working with grants, boards, and donor accountability.
+
+<!-- block: content-split | variant: image-right | image: multistate-business-review.jpg | alt: "Business owner reviewing multi-state compliance documents on laptop" | query: "business owner reviewing documents laptop" -->
+## Insights for multi-state and multi-entity business owners
+
+Nexus rules, state registration requirements, and consolidated reporting rarely get the attention they deserve on general accounting blogs. We cover them because a growing share of our clients operate across California and beyond, and the compliance obligations pile up fast once a business adds a second state or a second entity.
+
+Expect articles on intercompany transactions, registration triggers, and the reporting structure needed to keep multiple entities clean at tax time. This is where a lot of firms stop at generalities. We won't.
+
+<!-- block: content-split | variant: image-left | image: irs-representation-meeting.jpg | alt: "CPA reviewing IRS notice with client at desk" | query: "accountant reviewing tax notice client" -->
+## Tax resolution and IRS representation insights
+
+An IRS letter can turn a calm week into a stressful one. Because our team includes Enrolled Agents with IRS representation authority, we write directly about what to do when a notice arrives, how audits actually unfold, and what back-tax resolution looks like in practice.
+
+These posts are meant to replace panic with a plan. If you're facing a notice right now, don't wait for a blog post: [schedule a consultation](/contact) and we'll walk through it together.
+
+<!-- block: testimonials | variant: grid -->
+## Real stories from our advisory relationships
+
+We'd rather show you how an advisory relationship actually works than tell you in the abstract. Look for posts featuring real client scenarios (with details changed for privacy) covering things like restructuring an entity before a sale, catching up a year of neglected books, or building a cash flow plan around commission-based income.
+
+These aren't polished case studies written to sell a service. They're the kind of practical takeaways you'd get sitting across the table from your Client CFO, because that relationship-driven approach is the whole point of how we work.
+
+<!-- block: cta-banner | variant: image-bg | image: advisory-team-consultation.jpg | alt: "CPA advisory team meeting with small business client" | query: "advisory team meeting small business" -->
+## Stay connected with our team
+
+New insights won't do much good sitting unread. If a topic here hits close to home, that's usually a sign it's worth a conversation, not just an article. Our Team of 3, your Client Service Manager, Client Controller, and Client CFO, is built to give you that conversation without adding a full-time hire to your payroll.
+
+Reach out any time a post raises a question specific to your business, or [schedule a consultation](/contact) to talk through where your tax and accounting strategy stands today.
+
+---
+
+### Insights | Aurora Consulting Group LLC
+URL: /insights
+
+<!-- block: intro-text | variant: centered -->
+## Overview
+
+Running a business in Visalia, Fresno, or anywhere across Central California means juggling tax deadlines, payroll changes, and financial decisions that shift year over year. This is where our Insights hub comes in: practical, plain-language guidance from the same Enrolled Agents and advisors who work inside your books every month.
+
+Aurora Consulting Group's Insights section covers what actually matters for entrepreneurs, professionals, and multi-entity businesses: quarterly tax planning moves, HR and compliance updates, cash flow strategies for service-based firms, and accounting practices built for technology companies and nonprofits. Every article reflects the same Team of 3 approach clients rely on for their books, so the guidance you read here is the same guidance we're giving in client meetings that week.
+
+This hub gets updated as tax law changes, IRS deadlines shift, and new compliance requirements hit California businesses. A contractor managing job costing across three active projects needs different information than a nonprofit board preparing for a 990 filing, or a SaaS founder tracking deferred revenue across two entities. You'll find both broad strategy pieces and narrow, niche-specific breakdowns here, organized so you can find what applies to your situation without wading through generic advice.
+
+None of this replaces a conversation about your specific numbers. Think of Insights as the starting point, the read that helps you ask sharper questions when you sit down with your Client CFO. If something here raises a question about your filing status, entity structure, or multi-state exposure, that's exactly the kind of conversation our advisory meetings are built for. Browse by topic, bookmark what's relevant to your industry, and reach out when you're ready to talk through how it applies to your business.
+
+<!-- block: content-cards | variant: 3-col -->
+## Topics worth your time
+
+### Tax Planning & Strategy
+photo: tax-planning-strategy-insights.jpg
+query: accountant reviewing tax documents calculator
+
+Quarterly estimated payments, entity structure decisions, and year-end moves that reduce what you owe come April. Written for business owners who want to plan ahead, not just file on time.
+[Read more](/services/tax-planning-strategy)
+
+### Multi-State and Multi-Entity Compliance
+photo: multi-state-compliance-insights.jpg
+query: business owner reviewing state documents map
+
+Nexus rules, registration requirements, and consolidated reporting for businesses operating across California and beyond. Built for owners managing more than one entity or one state.
+[Read more](/industries/multi-state-multi-entity-businesses)
+
+### Advisory and Financial Coaching
+photo: advisory-coaching-insights.jpg
+query: business advisor coaching session office
+
+Cash flow strategy, budgeting frameworks, and the financial conversations nonprofit boards and growing companies need to have before problems show up on the books.
+[Read more](/services/advisory-coaching)
+
+### Outsourced Accounting for Growing Companies
+photo: outsourced-accounting-insights.jpg
+query: bookkeeper working on laptop office desk
+
+Bookkeeping practices, technology stacks, and back-office workflows for technology companies and service firms scaling past the DIY-spreadsheet stage.
+[Read more](/services/outsourced-accounting)
+
+<!-- block: cta-banner | variant: image-bg | image: insights-cta-consultation.jpg | alt: "Advisor and business owner shaking hands after a consultation meeting" | query: "advisor client handshake office meeting" -->
+## See how this applies to your business
+
+Reading about tax strategy is useful. Applying it to your entity structure, your industry, and your numbers is where it actually pays off. Schedule a consultation with your future Team of 3 and find out what's relevant to your business specifically.
+
+[Schedule a consultation](/contact)
+
+---
+
+### Forms, Documents & Links | Aurora Consulting Group LLC
+URL: /resources/forms-documents-links
+
+<!-- block: intro-text | variant: centered -->
+## Your resource library for organized, proactive accounting
+
+Good advisory work starts before the meeting, not during it. The forms and checklists on this page give you a starting point to work from between calls with your Client Service Manager, Client Controller, and Client CFO, so the conversation stays focused on strategy instead of hunting for numbers.
+
+This isn't a generic download dump. Every document here reflects the entity structures, deduction categories, and compliance questions we see most often in client files across Visalia, Tulare County, Kings County, Fresno County, and Kern County. Pull the resources that match your business, fill in what you can, and bring the rest to your next Team of 3 session. We'll take it from there.
+
+<!-- block: checklist-section | variant: with-image | image: real-estate-investor-documents.jpg | alt: "Real estate investor reviewing property depreciation schedules at a desk" | query: "real estate investor reviewing documents" -->
+## Real estate investor forms and deduction checklists
+
+Depreciation gets complicated fast once a portfolio grows past one or two properties, and entity structure confusion (LLC versus S-corp, or a mix of both) can quietly cost investors thousands each year. These documents help you track basis, elections, and deductions property by property instead of guessing at tax time.
+
+- Property-by-property depreciation schedule template
+- Cost segregation study intake checklist
+- LLC vs. S-corp entity comparison worksheet
+- Rental property deduction checklist (repairs, mileage, home office)
+- 1031 exchange documentation checklist
+- Passive activity loss tracking log
+
+If you're managing multiple properties or considering a restructure, our [real estate investor advisory work](/industries/real-estate-investors) goes deeper than any checklist can on its own.
+
+<!-- block: checklist-section | variant: with-image-left | image: contractor-job-costing-forms.jpg | alt: "Contractor reviewing job costing and expense tracking documents on site" | query: "contractor reviewing paperwork jobsite" -->
+## Contractor and job costing document templates
+
+Job costing only works if the numbers get captured while the job is still open, not three months after the final invoice goes out. These templates are built for contractors juggling several active jobs at once, along with the payroll and subcontractor reporting that comes with them.
+
+- Job costing tracker by project
+- Subcontractor 1099 compliance checklist
+- Certified payroll documentation checklist
+- Equipment and mileage expense log
+- Change order and progress billing worksheet
+- Retainage tracking template
+
+For a closer look at how job costing feeds into profitability reporting, visit our [contractor accounting page](/industries/contractors).
+
+<!-- block: checklist-section | variant: with-image | image: broker-tax-planning-worksheets.jpg | alt: "Real estate broker calculating quarterly estimated tax payments at desk" | query: "real estate broker reviewing paperwork office" -->
+## Tax planning worksheets for brokers and B2B service providers
+
+Commission cycles and client billing cycles create the same underlying problem: income that arrives unevenly but taxes that are due on a fixed schedule. Brokers need a way to plan quarterly payments around commission timing, while B2B firms need to see which hours and expenses are billable versus overhead.
+
+- Quarterly estimated tax payment worksheet for commission income
+- Self-employment tax planning checklist for brokers
+- Billable vs. overhead expense allocation template
+- Client engagement profitability tracker
+- 1099 income reconciliation worksheet
+- Home office and vehicle deduction checklist
+
+Brokers can find more on managing uneven income on our [real estate broker page](/industries/real-estate-brokers), and B2B firms can see how we track engagement profitability on our [B2B service provider page](/industries/business-to-business-service-providers).
+
+<!-- block: checklist-section | variant: with-image-left | image: multi-state-entity-compliance-forms.jpg | alt: "Business owner reviewing multi-state compliance documents and entity charts" | query: "business owner reviewing compliance documents office" -->
+## Multi-state and multi-entity compliance resources
+
+Operating across state lines or through more than one entity adds registration, nexus, and reporting obligations that a single-entity business never has to think about. These resources help you keep track of where you're registered, how entities transact with each other, and when consolidated numbers need to roll up.
+
+- State nexus and registration checklist
+- Multi-entity chart of accounts template
+- Intercompany transaction tracking log
+- Consolidated reporting worksheet
+- Franchise tax and annual report due-date calendar
+- Foreign qualification document checklist
+
+Multi-state and multi-entity structures are where our advisory role tends to run deepest. See how that plays out on our [multi-state and multi-entity businesses page](/industries/multi-state-multi-entity-businesses).
+
+<!-- block: content-split | variant: image-right | image: team-of-three-advisory-meeting.jpg | alt: "Accounting team reviewing client documents together during advisory meeting" | query: "accounting team meeting client documents" -->
+## How to put these documents to work with your Team of 3
+
+A checklist tells you what's missing. It doesn't tell you what to do about it, and that's where your Client Service Manager, Client Controller, and Client CFO come in. Bring a filled-in worksheet to your next call and they'll turn it into a plan: a restructure, a quarterly payment strategy, a corrected chart of accounts, whatever the numbers point to.
+
+Most clients get more value from these documents in the context of a fixed-monthly relationship than they would trying to piece together answers on their own. If you'd like a second set of eyes on any of the forms above, [schedule a consultation](/contact) and we'll walk through them together.
+
+---
+
+### Contact Us | Aurora Consulting Group LLC
+URL: /contact
+
+<!-- block: intro-text | variant: centered -->
+## Let's talk about your business
+
+Every conversation here starts the same way: we listen first. Maybe you're comparing firms for the first time, or maybe you're leaving one that stopped returning your calls months ago. Either way, this is a chance to talk through where your business stands right now and where you want it to go, without a script or a sales pitch. We'll ask real questions about your entity structure, your industry, and what's actually keeping you up at night. If we're a fit, we say so. If we're not, we'll point you somewhere that might be.
+
+<!-- block: content-split | variant: image-right | image: remote-team-video-call.jpg | alt: "Accounting team members on a video call from separate home offices" | query: "remote team video call office" -->
+## Reach your team directly
+
+Aurora Consulting Group was founded in Visalia, California, and runs today as a fully remote firm built around real relationships instead of call trees. Reach out and you're not routed to a general mailbox. You're connected to your Client Service Manager, who loops in your [Client Controller and Client CFO](/meet-the-team/your-team) as your questions require it, the same Team of 3 model every client works with day to day. Our phone number, email address, and social channels are listed on this page. However you choose to connect, a person on your future team answers, not an automated queue or an overseas call center.
+
+<!-- block: cta-banner | variant: color-bg -->
+## Tell us about your business needs
+
+Before the first call, it helps to know a few basics: your entity structure, your industry, and the problem that sent you looking for a new accounting relationship in the first place. Real estate investor tracking cost segregation across four properties? SaaS company opening a second state? Nonprofit board that needs cleaner financials before the next grant cycle? Share the details in the form below and we'll route your inquiry to the advisor who already understands your [industry](/industries), not a generalist starting from a blank page.
+
+[Schedule a consultation](/contact)
+
+<!-- block: process-steps | variant: vertical -->
+## What happens after you reach out
+
+### We respond within one business day
+A real person reads every inquiry, and most get a reply the same day. No auto-responder pretending to be a person, no three-week wait to find out if we even take new clients.
+
+### A no-pressure discovery call
+We spend 20 to 30 minutes learning your business, your entity structure, and where your books or your tax strategy are falling short. You leave the call with clarity, whether or not we end up working together.
+
+### A fixed monthly proposal, no annual contract
+If it's a fit, you'll get a proposal with fixed monthly pricing built around your Team of 3, tied to the work your business actually needs. No long-term lock-in, no surprise hourly billing.
+
+<!-- block: form | variant: contact -->
+## Serving Central California and beyond
+
+Aurora Consulting Group was founded in Visalia, California, and most of our clients still call Tulare, Kings, Fresno, and Kern counties home. If you're a business owner in Central California looking for a team that already knows the local market, you're in the right place. We also work extensively with multi-state and multi-entity businesses well outside the Central Valley, managing everything remotely through secure digital workflows built around how each client actually operates, not a one-size-fits-all portal. Wherever you're located, ready to schedule a consultation? Fill out the form below and a member of your team will follow up directly.
+
+---
+
+### Privacy Policy | Aurora Consulting Group LLC
+URL: /privacy-policy
+
+<!-- block: page-header -->
+## Our commitment to protecting your information
+
+At Aurora Consulting Group LLC, we handle your financial details the same way we handle your tax return: carefully, accurately, and with a clear explanation of what's happening and why. Visalia is where we started, and the trust our clients place in us with sensitive numbers, bank records, and entity documents is something we take seriously every day. This policy explains what information we collect through our website and client relationships, how we use it, and the choices you have. If any of it seems unclear, our team is one phone call away and happy to walk through it in plain language, not legal jargon.
+
+<!-- block: content-prose -->
+## Information we collect
+
+We collect a few categories of information depending on how you interact with Aurora Consulting Group. When you fill out a contact form or request a consultation, we collect your name, email, phone number, and business details you choose to share. Once you become a client, our onboarding process and secure digital workflows involve financial documents, tax records, payroll data, entity formation paperwork, and banking information necessary to deliver outsourced accounting, tax planning, and advisory services.
+
+Our website also collects standard usage data: pages visited, browser type, and general location, gathered through analytics tools to help us understand how visitors use auroracgllc.com. We do not collect this information to build advertising profiles. If you're a real estate investor, contractor, broker, or B2B service provider sending us project or client-level financial data, that information is treated with the same confidentiality standards as any other client record.
+
+<!-- block: content-prose -->
+## How we use your information
+
+We use the information you share to do the work you've hired us for: outsourced accounting, tax planning and preparation, and advisory and coaching support. That includes preparing financial statements, filing returns, managing payroll compliance, and advising on multi-state or multi-entity structures. Contact information lets our Client Service Manager, Client Controller, and Client CFO team stay in touch about deadlines, meetings, and deliverables.
+
+We also use aggregated, non-identifying usage data to improve our website and refine the customized technology stacks we build for each client relationship. We do not sell your personal or financial information, and we do not use it for purposes beyond delivering and improving the services you've engaged us for.
+
+<!-- block: content-split | variant: image-right | image: secure-remote-workflow.jpg | alt: "Accountant working securely on a laptop in a home office setting" | query: "remote accountant laptop secure workflow" -->
+## How we protect and store your data
+
+Aurora Consulting Group operates as a fully remote, culture-driven team, and that structure comes with a real commitment to secure digital workflows. We use encrypted client portals, password-protected file sharing, and role-based access so that only the team members working on your account, your Client Service Manager, Client Controller, and Client CFO, can view your records.
+
+For multi-state and multi-entity clients juggling registrations, nexus obligations, and intercompany transactions across jurisdictions, we keep entity-level records organized and access-controlled within the same secure systems. Financial documents are retained only as long as needed for the engagement or as required by IRS and state recordkeeping rules, then securely archived or deleted.
+
+<!-- block: content-prose -->
+## Sharing your information with third parties
+
+We don't share your information with outside parties for marketing purposes, and we never sell client data. Limited sharing happens in specific, necessary circumstances. As Enrolled Agents with IRS representation authority, our team may communicate directly with the IRS or state tax agencies on your behalf when you've authorized us to do so.
+
+We also work with technology partners, including Gusto for payroll processing, to deliver the customized systems each client relies on. Those partners access only the information required to perform their function. We may disclose information when required by law, subpoena, or to protect the rights and safety of our clients and team.
+
+<!-- block: checklist-section | variant: with-image | image: client-privacy-rights.jpg | alt: "Business owner reviewing documents with an advisor at a desk" | query: "business owner reviewing documents advisor" -->
+## Your privacy choices and rights
+
+You have the right to ask what personal information we hold, request corrections, or ask us to delete data we no longer need for legal or engagement purposes. You can also opt out of non-essential email communications at any time.
+
+- Request access to the personal information we have on file
+- Ask us to correct inaccurate or outdated details
+- Request deletion of information no longer required for compliance
+- Unsubscribe from marketing emails while remaining on active client communications
+- Ask questions about how your financial data moves through our systems
+
+<!-- block: cta-banner | variant: image-bg | image: schedule-consultation-cpa.jpg | alt: "CPA advisor and business owner shaking hands after a consultation" | query: "advisor client handshake office meeting" -->
+## Contact us about this policy
+
+Questions about this privacy policy, or about how Aurora Consulting Group LLC handles your information, are always welcome. Reach out to our team directly and we'll walk you through it, no automated runaround, just a real conversation with the people who work on your account. Ready to talk about your tax, accounting, or advisory needs? [Schedule a consultation](/contact) and let's get started.
+
+---
+
+### Schedule an Appointment | Aurora Consulting Group LLC
+URL: /appointment
+
+<!-- block: intro-text | variant: centered -->
+## Book time with our team in minutes
+Scheduling a first conversation with Aurora Consulting Group takes less time than reading this page. Pick a slot that fits your calendar, and a member of our team will reach out to confirm the details. No sales pitch, no pressure to sign anything on the spot.
+
+This first call is about understanding where your business stands today: your entity structure, your states of operation, the bottlenecks slowing you down. Whether you're a consultant juggling multiple client engagements, a SaaS founder expanding into new states, or a nonprofit board member trying to make sense of grant reporting, we start by listening.
+
+Grab your calendar. The rest takes care of itself.
+
+<!-- block: content-split | variant: image-right | image: intro-call-client-service-manager.jpg | alt: "Client service manager speaking with a business owner on a video call" | query: "professional video call consultation office" -->
+## What to expect from your first conversation
+Your Client Service Manager leads the call, typically 30 to 45 minutes. They'll ask about your business structure, current bookkeeping setup, and the specific problems pulling your attention away from running things day to day. If multi-state registration, payroll compliance, or entity restructuring comes up, they'll flag it for deeper follow-up with your future Client Controller and Client CFO.
+
+Expect direct questions and honest answers, not a scripted sales presentation. If Aurora isn't the right fit for what you need, we'll say so plainly and point you toward something that will help. If it is a fit, you'll leave with a clear next step: a proposal outline, a document request list, or a second meeting with the team member suited to your situation.
+
+No recordings to sit through later, no intake form to fill out blind.
+
+<!-- block: checklist-section | variant: with-image | image: business-owner-preparing-documents.jpg | alt: "Business owner reviewing financial documents before a consultation call" | query: "small business owner reviewing paperwork" -->
+## Come prepared to talk about your business
+A little preparation turns 30 minutes into a genuinely useful conversation. You don't need polished financials or a formal presentation, just enough detail so we can ask the right follow-up questions.
+
+Before the call, have a rough sense of:
+
+- Your entity structure (LLC, S-corp, multiple entities) and how many states you operate in
+- Your current bookkeeping setup, whether that's a spreadsheet, QuickBooks, or nothing consistent yet
+- The specific pain point pulling you here: compliance deadlines, cash flow gaps, payroll headaches, or a growing to-do list with no one to hand it to
+- Any upcoming triggers, a new state registration, an acquisition, a funding round, that's adding urgency
+
+If you're not sure about any of this, that's fine too. Part of the first call is helping you figure out what you don't know yet.
+
+<!-- block: industry-cards | variant: 3-col -->
+## Who this call is right for
+This call works best for entrepreneurs and business owners who want a financial team, not just a tax preparer. If any of the following sounds like you, book the time.
+
+### Professionals and Consultants
+icon: Briefcase
+Attorneys, engineers, architects, and financial advisors running practices that need more than annual filing, structured advisory and proactive planning throughout the year.
+
+### Technology Companies
+icon: Zap
+SaaS and e-commerce businesses at any stage, from early-stage startups to established platforms managing multi-state sales tax exposure.
+
+### Nonprofit Organizations
+icon: Users
+Boards and directors who need clean books, compliant reporting, and advisory support that speaks the language of grants and funders.
+
+### Real Estate Investors and Brokers
+icon: Home
+Owners juggling depreciation schedules, cost segregation, entity structuring, or commission-based cash flow that swings month to month.
+
+### Contractors
+icon: Hammer
+Job costing across active projects, subcontractor 1099 compliance, and payroll that needs to stay clean for bonding and lending.
+
+### Multi-State and Multi-Entity Businesses
+icon: Globe
+Companies managing registration, nexus, and consolidated reporting across more than one jurisdiction or legal entity.
+
+<!-- block: form | variant: contact -->
+## Choose a time that works for you
+Pick the day and time below that works with your schedule. Every appointment is with a real person on our team, not a bot, and confirmed within one business day.
+
+Fixed monthly pricing and no annual contracts mean the first call carries zero long-term obligation either way. We're built to work remotely: secure digital workflows, video calls, and technology stacks customized to how you already operate, so location never gets in the way of a good working relationship.
+
+Based in Visalia, California, our team meets with business owners across Tulare, Kings, Fresno, and Kern counties, and with clients statewide who prefer to work entirely online.
+
+<!-- block: cta-banner | variant: color-bg -->
+## Prefer to reach out first
+Not ready to commit to a calendar slot? Send a message or make a call, and a member of our team will get back to you directly, no automated ticketing system in between.
+
+We're happy to answer a quick question about fit before you book anything. Reach out through our contact page, and someone will follow up personally.
+
+Ready when you are: [Schedule a consultation](/contact)
+
+---
+
+### Apply Now | Careers | Aurora Consulting Group LLC
+URL: /meet-the-team/careers/apply
+
+<!-- block: hero-split | variant: image-right -->
+
+## Why accountants choose Aurora for their next career move
+
+Most accounting jobs put you in one lane and keep you there. Bookkeeping. Tax prep. Compliance. You do the same task on repeat, for years, and call it a career.
+
+Aurora built something different. Our Team of 3 model means every client gets a Client Service Manager, a Client Controller, and a Client CFO working together, and every team member gets exposure to work across that full spectrum. You'll touch monthly close, strategic tax planning, and advisory conversations with business owners, not just one slice of the job.
+
+We're fully remote and headquartered in Visalia, California, with team members supporting clients across Tulare, Kings, Fresno, and Kern counties and beyond. No commute, no cubicle, no corporate hierarchy standing between you and the client relationship. If you want to grow past a single job title, this is where that happens.
+
+<!-- block: service-cards | variant: 3-col -->
+
+## Open roles and the client work you'll do
+
+We hire for real client work, not generic job descriptions. Here's what a few of our roles actually look like day to day.
+
+### Staff Accountant
+icon: Calculator
+
+Handles monthly bookkeeping, reconciliations, and reporting for a mix of clients, from real estate investors managing depreciation schedules to contractors tracking job costs across active projects.
+
+### Client Controller
+icon: ChartBar
+
+Oversees accounting operations for a client portfolio, catches issues before they become problems, and works closely with business-to-business service providers on billable versus overhead tracking.
+
+### Tax Strategist
+icon: FileCheck
+
+Builds proactive tax plans for entrepreneurs and multi-entity businesses, including entity structure work for real estate investors and quarterly estimate planning for commission-based real estate brokers.
+
+<!-- block: checklist-section | variant: with-image | image: teammate-integrity-review.jpg | alt: "Accountant reviewing client documents carefully at a desk" | query: "accountant reviewing documents attentive" -->
+
+## What we look for in a teammate
+
+We're not looking for someone who just wants to close tickets. We're looking for people who care whether the numbers are actually right, and who tell a client the truth even when it's not the easy answer.
+
+- Integrity with financial data, even under deadline pressure
+- Comfort learning new software fast, since every client runs on a customized tech stack
+- Genuine interest in advisory conversations, not just transactional data entry
+- Responsiveness that matches a business owner's pace, not a 9-to-5 clock
+- A collaborative streak, since you'll work inside a three-person client team
+
+If you'd rather sit quietly and process transactions than talk strategy with a client, this probably isn't the right fit. If you want to be the person a business owner calls before they make a big decision, keep reading.
+
+<!-- block: feature-grid | variant: 3-col -->
+
+## Benefits of building your career here
+
+### Fully remote, always
+icon: Globe
+
+Work from anywhere in California, or beyond. Our culture is built for a distributed team, not retrofitted for one.
+
+### Fixed-scope client relationships
+icon: FileText
+
+Our clients sign on with fixed monthly pricing and no annual contracts, which means your work is judged on value delivered, not billable hour quotas.
+
+### Support toward your EA credential
+icon: Award
+
+We're an Enrolled Agent firm with IRS representation authority, and we back team members who want to pursue that credential.
+
+### A tight-knit, supportive culture
+icon: Users
+
+With a small team spread across Visalia and Central California, everyone knows everyone. No getting lost in a 200-person org chart.
+
+<!-- block: process-steps | variant: horizontal -->
+
+## How to apply
+
+### Send us your resume
+Upload your resume and tell us which role interests you. It takes about five minutes.
+
+### Have a real conversation
+If your background fits, someone from our team calls you directly, not a bot, not a recruiter reading a script.
+
+### Meet the people you'd work with
+We introduce you to the actual team you'd join, because you should know who you're working with before you say yes.
+
+### Get an answer, fast
+We aim to respond within a few business days at every step. No black hole applications here.
+
+If you'd rather talk before applying, you can [schedule a consultation](/contact) with our team and ask questions first.
+
+<!-- block: form | variant: contact -->
+
+## Application form
+
+Tell us a bit about yourself below: your resume, the position you're interested in, and a short note on why Aurora caught your attention. We read every application personally, and we'll follow up directly, whether the answer is yes or not yet.
+
+<!-- block: cta-banner | variant: image-bg | image: aurora-team-remote-meeting.jpg | alt: "Remote accounting team members collaborating on a video call" | query: "remote team video call professionals" -->
+
+## Ready to see if Aurora is the right fit
+
+Applications are reviewed by the people you'd actually work with, and we'd rather have a conversation than sort through a form. [Schedule a consultation](/contact) to talk with our team about where you'd fit on the Aurora bench.
+
+---
