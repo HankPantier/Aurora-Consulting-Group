@@ -7,7 +7,7 @@ excerpt: "Long-term care can cost $300,000 or more over a typical three-year nee
 image: senior-couple-reviewing-financial-documents.jpg
 image_alt: "Senior couple reviewing financial paperwork together at their kitchen table while planning for long-term care costs"
 tags: ["tax planning", "advisory", "elder care", "retirement planning"]
-meta_title: "Long-Term Care Planning Costs: A CPA's Funding Guide"
+meta_title: "Long-Term Care Planning Costs: A CPA's Funding Guide | Aurora Consulting Group LLC"
 meta_description: "Learn how long-term care planning costs add up and how insurance, VA Aid and Attendance benefits, and self-funding compare so you can build a real plan."
 target_keyword: "long-term care planning costs"
 secondary_keywords: ["long-term care insurance vs self-funding", "veterans aid and attendance benefit", "paying for nursing home care", "long-term care financial planning"]
