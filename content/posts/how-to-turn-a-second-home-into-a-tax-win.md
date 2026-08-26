@@ -30,7 +30,7 @@ The catch is that this exception only works one direction. The moment you exceed
 A second home and an investment property are not interchangeable terms to the IRS, even though real estate listings use them loosely. The distinction comes down to personal use days relative to rental days, and it changes which deductions apply and how losses are treated.
 
 | Classification | Personal use | Rental use | Tax treatment |
-|---|---|---|
+|---|---|---|---|
 | Personal residence (14-day rule) | Any amount | 14 days or fewer | Rental income not reported; mortgage interest and property tax deductible as itemized deductions |
 | Vacation home with mixed use | More than 14 days or more than 10% of rental days | More than 14 days | Expenses split between personal and rental use; rental losses often limited |
 | Rental / investment property | 14 days or fewer, or 10% of rental days, whichever is greater | Substantial | Treated as a rental business; depreciation, full expense deductions, passive loss rules apply |
