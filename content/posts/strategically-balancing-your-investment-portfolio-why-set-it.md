@@ -7,7 +7,7 @@ excerpt: "A balanced investment portfolio isn't a one-time decision. Learn why r
 image: investment-portfolio-review-meeting.jpg
 image_alt: "Advisor and client reviewing investment portfolio allocation charts at a table"
 tags: ["tax planning", "investment strategy", "advisory"]
-meta_title: "Balanced Investment Portfolio: Rebalancing & Tax Strategy"
+meta_title: "Rebalancing a Portfolio for Tax Strategy | Aurora Consulting Group LLC"
 meta_description: "Learn how to build and maintain a balanced investment portfolio with smart asset allocation, diversification, and tax-aware rebalancing strategies."
 target_keyword: "balanced investment portfolio"
 secondary_keywords: ["asset allocation strategy", "portfolio diversification", "risk tolerance investing", "portfolio rebalancing"]
