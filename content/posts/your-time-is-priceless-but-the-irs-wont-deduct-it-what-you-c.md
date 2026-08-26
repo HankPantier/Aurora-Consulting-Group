@@ -7,7 +7,7 @@ excerpt: "You can't deduct your volunteer hours, but the mileage, supplies, and 
 image: volunteer-loading-donation-boxes-into-car.jpg
 image_alt: "Volunteer loading supply boxes into the trunk of a car outside a community center"
 tags: ["Tax Planning", "Charitable Deductions", "Nonprofits"]
-meta_title: "Tax Deductions for Volunteering: What Qualifies | IRS Rules"
+meta_title: "Tax Deductions for Volunteering: What Qualifies | Aurora Consulting Group LLC"
 meta_description: "Learn which volunteer expenses are tax deductible, including charitable mileage, supplies, and travel costs, plus the IRS records you need to claim them."
 target_keyword: "tax deductions for volunteering"
 secondary_keywords: ["volunteer expenses tax deductible", "charitable mileage deduction", "unreimbursed volunteer expenses", "IRS rules on charitable donations"]
