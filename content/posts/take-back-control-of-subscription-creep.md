@@ -7,7 +7,7 @@ excerpt: "Recurring subscriptions add up faster than most budgets account for. H
 image: subscription-audit-budget-review.jpg
 image_alt: "Business owner reviewing monthly subscription charges and statements at a desk"
 tags: ["budgeting", "expense management", "cash flow", "small business finance"]
-meta_title: "Subscription Creep: How to Audit Recurring Expenses"
+meta_title: "Subscription Creep: How to Audit Recurring Expenses | Aurora Consulting Group LLC"
 meta_description: "Subscription creep quietly drains business and household budgets. Learn how to audit, track, and cut recurring costs before they add up to real money."
 target_keyword: "subscription creep"
 secondary_keywords: ["managing subscription costs", "recurring expenses budget", "subscription audit tips", "cutting monthly expenses"]
