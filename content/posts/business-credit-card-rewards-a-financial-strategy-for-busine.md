@@ -7,7 +7,7 @@ excerpt: "Rewards points aren't free money. Learn how to match your business cre
 image: business-owner-reviewing-credit-card-statement.jpg
 image_alt: "Business owner reviewing a credit card statement and receipts at a desk"
 tags: ["tax planning", "cash flow", "business finance"]
-meta_title: "Business Credit Card Rewards Strategy for Owners"
+meta_title: "Business Credit Card Rewards Strategy for Businesses | Aurora Consulting Group LLC"
 meta_description: "Learn how to build a business credit card rewards strategy that matches your spending, stays tax-compliant, and reconciles cleanly with your books."
 target_keyword: "business credit card rewards strategy"
 secondary_keywords: ["best business credit card for small business taxes", "are credit card rewards taxable for businesses", "how to choose a business credit card", "maximize business credit card points"]
