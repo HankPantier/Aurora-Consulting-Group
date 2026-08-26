@@ -7,7 +7,7 @@ excerpt: "Owning a second home isn't just a lifestyle choice, it's a tax classif
 image: lakeside-vacation-cabin-exterior.jpg
 image_alt: "A lakeside vacation cabin with a wraparound porch, representing a second home that could be rented part-time"
 tags: ["tax planning", "real estate", "second home taxes"]
-meta_title: "Second Home Tax Rules: The 14-Day Rule Explained"
+meta_title: "Second Home Tax Rules: The 14-Day Rule Explained | Aurora Consulting Group LLC"
 meta_description: "Learn the IRS second home tax rules, including the 14-day rule, personal-use thresholds, and how renting out a vacation home affects your deductions."
 target_keyword: "second home tax rules"
 secondary_keywords: ["second home vs investment property", "renting out a second home taxes", "vacation home rental income tax", "IRS 14 day rule second home"]
@@ -30,7 +30,7 @@ The catch is that this exception only works one direction. The moment you exceed
 A second home and an investment property are not interchangeable terms to the IRS, even though real estate listings use them loosely. The distinction comes down to personal use days relative to rental days, and it changes which deductions apply and how losses are treated.
 
 | Classification | Personal use | Rental use | Tax treatment |
-|---|---|---|
+|---|---|---|---|
 | Personal residence (14-day rule) | Any amount | 14 days or fewer | Rental income not reported; mortgage interest and property tax deductible as itemized deductions |
 | Vacation home with mixed use | More than 14 days or more than 10% of rental days | More than 14 days | Expenses split between personal and rental use; rental losses often limited |
 | Rental / investment property | 14 days or fewer, or 10% of rental days, whichever is greater | Substantial | Treated as a rental business; depreciation, full expense deductions, passive loss rules apply |
