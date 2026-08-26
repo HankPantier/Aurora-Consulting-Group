@@ -61,7 +61,7 @@ The lease-versus-buy decision plays out differently depending on the business. [
 
 Consultants and other professionals with lower annual mileage, who value predictable expenses and like upgrading vehicles every few years, often lean toward leasing. Nonprofit organizations with vehicles used for outreach or client transport face their own set of rules around unrelated business income and depreciation that deserve a separate conversation with an advisor familiar with nonprofit accounting.
 
-Because the right answer changes with entity type, income level, and mileage pattern, this is a decision worth running through a full projection before you sign a lease or a loan. Our [tax planning and strategy](/services/tax-planning-strategy) work with clients across Visalia, Tulare County, and the broader Central California market includes exactly this kind of scenario modeling, comparing the after-tax cost of each option against your actual numbers rather than a generic rule of thumb.
+Because the right answer changes with entity type, income level, and mileage pattern, this is a decision worth [running through a full projection](/resources/do-the-math-behind-renting-vs-buying-a-home) before you sign a lease or a loan. Our [tax planning and strategy](/services/tax-planning-strategy) work with clients across Visalia, Tulare County, and the broader Central California market includes exactly this kind of scenario modeling, comparing the after-tax cost of each option against your actual numbers rather than a generic rule of thumb.
 
 ## Common Questions
 
