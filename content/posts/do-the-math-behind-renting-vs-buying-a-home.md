@@ -7,7 +7,7 @@ excerpt: "The rent-vs-buy decision isn't about market timing. It's a cash flow a
 image: family-reviewing-home-finances-at-kitchen-table.jpg
 image_alt: "A family reviews financial documents and a laptop at their kitchen table while comparing renting and buying a home"
 tags: ["financial planning", "homeownership", "tax planning"]
-meta_title: "Buy vs Rent a Home: The Real Financial Math"
+meta_title: "Buy vs Rent a Home: The Real Financial Math | Aurora Consulting Group LLC"
 meta_description: "Learn how to compare buy vs rent a home financially, from cash flow and opportunity cost to property tax and the mortgage interest deduction."
 target_keyword: "buy vs rent home financially"
 secondary_keywords: ["cost of buying vs renting a home", "is renting better than buying", "financial planning for homeownership", "rent vs buy calculator"]
