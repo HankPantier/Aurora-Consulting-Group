@@ -7,7 +7,7 @@ excerpt: "Most dog-related costs aren't deductible, but service animals, guard d
 image: guard-dog-small-business.jpg
 image_alt: "A dog sitting beside a desk in a small business office, illustrating when dog-related costs qualify as a tax deduction"
 tags: ["tax deductions", "small business tax", "pet expenses", "IRS rules"]
-meta_title: "Dog Care Tax Deduction: What the IRS Actually Allows"
+meta_title: "Dog Care Tax Deduction: What the IRS Allows | Aurora Consulting Group LLC"
 meta_description: "Thinking about a dog care tax deduction? Learn the narrow, IRS-approved cases for service animals, guard dogs, and breeding businesses, and what doesn't qualify."
 target_keyword: "dog care tax deduction"
 secondary_keywords: ["service animal tax deduction", "guard dog business expense", "business dog tax write-off", "therapy dog deduction IRS"]
