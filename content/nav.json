@@ -49,6 +49,10 @@
       "url": "/resources/forms-documents-links"
     },
     {
+      "label": "Resources",
+      "url": "/resources"
+    },
+    {
       "label": "Contact Us | Aurora Consulting Group LLC",
       "url": "/contact"
     },
