@@ -7,7 +7,7 @@ excerpt: "Owning a second home isn't just a lifestyle choice, it's a tax classif
 image: lakeside-vacation-cabin-exterior.jpg
 image_alt: "A lakeside vacation cabin with a wraparound porch, representing a second home that could be rented part-time"
 tags: ["tax planning", "real estate", "second home taxes"]
-meta_title: "Second Home Tax Rules: The 14-Day Rule Explained"
+meta_title: "Second Home Tax Rules: The 14-Day Rule Explained | Aurora Consulting Group LLC"
 meta_description: "Learn the IRS second home tax rules, including the 14-day rule, personal-use thresholds, and how renting out a vacation home affects your deductions."
 target_keyword: "second home tax rules"
 secondary_keywords: ["second home vs investment property", "renting out a second home taxes", "vacation home rental income tax", "IRS 14 day rule second home"]
