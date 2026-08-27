@@ -32,24 +32,34 @@ Quarterly estimates get built on real numbers, not guesses. Entity elections get
 Founded in Visalia, California, we built this firm for entrepreneurs and professionals who wanted an accountant asking questions in June, not just in March. If your current preparer only calls when something's due, this is the shift you've been looking for.
 
 <!-- block: feature-grid | variant: 3-col -->
-## Strategic planning for entrepreneurs and professionals
+## Strategic planning for the businesses we serve
 
-Tax planning that works for a SaaS founder doesn't work for a physician, and what works for a physician doesn't work for a nonprofit executive director. We build strategy around your entity type, income pattern, and growth stage.
+Tax planning isn't one-size-fits-all. We build strategy around your entity type, income pattern, and the specific pressures your industry creates. Here's where we spend most of our time.
 
-### Professionals and Consultants
+### Business-to-Business Service Providers
 icon: Briefcase
 
-Attorneys, physicians, financial advisors, engineers, architects, and real estate professionals often operate as S-corporations or partnerships with income that swings by quarter. We review reasonable compensation, retirement contribution limits, and deduction timing so self-employment tax doesn't eat into a strong year.
+Tracking billable versus overhead expenses, managing inconsistent cash flow tied to client payment cycles, and staying on top of quarterly estimates are recurring challenges for B2B service businesses. We build tax strategy around how your revenue actually flows, not a generic schedule.
 
-### Technology Companies
-icon: Zap
+### Real Estate Investors
+icon: Building
 
-From early-stage SaaS startups to established e-commerce businesses, tech companies face decisions around R&D credits, equity compensation, and multi-state sales tax exposure as they scale. Planning happens before the next funding round or product launch, not after the books close.
+Depreciation schedules, cost segregation tracking across multiple properties, and entity structure decisions between LLCs and S-corps create year-round planning opportunities. We stay on top of those moving parts so you capture every available deduction.
 
-### Nonprofit Organizations
-icon: Users
+### Real Estate Brokers
+icon: Key
 
-Nonprofits carry their own compliance calendar, including unrelated business income tax, Form 990 filings, and donor restriction tracking. We help boards and executive directors stay ahead of filing requirements while keeping tax-exempt status intact.
+Commission-based income creates irregular cash flow and self-employment tax exposure that catches many brokers off guard. We handle quarterly estimated payments, deduction timing, and entity structure reviews so a strong year doesn't come with an unexpected tax bill.
+
+### Contractors
+icon: HardHat
+
+Job costing, project profitability tracking, payroll, and subcontractor 1099 compliance create a tax picture that changes month to month. We build strategy around your project cycle, not a once-a-year filing.
+
+### Multi-State / Multi-Entity Businesses
+icon: Globe
+
+Nexus questions, state registration obligations, intercompany transactions, and consolidated reporting across LLCs and S-corps require someone watching all year. We handle the complexity so you can keep growing without compliance surprises.
 
 <!-- block: content-split | variant: image-left | image: multi-state-tax-planning.jpg | alt: "Accountant reviewing multi-state tax documents and entity charts on a laptop" | query: "accountant reviewing documents multiple states" -->
 ## Navigating multi-state and multi-entity tax complexity
