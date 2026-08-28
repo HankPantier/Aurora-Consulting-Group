@@ -27,26 +27,6 @@ Aurora Consulting Group started in Visalia, California, with a simple idea: busi
 
 We built our firm around relationships first. Strategic tax planning, meticulous accounting, and real advisory conversations happen year-round, not just in April. Entrepreneurs across Central California and beyond come to us because they want a financial partner who answers the phone, knows their numbers, and tells them the truth. If that sounds like what your business is missing, you're in the right place.
 
-<!-- block: feature-grid | variant: 3-col -->
-## A team of three for less than the cost of one hire
-
-Most businesses can afford one bookkeeper, one part-time controller, or maybe a fractional CFO for a few hours a month. Rarely all three. Our Team of 3 model gives you all three roles working together for a fixed monthly fee, no annual contract required.
-
-### Client Service Manager
-icon: UserCheck
-
-Your day-to-day point of contact. This person keeps communication tight, answers questions fast, and makes sure nothing falls through the cracks between meetings.
-
-### Client Controller
-icon: Calculator
-
-Handles the detailed accounting work, monthly close, and reconciliations with the accuracy your lender, investors, or board expects to see.
-
-### Client CFO
-icon: ChartLine
-
-Brings the strategic view: cash flow forecasting, tax positioning, and the kind of financial guidance that shapes real decisions, not just historical reporting.
-
 <!-- block: service-cards | variant: 3-col -->
 ## Outsourced accounting, advisory, and tax strategy under one roof
 
