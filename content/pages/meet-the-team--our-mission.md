@@ -93,7 +93,7 @@ If a business has outgrown a bookkeeper who only shows up in April, or a big fir
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Aurora Consulting Group's mission is to help entrepreneurs build enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching. Founded in Visalia, California, the firm serves professionals, technology companies, nonprofits, and multi-state businesses through a Team of 3 advisory model.
+Aurora Consulting Group's mission is to empower entrepreneurs by building enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching. Founded in Visalia, California, the firm serves professionals, technology companies, nonprofits, and multi-state businesses through a Team of 3 advisory model.
 
 **E-E-A-T Signals:**
 - Enrolled Agents on staff with IRS representation authority
