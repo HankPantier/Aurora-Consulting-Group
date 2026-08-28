@@ -46,43 +46,11 @@ There's no pressure and no pitch. If Aurora is the right fit, we'll walk you thr
 <!-- block: pricing | variant: 4-tier -->
 ## Our Service Packages
 
-Aurora structures its packages around where your business actually is, not a one-size-fits-all bundle. All four tiers run on fixed monthly pricing with no annual contracts, so you're never locked into something that stops making sense. Every package includes your Team of Three and a technology stack built around how you already work.
-
-### Foundation
-$895/month
-Built for early-stage businesses that need clean books and basic tax compliance without the overhead of an in-house finance function.
-- Monthly bookkeeping and reconciliation
-- Quarterly tax planning check-in
-- Annual tax return preparation
-- Secure digital document portal
-[Get started](/contact)
-
-### Growth
-$1,650/month
-**Most popular**
-For businesses adding staff, revenue, and complexity, this package adds proactive advisory and more frequent financial check-ins.
-- Everything in Foundation
-- Monthly advisory meeting with your Client CFO
-- Payroll coordination through Gusto
-- Quarterly estimated tax calculations
-[Get started](/contact)
-
-### Momentum
-$2,800/month
-Designed for businesses managing multiple revenue streams, contractors, or early multi-entity structure.
-- Everything in Growth
-- Job costing or project-level reporting
-- 1099 and contractor compliance support
-- Entity structure review
-[Get started](/contact)
-
-### Enterprise
-Custom pricing
-For multi-state or multi-entity operations that need consolidated reporting, nexus tracking, and a deeply embedded advisory relationship.
-- Everything in Momentum
-- Multi-state nexus and registration monitoring
-- Consolidated intercompany reporting
-- Dedicated quarterly strategy sessions
+### Lite CFO
+- Individual Tax Filing
+- Year-End Bookkeeping Adjustments for Tax Filing
+- Basic Tax Planning & Strategy
+- Government Tax Assistance Support
 [Get started](/contact)
 
 Not sure which tier fits? Try our [pricing calculator](/pricing-calculator) or talk it through directly with a Client Service Manager.
