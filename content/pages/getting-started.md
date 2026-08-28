@@ -51,6 +51,20 @@ Brings the higher-level view: cash flow forecasting, entity structure, and proac
 
 You get the expertise of three professionals working in concert, for less than the cost of one full-time hire.
 
+<!-- block: content-split | variant: image-right | image: getting-started-meet.jpg | alt: "Business owner and Aurora advisor in a relaxed discovery conversation" | query: "business owner advisor casual meeting conversation" -->
+## Meet With Aurora to Discuss Your Needs
+
+Every engagement starts with a real conversation, not a form submission or a canned quote. We set aside time to hear about your business, your goals, and the challenges that are taking up too much of your headspace. Whether you're a solo consultant trying to get your books in order, a growing contractor managing multiple job sites, or a multi-entity business owner who needs a team that actually understands your structure, we want to understand your world before we recommend anything.
+
+During this initial call, we'll cover:
+
+- Where your business stands today and where you want it to go
+- Which services, tax planning, accounting, advisory, or a combination, make sense for your stage
+- How the Team of Three model works and who you'd be working with day to day
+- What a realistic onboarding timeline looks like for your situation
+
+There's no pressure and no pitch. If Aurora is the right fit, we'll walk you through next steps. If we're not, we'll tell you honestly and point you in the right direction. [Schedule a consultation](/contact) to get the conversation started.
+
 <!-- block: pricing | variant: 4-tier -->
 ## Our Service Packages
 
