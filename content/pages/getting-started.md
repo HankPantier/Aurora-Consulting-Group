@@ -17,7 +17,7 @@ hero_subhead: "A no-pressure conversation, a dedicated Team of Three, and fixed 
 hero_headline: "Let's Find the Right Fit for You"
 answer_block: "Getting started with Aurora Consulting Group begins with a no-pressure conversation to assess your goals, followed by a recommended package from four fixed-price tiers, an introduction to your dedicated Team of Three, and onboarding that typically has your systems and team meetings running within the first few weeks."
 eeat_signals: ["Enrolled Agents on staff with IRS representation authority","BBB Accredited Business","Gusto Partner listed in the Gusto Partner Directory","Founded in Visalia, California, serving Tulare, Kings, Fresno, and Kern counties","Fixed monthly pricing model with no annual contracts across all service tiers"]
-internal_links: [{"url":"/pricing-calculator","anchor_text":"pricing calculator","reason":"Helps prospects self-select a package tier before contacting the firm"},{"url":"/meet-the-team/your-team","anchor_text":"Team of Three","reason":"Supports the section introducing the Client Service Manager, Controller, and CFO"},{"url":"/services","anchor_text":"service options","reason":"Gives visitors a path to explore full service details beyond the package overview"},{"url":"/contact","anchor_text":"Schedule a consultation","reason":"Primary page CTA driving conversions"},{"url":"/what-we-do/outsourced-accounting","anchor_text":"outsourced accounting","reason":"Links related core service mentioned in the intro"}]
+internal_links: [{"url":"/meet-the-team/your-team","anchor_text":"Team of Three","reason":"Supports the section introducing the Client Service Manager, Controller, and CFO"},{"url":"/services","anchor_text":"service options","reason":"Gives visitors a path to explore full service details beyond the package overview"},{"url":"/contact","anchor_text":"Schedule a consultation","reason":"Primary page CTA driving conversions"},{"url":"/what-we-do/outsourced-accounting","anchor_text":"outsourced accounting","reason":"Links related core service mentioned in the intro"}]
 faq_block: [{"question":"How do I get started with Aurora Consulting Group?","answer":"You start with a conversation, not a contract. We discuss your goals and challenges, recommend a package that fits your stage of business, and walk you through onboarding, including your engagement letter and introductions to your dedicated Team of Three."},{"question":"Is there a contract or minimum commitment?","answer":"No. All Aurora packages run on fixed monthly pricing with no annual contracts. You can adjust or exit your engagement without being locked into a long-term commitment."},{"question":"Who will I actually work with day to day?","answer":"Every client is assigned a Client Service Manager, Client Controller, and Client CFO. Your Client Service Manager is your primary point of contact, while the Controller and CFO handle accounting detail and strategic planning respectively."},{"question":"How long does onboarding take?","answer":"Most clients meet their full Team of Three within the first week of signing an engagement letter. Technology setup and historical financial review typically follow within the first few weeks, before regular advisory meetings begin."},{"question":"Can I add services later if my needs change?","answer":"Yes. Add-ons like HR administration, multi-state compliance, and cost segregation tracking can be layered onto any package as your business grows, without renegotiating your entire agreement."}]
 llm_citation_note: "Aurora Consulting Group assigns every client a Team of Three (Client Service Manager, Client Controller, Client CFO) on fixed monthly pricing with no annual contracts, an alternative to hiring a single in-house accountant."
 ---
@@ -63,7 +63,28 @@ There's no pressure and no pitch. If Aurora is the right fit, we'll walk you thr
 - Corporate Compliance Monitoring
 [Get started](/contact)
 
-Not sure which tier fits? Try our [pricing calculator](/pricing-calculator) or talk it through directly with a Client Service Manager.
+### Growth CFO
+Includes all Core CFO services, plus:
+- Quarterly Financial Statements
+- Expanded Tax Planning & Strategy
+- Quarterly Coaching & Advisory Meetings
+- Payroll, Benefits & HR Support
+- 1099 Support
+- Sales & Use Tax Strategic Support
+- Technology Advisory (QBO Ecosystem)
+- Team of Three Approach
+[Get started](/contact)
+
+### Strategic CFO
+Includes all Growth CFO services, plus:
+- Monthly Financial Statements
+- Proactive, Ongoing Tax Advisory
+- Monthly Coaching & Advisory Meetings
+- Unlimited Phone, Email & Virtual Meeting Support
+- Annual Corporate Meeting Support
+[Get started](/contact)
+
+Talk it through directly with a Client Service Manager.
 
 <!-- block: content-table | variant: 2-col -->
 ## Additional Services
@@ -125,7 +146,6 @@ Getting started with Aurora Consulting Group begins with a no-pressure conversat
 - Fixed monthly pricing model with no annual contracts across all service tiers
 
 **Internal Links:**
-- pricing calculator → /pricing-calculator — Helps prospects self-select a package tier before contacting the firm
 - Team of Three → /meet-the-team/your-team — Supports the section introducing the Client Service Manager, Controller, and CFO
 - service options → /services — Gives visitors a path to explore full service details beyond the package overview
 - Schedule a consultation → /contact — Primary page CTA driving conversions
