@@ -67,25 +67,35 @@ icon: FileCheck
 
 Year-round, proactive tax planning built on your specific structure and goals, not a rush job squeezed into six weeks in the spring. [Learn more](/services/tax-planning-strategy)
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Built for professionals, technology companies, and nonprofits
+<!-- block: industry-cards | variant: 4-col | theme: ink -->
+## Built for the industries we know best
 
-We work best with entrepreneurs who care as much about their numbers as we do: consultants, tech founders, nonprofit directors, and business owners running operations across more than one state. If your business has multiple entities, multiple states, or a compliance calendar that keeps growing, we've likely already solved the version of that problem you're facing.
+We work best with entrepreneurs who care as much about their numbers as we do. Whether you're managing properties, running a contracting business, serving other businesses, or operating across multiple states, we've likely already solved the version of that problem you're facing.
 
-### Professionals and Consultants
-icon: Briefcase
+### Real Estate Investors
+icon: Building
 
-Legal, medical, financial, engineering, architecture, and real estate professionals rely on us for tax strategy that accounts for entity structure, retirement planning, and self-employment income.
+Depreciation schedules, cost segregation, and entity structure across multiple properties require precision. We track it all so your portfolio stays organized and your tax position stays optimized.
 
-### Technology Companies
-icon: Zap
+### Real Estate Brokers
+icon: Key
 
-From early-stage SaaS startups to established e-commerce brands, we build accounting systems that keep pace with recurring revenue models, investor reporting, and rapid growth.
+Commission-based income creates real cash flow and tax planning challenges. We help brokers manage self-employment tax, quarterly estimates, and the accounting that keeps the business running between closings.
 
-### Nonprofit Organizations
-icon: Users
+### Contractors
+icon: HardHat
 
-Grant compliance, board reporting, and fund accounting require a different lens than for-profit bookkeeping. We know the difference and build reporting around it.
+Job costing, project profitability, payroll, and subcontractor 1099 compliance are the pressure points we're built for. We keep your books current so you always know where each job stands.
+
+### Business-to-Business Service Providers
+icon: Handshake
+
+Tracking billable versus overhead expenses, managing inconsistent cash flow tied to client payments, and staying on top of compliance are challenges we solve every day for B2B businesses.
+
+### Multi-State / Multi-Entity Businesses
+icon: Globe
+
+State registration, nexus obligations, intercompany transactions, and consolidated reporting across entities require more than a standard bookkeeper. We provide the structure and oversight to keep it all in order.
 
 Businesses operating across multiple states or entities get a dedicated look at nexus, registration, and consolidated reporting on our [multi-state and multi-entity page](/industries/multi-state-multi-entity-businesses). Explore all the industries we serve on our [industries page](/industries).
 
