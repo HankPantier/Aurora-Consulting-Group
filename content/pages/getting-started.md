@@ -53,6 +53,16 @@ There's no pressure and no pitch. If Aurora is the right fit, we'll walk you thr
 - Government Tax Assistance Support
 [Get started](/contact)
 
+### Core CFO
+- Business & Individual Tax Preparation
+- Monthly Bookkeeping / Support
+- Year-End Financial Statements
+- Basic Tax Planning & Strategy
+- Annual Coaching & Advisory Meetings
+- Government Tax Assistance Support
+- Corporate Compliance Monitoring
+[Get started](/contact)
+
 Not sure which tier fits? Try our [pricing calculator](/pricing-calculator) or talk it through directly with a Client Service Manager.
 
 <!-- block: content-table | variant: 2-col -->
