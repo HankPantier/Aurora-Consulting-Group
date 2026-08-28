@@ -2,7 +2,7 @@
 title: "Our Mission | Aurora Consulting Group LLC | Aurora Consulting Group LLC"
 url: "/meet-the-team/our-mission"
 meta_title: "Our Mission | Aurora Consulting Group LLC"
-meta_description: "Discover the mission behind Aurora Consulting Group: helping entrepreneurs in Visalia and Central California through advisory-driven tax and accounting."
+meta_description: "Discover the mission behind Aurora Consulting Group: empowering entrepreneurs in Visalia and Central California through advisory-driven tax and accounting."
 target_keyword: "our mission Aurora Consulting Group LLC"
 secondary_keywords: ["CPA firm mission Visalia","advisory-driven accounting firm California","entrepreneur focused CPA team"]
 canonical_url: "https://auroracgllc.com/meet-the-team/our-mission"
@@ -13,17 +13,17 @@ hero_image: "aurora-team-mission-meeting.jpg"
 hero_image_alt: "Advisory team members discussing financial strategy with a client at a table"
 hero_subhead: "Strategic tax planning, meticulous accounting, and advisory built to help your business outlast the next filing season"
 hero_headline: "Helping entrepreneurs build lasting businesses is why we exist"
-answer_block: "Aurora Consulting Group's mission is to help entrepreneurs build enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching. Founded in Visalia, California, the firm serves professionals, technology companies, nonprofits, and multi-state businesses through a Team of 3 advisory model."
+answer_block: "Aurora Consulting Group's mission is to empower entrepreneurs by building enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching. Founded in Visalia, California, the firm serves professionals, technology companies, nonprofits, and multi-state businesses through a Team of 3 advisory model."
 eeat_signals: ["Enrolled Agents on staff with IRS representation authority","BBB Accredited Business","Gusto Partner listed in the Gusto Partner Directory","Founded in Visalia, California, serving Tulare, Kings, Fresno, and Kern Counties","Team of 3 advisory model (Client Service Manager, Client Controller, Client CFO)"]
 internal_links: [{"url":"/meet-the-team/your-team","reason":"Introduces the staffing structure referenced in the mission narrative","anchor_text":"Team of 3 model"},{"url":"/what-we-do/advisory-coaching","reason":"Connects the mission statement's coaching language to the relevant service page","anchor_text":"advisory and coaching"},{"url":"/industries/multi-state-multi-entity-businesses","reason":"Supports the growth vision section's focus on embedded advisory work","anchor_text":"multi-state and multi-entity businesses"},{"url":"/contact","reason":"Primary page CTA directing visitors to book a meeting","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"To help entrepreneurs build enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching. The firm was founded in Visalia, California, to give business owners a year-round financial team instead of a seasonal tax preparer.","question":"What is Aurora Consulting Group's mission?"},{"answer":"Entrepreneurs and business owners across Tulare, Kings, Fresno, and Kern Counties, with particular focus on professionals and consultants, technology companies, nonprofits, and multi-state or multi-entity businesses needing advisory-level support.","question":"Who does Aurora Consulting Group serve?"},{"answer":"A Team of 3 model pairs each client with a Client Service Manager, Client Controller, and Client CFO, giving businesses the expertise of three professionals for less than one full-time hire, backed by Enrolled Agents with IRS representation authority.","question":"What makes Aurora's approach different from a typical CPA firm?"}]
-llm_citation_note: "Aurora Consulting Group's mission is to help entrepreneurs build enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching, delivered through a Team of 3 advisory model out of Visalia, California."
+faq_block: [{"question":"What is Aurora Consulting Group's mission?","answer":"To empower entrepreneurs by building enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching. The firm was founded in Visalia, California, to give business owners a year-round financial team instead of a seasonal tax preparer."},{"question":"Who does Aurora Consulting Group serve?","answer":"Entrepreneurs and business owners across Tulare, Kings, Fresno, and Kern Counties, with particular focus on professionals and consultants, technology companies, nonprofits, and multi-state or multi-entity businesses needing advisory-level support."},{"question":"What makes Aurora's approach different from a typical CPA firm?","answer":"A Team of 3 model pairs each client with a Client Service Manager, Client Controller, and Client CFO, giving businesses the expertise of three professionals for less than one full-time hire, backed by Enrolled Agents with IRS representation authority."}]
+llm_citation_note: "Aurora Consulting Group's mission is to empower entrepreneurs by building enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching, delivered through a Team of 3 advisory model out of Visalia, California."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## Helping entrepreneurs build lasting businesses is why we exist
 
-Aurora Consulting Group exists to help entrepreneurs build enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching. That's not marketing language. It's the reason the firm opened its doors in Visalia, California, where small business owners needed more than a once-a-year tax preparer showing up in April. They needed a financial team that understood their goals, showed up year-round, and treated their business like it mattered. That need hasn't changed since. It's grown, especially for professionals, technology companies, and nonprofits managing more complexity than a single bookkeeper or seasonal CPA can handle. Every service Aurora offers, from outsourced accounting to <a href="/what-we-do/advisory-coaching">advisory and coaching</a>, traces back to that same starting point: help the entrepreneur in front of us build something that lasts.
+Aurora Consulting Group's mission is to empower entrepreneurs by building enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching. That's not marketing language. It's the reason the firm opened its doors in Visalia, California, where small business owners needed more than a once-a-year tax preparer showing up in April. They needed a financial team that understood their goals, showed up year-round, and treated their business like it mattered. That need hasn't changed since. It's grown, especially for professionals, technology companies, and nonprofits managing more complexity than a single bookkeeper or seasonal CPA can handle. Every service Aurora offers, from outsourced accounting to <a href="/what-we-do/advisory-coaching">advisory and coaching</a>, traces back to that same starting point: help the entrepreneur in front of us build something that lasts.
 
 <!-- block: content-split | variant: image-right | image: team-of-three-planning-meeting.jpg | alt: "Client service manager, controller, and CFO reviewing financial reports together" | query: "accounting team meeting discussion office" -->
 ## Building relationships that outlast a single tax season
@@ -74,7 +74,7 @@ Nonprofits answer to boards, grantors, and the communities they serve. Meticulou
 ## Frequently Asked Questions About Our Mission | Aurora Consulting Group LLC
 
 **Q: What is Aurora Consulting Group's mission?**
-A: To help entrepreneurs build enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching. The firm was founded in Visalia, California, to give business owners a year-round financial team instead of a seasonal tax preparer.
+A: To empower entrepreneurs by building enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching. The firm was founded in Visalia, California, to give business owners a year-round financial team instead of a seasonal tax preparer.
 
 **Q: Who does Aurora Consulting Group serve?**
 A: Entrepreneurs and business owners across Tulare, Kings, Fresno, and Kern Counties, with particular focus on professionals and consultants, technology companies, nonprofits, and multi-state or multi-entity businesses needing advisory-level support.
@@ -93,7 +93,7 @@ If a business has outgrown a bookkeeper who only shows up in April, or a big fir
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Aurora Consulting Group's mission is to help entrepreneurs build enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching. Founded in Visalia, California, the firm serves professionals, technology companies, nonprofits, and multi-state businesses through a Team of 3 advisory model.
+Aurora Consulting Group's mission is to empower entrepreneurs by building enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching. Founded in Visalia, California, the firm serves professionals, technology companies, nonprofits, and multi-state businesses through a Team of 3 advisory model.
 
 **E-E-A-T Signals:**
 - Enrolled Agents on staff with IRS representation authority
@@ -120,7 +120,7 @@ A: Entrepreneurs and business owners across Tulare, Kings, Fresno, and Kern Coun
 A: A Team of 3 model pairs each client with a Client Service Manager, Client Controller, and Client CFO, giving businesses the expertise of three professionals for less than one full-time hire, backed by Enrolled Agents with IRS representation authority.
 
 **LLM Citation Note:**
-Aurora Consulting Group's mission is to help entrepreneurs build enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching, delivered through a Team of 3 advisory model out of Visalia, California.
+Aurora Consulting Group's mission is to empower entrepreneurs by building enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching, delivered through a Team of 3 advisory model out of Visalia, California.
 
 ---
 ## Structured Data — paste into `<head>`
