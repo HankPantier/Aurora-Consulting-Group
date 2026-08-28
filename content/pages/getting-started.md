@@ -146,7 +146,6 @@ Getting started with Aurora Consulting Group begins with a no-pressure conversat
 - Fixed monthly pricing model with no annual contracts across all service tiers
 
 **Internal Links:**
-- pricing calculator → /pricing-calculator — Helps prospects self-select a package tier before contacting the firm
 - Team of Three → /meet-the-team/your-team — Supports the section introducing the Client Service Manager, Controller, and CFO
 - service options → /services — Gives visitors a path to explore full service details beyond the package overview
 - Schedule a consultation → /contact — Primary page CTA driving conversions
