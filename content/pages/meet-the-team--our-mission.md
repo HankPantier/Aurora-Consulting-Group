@@ -2,7 +2,7 @@
 title: "Our Mission | Aurora Consulting Group LLC | Aurora Consulting Group LLC"
 url: "/meet-the-team/our-mission"
 meta_title: "Our Mission | Aurora Consulting Group LLC"
-meta_description: "Discover the mission behind Aurora Consulting Group: helping entrepreneurs in Visalia and Central California through advisory-driven tax and accounting."
+meta_description: "Discover the mission behind Aurora Consulting Group: empowering entrepreneurs in Visalia and Central California through advisory-driven tax and accounting."
 target_keyword: "our mission Aurora Consulting Group LLC"
 secondary_keywords: ["CPA firm mission Visalia","advisory-driven accounting firm California","entrepreneur focused CPA team"]
 canonical_url: "https://auroracgllc.com/meet-the-team/our-mission"
