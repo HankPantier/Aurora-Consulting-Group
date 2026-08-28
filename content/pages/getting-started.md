@@ -63,6 +63,18 @@ There's no pressure and no pitch. If Aurora is the right fit, we'll walk you thr
 - Corporate Compliance Monitoring
 [Get started](/contact)
 
+### Growth CFO
+Includes all Core CFO services, plus:
+- Quarterly Financial Statements
+- Expanded Tax Planning & Strategy
+- Quarterly Coaching & Advisory Meetings
+- Payroll, Benefits & HR Support
+- 1099 Support
+- Sales & Use Tax Strategic Support
+- Technology Advisory (QBO Ecosystem)
+- Team of Three Approach
+[Get started](/contact)
+
 Not sure which tier fits? Try our [pricing calculator](/pricing-calculator) or talk it through directly with a Client Service Manager.
 
 <!-- block: content-table | variant: 2-col -->
