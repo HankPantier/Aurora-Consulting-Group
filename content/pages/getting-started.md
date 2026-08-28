@@ -87,20 +87,24 @@ For multi-state or multi-entity operations that need consolidated reporting, nex
 
 Not sure which tier fits? Try our [pricing calculator](/pricing-calculator) or talk it through directly with a Client Service Manager.
 
-<!-- block: checklist-section | variant: with-image | image: additional-services-workspace.jpg | alt: "Accountant reviewing HR compliance and insurance documents on a laptop" | query: "office desk laptop paperwork consultation" -->
+<!-- block: content-table | variant: 2-col -->
 ## Additional Services
 
-Business needs change, and your package can flex with you. These add-ons are available to any client whose situation calls for a little more support:
+Need something beyond your core package? These services are available as add-ons for any client whose situation calls for a little more support.
 
-- HR administration and payroll setup support
-- Corporate compliance filings across multiple states
-- Business insurance review and coordination
-- Multi-entity consolidation and intercompany reporting
-- Cost segregation and depreciation scheduling for real estate portfolios
-- Nonprofit-specific compliance and grant reporting support
-- One-time projects like cleanup bookkeeping or entity restructuring
+| | |
+|---|---|
+| Business Entity Transitions (S-Election, S-Election Revocation) | Accounts Payable Support |
+| Corporation to LLC Conversion, LLC to Corporation Conversion | Accounts Receivable Support |
+| Business Closure Services | Inventory Management Support |
+| New Business Entity Formation | Annual Corporate Meeting Support |
+| Single-Member LLC Tax Compliance | QuickBooks Online Training, Workflow Setup & Consulting |
+| Roll-Up Financials | Federal/State/Local Tax Audit Representation |
+| Insurance Carrier Audits – General Liability, Workers Compensation | Sales Tax Account Setup & Filing |
+| Payroll Setup and Ongoing Payroll Processing | Employee Handbook Development and Updates |
+| Leadership & Mindset Coaching | |
 
-We build these in as your business grows into them, not before. Ask your Client Service Manager what makes sense for your current stage.
+Ask your Client Service Manager what makes sense for your current stage.
 
 <!-- block: process-steps | variant: vertical -->
 ## What Happens After You Sign Up
