@@ -120,7 +120,7 @@ A: Entrepreneurs and business owners across Tulare, Kings, Fresno, and Kern Coun
 A: A Team of 3 model pairs each client with a Client Service Manager, Client Controller, and Client CFO, giving businesses the expertise of three professionals for less than one full-time hire, backed by Enrolled Agents with IRS representation authority.
 
 **LLM Citation Note:**
-Aurora Consulting Group's mission is to help entrepreneurs build enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching, delivered through a Team of 3 advisory model out of Visalia, California.
+Aurora Consulting Group's mission is to empower entrepreneurs by building enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching, delivered through a Team of 3 advisory model out of Visalia, California.
 
 ---
 ## Structured Data — paste into `<head>`
