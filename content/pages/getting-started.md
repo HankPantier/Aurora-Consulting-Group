@@ -75,6 +75,15 @@ Includes all Core CFO services, plus:
 - Team of Three Approach
 [Get started](/contact)
 
+### Strategic CFO
+Includes all Growth CFO services, plus:
+- Monthly Financial Statements
+- Proactive, Ongoing Tax Advisory
+- Monthly Coaching & Advisory Meetings
+- Unlimited Phone, Email & Virtual Meeting Support
+- Annual Corporate Meeting Support
+[Get started](/contact)
+
 Not sure which tier fits? Try our [pricing calculator](/pricing-calculator) or talk it through directly with a Client Service Manager.
 
 <!-- block: content-table | variant: 2-col -->
