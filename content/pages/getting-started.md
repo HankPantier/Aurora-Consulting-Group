@@ -29,28 +29,6 @@ Before we talk numbers or paperwork, we want to understand your business. Every 
 
 From there, we recommend a service path that actually fits, whether that means outsourced accounting, tax planning, advisory coaching, or some combination of all three. There's no pressure to commit on the spot and no generic package pushed on you because it's easiest to sell. If we're not the right fit, we'll tell you that too.
 
-<!-- block: team-grid | variant: 2-col -->
-## Meet Your Dedicated Team of Three
-
-Every Aurora client works with three people, not one overworked bookkeeper juggling fifty accounts. Your Client Service Manager, Client Controller, and Client CFO each bring a distinct layer of expertise, and they meet regularly to stay aligned on your numbers, your goals, and what's coming next for your business.
-
-### Client Service Manager
-Your primary point of contact
-
-Handles the day-to-day, keeps deadlines on track, and makes sure nothing falls through the cracks between meetings. If you have a quick question, this is who picks up.
-
-### Client Controller
-Oversees the accounting detail
-
-Manages your books, reconciliations, and financial reporting with the accuracy a growing business depends on. Catches the discrepancies before they become problems.
-
-### Client CFO
-Guides strategy and tax planning
-
-Brings the higher-level view: cash flow forecasting, entity structure, and proactive tax strategy. Enrolled Agents on our team carry IRS representation authority, so strategy conversations come backed by real standing with the IRS.
-
-You get the expertise of three professionals working in concert, for less than the cost of one full-time hire.
-
 <!-- block: content-split | variant: image-right | image: getting-started-meet.jpg | alt: "Business owner and Aurora advisor in a relaxed discovery conversation" | query: "business owner advisor casual meeting conversation" -->
 ## Meet With Aurora to Discuss Your Needs
 
