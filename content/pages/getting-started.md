@@ -84,7 +84,7 @@ Includes all Growth CFO services, plus:
 - Annual Corporate Meeting Support
 [Get started](/contact)
 
-Not sure which tier fits? Talk it through directly with a Client Service Manager.
+Talk it through directly with a Client Service Manager.
 
 <!-- block: content-table | variant: 2-col -->
 ## Additional Services
