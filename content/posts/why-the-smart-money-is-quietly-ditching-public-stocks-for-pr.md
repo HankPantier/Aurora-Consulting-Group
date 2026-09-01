@@ -58,20 +58,14 @@ This is exactly the kind of complexity our Team of 3 model was built for. When a
 
 Our Enrolled Agents carry IRS representation authority, which matters when a multi-state K-1 triggers a notice from a state you didn't expect to hear from. And because we work on fixed monthly pricing with no annual contract, a client who needs an extra planning session before a large private allocation doesn't have to worry about a surprise invoice for asking the question early, which is when it actually helps.
 
-For business owners already juggling multiple entities or state registrations, this fits naturally alongside our [multi-state and multi-entity business advisory work](/industries/multi-state-multi-entity-businesses), where cross-jurisdiction filing is already part of the routine. And if the bigger question is how a private markets allocation fits your overall portfolio strategy, our post on [balancing your investment portfolio](/resources/strategically-balancing-your-investment-portfolio-why-set-it) walks through the allocation side of that decision. Tax strategy around illiquid investments is one piece of the broader [tax planning and strategy](/services/tax-planning-strategy) work we do year-round, not a once-a-year scramble in April.
-
 ## Common Questions
 
-**Is private equity or private credit worth the tax complexity for a typical business owner?**
-It depends on your liquidity needs and existing entity structure. A K-1 from a private fund adds filing complexity and can delay your return, so the decision should weigh the yield premium against the extra CPA time, potential state filings, and lock-up period before you commit capital.
+**Is private equity or private credit worth the tax complexity for a typical business owner**?It depends on your liquidity needs and existing entity structure. A K-1 from a private fund adds filing complexity and can delay your return, so the decision should weigh the yield premium against the extra CPA time, potential state filings, and lock-up period before you commit capital.
 
-**Why did my K-1 arrive months after my 1099s?**
-Private funds have to finalize partnership-level accounting, allocate income among all partners, and often wait on their own underlying investments to report results before they can issue K-1s. March through September is common, and funds with complex holdings sometimes issue extensions of their own.
+**Why did my K-1 arrive months after my 1099s**?Private funds have to finalize partnership-level accounting, allocate income among all partners, and often wait on their own underlying investments to report results before they can issue K-1s. March through September is common, and funds with complex holdings sometimes issue extensions of their own.
 
-**Can a private credit investment inside my IRA create a tax bill?**
-Yes. If the fund generates unrelated business taxable income, your IRA can owe tax on that income even though the account is otherwise tax-deferred or tax-free. This is a common surprise for self-directed IRA investors moving into private credit for the first time.
+**Can a private credit investment inside my IRA create a tax bill**?Yes. If the fund generates unrelated business taxable income, your IRA can owe tax on that income even though the account is otherwise tax-deferred or tax-free. This is a common surprise for self-directed IRA investors moving into private credit for the first time.
 
-**Do I need separate state tax returns for a fund with out-of-state holdings?**
-Often, yes. A single K-1 from a fund holding properties or loans in multiple states can create nonresident filing obligations in each of those states, even if you've never visited them.
+**Do I need separate state tax returns for a fund with out-of-state holdings**?Often, yes. A single K-1 from a fund holding properties or loans in multiple states can create nonresident filing obligations in each of those states, even if you've never visited them.
 
 If you're weighing a move into private equity, private credit, or a real estate fund, talk to us before you sign the subscription agreement, not after the first K-1 arrives. [Contact Aurora Consulting Group](/contact) to schedule a planning conversation with your future Team of 3.
