@@ -52,16 +52,12 @@ The firm's Enrolled Agents also carry IRS representation authority, which matter
 
 ## Common Questions
 
-**What does labor cost management for small business actually involve?**
-It means tracking wages, payroll taxes, benefits, and turnover costs against revenue on a regular schedule, not just running payroll and reviewing it once a year. For contractors and service firms, it also means tying labor costs to specific jobs or client engagements so profitability is visible in real time.
+**What does labor cost management for small business actually involve**?It means tracking wages, payroll taxes, benefits, and turnover costs against revenue on a regular schedule, not just running payroll and reviewing it once a year. For contractors and service firms, it also means tying labor costs to specific jobs or client engagements so profitability is visible in real time.
 
-**How do I calculate employee retention costs?**
-Add recruiting expenses, onboarding time, lost productivity during ramp-up, and any client or project disruption caused by the departure. Most estimates land between six and nine months of the departing employee's salary, which is often more than the cost of a retention bonus or benefits improvement.
+**How do I calculate employee retention costs**?Add recruiting expenses, onboarding time, lost productivity during ramp-up, and any client or project disruption caused by the departure. Most estimates land between six and nine months of the departing employee's salary, which is often more than the cost of a retention bonus or benefits improvement.
 
-**Is wage growth still rising in 2024?**
-Wage growth has cooled from the pandemic-era spikes of 2021 and 2022, but it hasn't reversed. Wages set during the tight labor market have largely held, meaning payroll baselines are higher than pre-2020 levels even as the pace of increases slows.
+**Is wage growth still rising in 2024**?Wage growth has cooled from the pandemic-era spikes of 2021 and 2022, but it hasn't reversed. Wages set during the tight labor market have largely held, meaning payroll baselines are higher than pre-2020 levels even as the pace of increases slows.
 
-**How often should a small business rebudget for labor costs?**
-Quarterly is a reasonable minimum, especially for businesses with hourly crews, commission-based staff, or multi-state payroll. An annual budget set once and left alone tends to miss wage drift and benefits cost changes until they've already affected cash flow.
+**How often should a small business rebudget for labor costs**?Quarterly is a reasonable minimum, especially for businesses with hourly crews, commission-based staff, or multi-state payroll. An annual budget set once and left alone tends to miss wage drift and benefits cost changes until they've already affected cash flow.
 
 If your payroll numbers have been quietly climbing and your budget hasn't caught up, [contact Aurora Consulting Group](/contact) to talk through what labor cost planning could look like for your business.
