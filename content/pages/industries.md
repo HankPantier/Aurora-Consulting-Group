@@ -216,7 +216,7 @@ Aurora Consulting Group uses a Team of 3 model (Client Service Manager, Client C
   "@type": "Service",
   "name": "Industries We Serve | Aurora Consulting Group CPA Firm",
   "url": "https://auroracgllc.com/industries",
-  "description": "See how Aurora Consulting Group's Team of 3 advisory model serves real estate, contractors, tech, professionals, and nonprofits across Central California.",
+  "description": "See how Aurora Consulting Group's Team of 3 advisory model serves real estate, contractors, tech, and professionals across Central California.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Aurora Consulting Group LLC",
