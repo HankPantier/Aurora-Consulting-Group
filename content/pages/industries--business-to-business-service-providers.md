@@ -41,9 +41,11 @@ The fix isn't more spreadsheets. It's a bookkeeping structure designed around ho
 <!-- block: content-split | variant: image-right | image: engagement-based-accounting.jpg | alt: "Client controller organizing project ledgers and expense categories on a computer" | query: "accountant organizing project files office" -->
 ## Outsourced accounting built around client engagements
 
-Generic bookkeeping treats every expense the same. Aurora Consulting Group's outsourced accounting service structures your books around engagements instead, so revenue and cost get tagged to the client or project that generated them.
+Generic bookkeeping treats every expense the same. Aurora Consulting Group's outsourced accounting service structures your books around engagements instead, so revenue and cost get tagged to the client, event, production, or campaign that generated them.
 
-That structure means a professional service firm running five active client contracts can see, at a glance, which ones carry the highest margin and which are eating staff time without matching revenue. Overhead allocation happens by formula, not by feel. Reports arrive monthly through a secure digital workflow customized to your existing tools, whether that's a project management platform, a CRM, or a time-tracking system already in use.
+That structure means a marketing agency juggling five active retainers can see, at a glance, which clients carry the highest margin and which are quietly consuming more resources than the contract covers. An event management company can track pre-event vendor costs against confirmed revenue before the event even happens. A media production company can close out each production with a clear profit-and-loss picture rather than a lump of mixed expenses at month-end. Merchandise businesses can reconcile inventory costs against client deliverables so every order's actual margin is visible.
+
+Overhead allocation happens by formula, not by feel. Reports arrive monthly through a secure digital workflow customized to your existing tools — whether that's a project management platform, a CRM, a time-tracking system, or production scheduling software already in use. For B2B service businesses based in Visalia, Tulare County, Kings County, Fresno County, and Kern County, this is the financial foundation that turns busyness into actual profitability data.
 
 <!-- block: content-split | variant: image-left | image: b2b-advisory-coaching-session.jpg | alt: "Business owner and advisor discussing growth strategy over financial documents" | query: "business advisor coaching session office" -->
 ## Advisory and coaching for scaling service firms
