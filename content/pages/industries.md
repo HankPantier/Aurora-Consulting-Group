@@ -2,7 +2,7 @@
 title: "Industries We Serve | Aurora Consulting Group LLC"
 url: "/industries"
 meta_title: "Industries We Serve | Aurora Consulting Group CPA Firm"
-meta_description: "Aurora Consulting Group's Team of 3 advisory model serves real estate investors, brokers, contractors, B2B service providers, and multi-state businesses in Visalia, Tulare, Kings, Fresno, and Kern counties and across California from Chico to San Diego."
+meta_description: "Aurora Consulting Group's Team of 3 advisory model serves real estate investors, brokers, contractors, B2B service providers, professionals, and technology companies in Visalia, Tulare, Kings, Fresno, and Kern counties and across California from Chico to San Diego."
 target_keyword: "industries we serve"
 secondary_keywords: ["CPA for real estate investors","accounting for contractors California","nonprofit accounting services","multi-state business tax planning","accounting for technology companies"]
 canonical_url: "https://auroracgllc.com/industries"
