@@ -122,7 +122,7 @@ Aurora Consulting Group serves real estate investors, real estate brokers, contr
 - our contractor accounting services → /industries/contractors — Deep link to job costing and subcontractor compliance detail
 - our business services team → /industries/business-to-business-service-providers — Deep link covering billable versus overhead tracking for professionals and tech companies
 - our multi-entity services → /industries/multi-state-multi-entity-businesses — Deep link to nexus and consolidated reporting detail for complex structures
-- our advisory and coaching services → /services/advisory-coaching — Connects nonprofit board reporting needs to the firm's coaching service line
+- our advisory and coaching services → /services/advisory-coaching — Connects multi-state and professional services clients to the firm's coaching service line
 - Schedule a consultation → /contact — Primary page CTA driving to the contact page
 
 **FAQ Block:**
