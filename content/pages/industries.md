@@ -84,15 +84,6 @@ We track registration and filing obligations across every jurisdiction where you
 
 Businesses with operations across California and beyond use [our multi-entity services](/industries/multi-state-multi-entity-businesses) to keep every entity in sync.
 
-<!-- block: content-split | variant: image-left | image: nonprofit-board-meeting-review.jpg | alt: "Nonprofit executive director reviewing budget reports with board members" | query: "nonprofit board meeting reviewing budget" -->
-## Nonprofits and mission-driven organizations
-
-Boards and executive directors carry a different kind of accountability. Grant restrictions, functional expense reporting, and donor trust all depend on financial statements a board member without an accounting background can still understand.
-
-Aurora Consulting Group has worked directly with association and nonprofit leadership, including the consulting relationship highlighted in the Moorland Association News Survey feature on the firm, to build reporting that satisfies auditors and board members alike. Advisory and coaching sessions built for nonprofit leadership cover budget-to-actual variance, grant compliance, and the operational questions that come up between board meetings.
-
-If your organization needs a financial team that speaks board language and compliance language equally well, [our advisory and coaching services](/services/advisory-coaching) extend that support beyond the annual audit.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Industries We Serve
 
