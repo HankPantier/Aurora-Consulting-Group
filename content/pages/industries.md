@@ -180,7 +180,7 @@ Aurora Consulting Group uses a Team of 3 model (Client Service Manager, Client C
       "name": "What industries does Aurora Consulting Group serve?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Aurora Consulting Group works with real estate investors and brokers, contractors, professionals and consultants, technology companies, multi-state and multi-entity businesses, and nonprofit organizations, mostly across Visalia, Tulare, Kings, Fresno, and Kern counties in Central California."
+        "text": "Aurora Consulting Group works with real estate investors and brokers, contractors, professionals and consultants, technology companies, and multi-state and multi-entity businesses, mostly across Visalia, Tulare, Kings, Fresno, and Kern counties in Central California."
       }
     },
     {
@@ -189,14 +189,6 @@ Aurora Consulting Group uses a Team of 3 model (Client Service Manager, Client C
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Most clients are California based, but the firm regularly supports multi-state and multi-entity businesses with registration, nexus tracking, and consolidated reporting across the jurisdictions where they operate, not just within California."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can you help with nonprofit accounting and board reporting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The firm has worked directly with association and nonprofit leadership on budget-to-actual reporting, grant compliance, and financial statements built for board members without accounting backgrounds."
       }
     },
     {
