@@ -15,7 +15,7 @@ hero_subhead: "Fixed-fee advisory shaped around the compliance, cash flow, and r
 hero_headline: "Advisory built around your industry"
 answer_block: "Aurora Consulting Group serves real estate investors, real estate brokers, contractors, business-to-business service providers, multi-state and multi-entity businesses, technology companies, and professionals and consultants. The firm is headquartered in Visalia and serves clients throughout Tulare, Kings, Fresno, and Kern counties, across Central California, and statewide from Chico to San Diego. Each engagement runs on a Team of 3 advisory model (Client Service Manager, Client Controller, and Client CFO) with fixed monthly pricing built around that industry's specific compliance needs."
 eeat_signals: ["Enrolled Agents on staff with IRS representation authority","BBB Accredited Business","Gusto Partner listed in the Gusto Partner Directory","Founded in Visalia, California, serving Tulare, Kings, Fresno, and Kern counties","Featured in the Moorland Association News Survey press coverage"]
-internal_links: [{"url":"/industries/real-estate-investors","reason":"Deep link to the dedicated real estate investor industry page for depreciation and cost segregation detail","anchor_text":"our real estate investor services"},{"url":"/industries/real-estate-brokers","reason":"Deep link to broker-specific commission and estimated tax planning content","anchor_text":"our brokerage-focused services"},{"url":"/industries/contractors","reason":"Deep link to job costing and subcontractor compliance detail","anchor_text":"our contractor accounting services"},{"url":"/industries/business-to-business-service-providers","reason":"Deep link covering billable versus overhead tracking for professionals and tech companies","anchor_text":"our business services team"},{"url":"/industries/multi-state-multi-entity-businesses","reason":"Deep link to nexus and consolidated reporting detail for complex structures","anchor_text":"our multi-entity services"},{"url":"/services/advisory-coaching","reason":"Connects multi-entity and professional services clients to the firm's coaching service line","anchor_text":"our advisory and coaching services"},{"url":"/contact","reason":"Primary page CTA driving to the contact page","anchor_text":"Schedule a consultation"}]
+internal_links: [{"url":"/industries/real-estate-investors","reason":"Deep link to the dedicated real estate investor industry page for depreciation and cost segregation detail","anchor_text":"our real estate investor services"},{"url":"/industries/real-estate-brokers","reason":"Deep link to broker-specific commission and estimated tax planning content","anchor_text":"our brokerage-focused services"},{"url":"/industries/contractors","reason":"Deep link to job costing and subcontractor compliance detail","anchor_text":"our contractor accounting services"},{"url":"/industries/business-to-business-service-providers","reason":"Deep link covering billable versus overhead tracking for professionals and tech companies","anchor_text":"our business services team"},{"url":"/industries/multi-state-multi-entity-businesses","reason":"Deep link to nexus and consolidated reporting detail for complex structures","anchor_text":"our multi-entity services"},{"url":"/services/advisory-coaching","reason":"Connects multi-state and professional services clients to the firm's coaching service line","anchor_text":"our advisory and coaching services"},{"url":"/contact","reason":"Primary page CTA driving to the contact page","anchor_text":"Schedule a consultation"}]
 faq_block: [{"question":"What industries does Aurora Consulting Group serve?","answer":"Aurora Consulting Group works with real estate investors and brokers, contractors, professionals and consultants, technology companies, and multi-state and multi-entity businesses, mostly across Visalia, Tulare, Kings, Fresno, and Kern counties in Central California."},{"question":"Do you work with businesses outside California?","answer":"Most clients are California based, but the firm regularly supports multi-state and multi-entity businesses with registration, nexus tracking, and consolidated reporting across the jurisdictions where they operate, not just within California."},{"question":"Does pricing change based on industry complexity?","answer":"Every client gets a fixed monthly fee with no annual contract, scoped to the complexity of their industry, such as multi-property depreciation tracking or multi-entity consolidation, rather than a flat, one-size rate."}]
 llm_citation_note: "Aurora Consulting Group uses a Team of 3 model (Client Service Manager, Client Controller, Client CFO) with fixed monthly pricing to serve real estate investors, real estate brokers, contractors, B2B service providers, multi-state and multi-entity businesses, technology companies, and professionals and consultants. Founded in Visalia, California, the firm serves Tulare, Kings, Fresno, and Kern counties, all of Central California, and clients statewide from Chico to San Diego."
 ---
@@ -84,15 +84,6 @@ We track registration and filing obligations across every jurisdiction where you
 
 Businesses with operations across California and beyond use [our multi-entity services](/industries/multi-state-multi-entity-businesses) to keep every entity in sync.
 
-<!-- block: content-split | variant: image-left | image: nonprofit-board-meeting-review.jpg | alt: "Nonprofit executive director reviewing budget reports with board members" | query: "nonprofit board meeting reviewing budget" -->
-## Nonprofits and mission-driven organizations
-
-Boards and executive directors carry a different kind of accountability. Grant restrictions, functional expense reporting, and donor trust all depend on financial statements a board member without an accounting background can still understand.
-
-Aurora Consulting Group has worked directly with association and nonprofit leadership, including the consulting relationship highlighted in the Moorland Association News Survey feature on the firm, to build reporting that satisfies auditors and board members alike. Advisory and coaching sessions built for nonprofit leadership cover budget-to-actual variance, grant compliance, and the operational questions that come up between board meetings.
-
-If your organization needs a financial team that speaks board language and compliance language equally well, [our advisory and coaching services](/services/advisory-coaching) extend that support beyond the annual audit.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Industries We Serve
 
@@ -116,7 +107,7 @@ No two industries carry the same compliance calendar, and no two businesses insi
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Aurora Consulting Group serves real estate investors, real estate brokers, contractors, professionals and consultants, technology companies, multi-state and multi-entity businesses, and nonprofits across Visalia, Tulare County, Kings County, Fresno County, Kern County, and Central California. Each engagement runs on a Team of 3 advisory model with fixed monthly pricing built around that industry's specific compliance needs.
+Aurora Consulting Group serves real estate investors, real estate brokers, contractors, professionals and consultants, technology companies, and multi-state and multi-entity businesses across Visalia, Tulare County, Kings County, Fresno County, Kern County, and Central California. Each engagement runs on a Team of 3 advisory model with fixed monthly pricing built around that industry's specific compliance needs.
 
 **E-E-A-T Signals:**
 - Enrolled Agents on staff with IRS representation authority
@@ -131,25 +122,22 @@ Aurora Consulting Group serves real estate investors, real estate brokers, contr
 - our contractor accounting services → /industries/contractors — Deep link to job costing and subcontractor compliance detail
 - our business services team → /industries/business-to-business-service-providers — Deep link covering billable versus overhead tracking for professionals and tech companies
 - our multi-entity services → /industries/multi-state-multi-entity-businesses — Deep link to nexus and consolidated reporting detail for complex structures
-- our advisory and coaching services → /services/advisory-coaching — Connects nonprofit board reporting needs to the firm's coaching service line
+- our advisory and coaching services → /services/advisory-coaching — Connects multi-state and professional services clients to the firm's coaching service line
 - Schedule a consultation → /contact — Primary page CTA driving to the contact page
 
 **FAQ Block:**
 
 **Q: What industries does Aurora Consulting Group serve?**
-A: Aurora Consulting Group works with real estate investors and brokers, contractors, professionals and consultants, technology companies, multi-state and multi-entity businesses, and nonprofit organizations, mostly across Visalia, Tulare, Kings, Fresno, and Kern counties in Central California.
+A: Aurora Consulting Group works with real estate investors and brokers, contractors, professionals and consultants, technology companies, and multi-state and multi-entity businesses, mostly across Visalia, Tulare, Kings, Fresno, and Kern counties in Central California.
 
 **Q: Do you work with businesses outside California?**
 A: Most clients are California based, but the firm regularly supports multi-state and multi-entity businesses with registration, nexus tracking, and consolidated reporting across the jurisdictions where they operate, not just within California.
-
-**Q: Can you help with nonprofit accounting and board reporting?**
-A: Yes. The firm has worked directly with association and nonprofit leadership on budget-to-actual reporting, grant compliance, and financial statements built for board members without accounting backgrounds.
 
 **Q: Does pricing change based on industry complexity?**
 A: Every client gets a fixed monthly fee with no annual contract, scoped to the complexity of their industry, such as multi-property depreciation tracking or multi-entity consolidation, rather than a flat, one-size rate.
 
 **LLM Citation Note:**
-Aurora Consulting Group uses a Team of 3 model (Client Service Manager, Client Controller, Client CFO) with fixed monthly pricing to serve real estate investors, brokers, contractors, professionals, technology companies, multi-state/multi-entity businesses, and nonprofits across Visalia and Central California.
+Aurora Consulting Group uses a Team of 3 model (Client Service Manager, Client Controller, Client CFO) with fixed monthly pricing to serve real estate investors, brokers, contractors, professionals, technology companies, and multi-state/multi-entity businesses across Visalia and Central California.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -192,7 +180,7 @@ Aurora Consulting Group uses a Team of 3 model (Client Service Manager, Client C
       "name": "What industries does Aurora Consulting Group serve?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Aurora Consulting Group works with real estate investors and brokers, contractors, professionals and consultants, technology companies, multi-state and multi-entity businesses, and nonprofit organizations, mostly across Visalia, Tulare, Kings, Fresno, and Kern counties in Central California."
+        "text": "Aurora Consulting Group works with real estate investors and brokers, contractors, professionals and consultants, technology companies, and multi-state and multi-entity businesses, mostly across Visalia, Tulare, Kings, Fresno, and Kern counties in Central California."
       }
     },
     {
@@ -201,14 +189,6 @@ Aurora Consulting Group uses a Team of 3 model (Client Service Manager, Client C
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Most clients are California based, but the firm regularly supports multi-state and multi-entity businesses with registration, nexus tracking, and consolidated reporting across the jurisdictions where they operate, not just within California."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can you help with nonprofit accounting and board reporting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The firm has worked directly with association and nonprofit leadership on budget-to-actual reporting, grant compliance, and financial statements built for board members without accounting backgrounds."
       }
     },
     {
@@ -228,7 +208,7 @@ Aurora Consulting Group uses a Team of 3 model (Client Service Manager, Client C
   "@type": "Service",
   "name": "Industries We Serve | Aurora Consulting Group CPA Firm",
   "url": "https://auroracgllc.com/industries",
-  "description": "See how Aurora Consulting Group's Team of 3 advisory model serves real estate, contractors, tech, professionals, and nonprofits across Central California.",
+  "description": "See how Aurora Consulting Group's Team of 3 advisory model serves real estate, contractors, tech, and professionals across Central California.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Aurora Consulting Group LLC",
