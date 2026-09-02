@@ -36,7 +36,7 @@ Real estate investors rarely lose money on rent. They lose it on tax strategy no
 
 Our Client CFOs build depreciation tracking into the monthly close, not just the tax return, so cost segregation opportunities get flagged while they still matter. We help structure entities to match how you actually hold and finance property, then keep that structure current as you acquire or sell.
 
-If your portfolio spans Visalia, Fresno County, or beyond, [our real estate investor services](/industries/real-estate-investors) are built around exactly this kind of complexity.
+If your portfolio spans Visalia, Tulare County, Fresno, Kern, or anywhere along the California corridor from Chico to San Diego, [our real estate investor services](/industries/real-estate-investors) are built around exactly this kind of complexity.
 
 <!-- block: content-split | variant: image-left | image: real-estate-broker-commission.jpg | alt: "Real estate broker reviewing commission statements at a desk" | query: "real estate broker reviewing paperwork" -->
 ## Real estate brokers
