@@ -26,15 +26,17 @@ Aurora Consulting Group built its Team of 3 model for exactly this kind of compl
 <!-- block: checklist-section | variant: with-image | image: b2b-financial-challenges.jpg | alt: "Consultant reviewing client billing reports on a laptop at a desk" | query: "consultant reviewing financial reports laptop" -->
 ## Common financial challenges we solve
 
-B2B service firms tend to hit the same walls as they grow, and most generic bookkeeping setups aren't built to catch them.
+B2B service firms tend to hit the same walls as they grow, and most generic bookkeeping setups aren't built to catch them. These show up across every industry we serve — from marketing and advertising agencies in Fresno to event management companies in Visalia to media production firms working across Central California.
 
-- Billable hours and overhead expenses get lumped together, hiding which client engagements are actually profitable
-- Cash flow swings hard between invoicing cycles, especially with net-30 or net-60 client payment terms
-- Owners can't see margin by client or project without hours of manual spreadsheet work
-- Utilization rates and staff capacity aren't connected to the financial picture, making pricing decisions a guessing game
-- Multiple client contracts with different billing structures (retainer, project-based, hourly) complicate revenue recognition
+- Billable costs and overhead expenses get lumped together, hiding which client engagements, events, or productions are actually profitable
+- Cash flow swings sharply between invoicing cycles — especially for event firms carrying pre-event expenses, production companies waiting on project sign-off, or merchandise businesses fronting inventory costs before client payment
+- Advertising and marketing agencies running retainer and project fees simultaneously can't see true margin by client without hours of manual reconciliation
+- Film studio rentals and media production companies struggle to track equipment costs, crew labor, and facility overhead against each production's revenue
+- End-product merchandise companies face the added complexity of inventory valuation, vendor payments, and client billing that don't always land in the same period
+- Multiple client contracts with different billing structures — retainer, project-based, hourly, or milestone — complicate revenue recognition across the board
+- Owners across Tulare, Kings, Fresno, and Kern counties can't get a clear financial picture without a bookkeeping structure built around how their specific business actually earns revenue
 
-Each of these shows up repeatedly across the consulting, agency, and professional services engagements Aurora Consulting Group manages. The fix isn't more spreadsheets. It's a bookkeeping structure built around how service firms actually earn revenue.
+The fix isn't more spreadsheets. It's a bookkeeping structure designed around how your business model actually works.
 
 <!-- block: content-split | variant: image-right | image: engagement-based-accounting.jpg | alt: "Client controller organizing project ledgers and expense categories on a computer" | query: "accountant organizing project files office" -->
 ## Outsourced accounting built around client engagements
