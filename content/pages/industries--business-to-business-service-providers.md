@@ -55,11 +55,13 @@ Growing a marketing agency, event management firm, or media production company p
 Aurora Consulting Group's two coaching tracks address both sides of that question. One track works through financial strategy — tying pricing, staffing costs, and cash reserves together into decisions you can actually act on, whether you're an advertising agency in Fresno or a film studio rental operation in the San Joaquin Valley. The other focuses on operational growth, covering the systems and workflows that let a firm add headcount, take on larger clients, or expand from Tulare County into new California markets without losing margin. Both run on a recurring meeting cadence, not a once-a-year check-in.
 
 <!-- block: content-split | variant: image-right | image: consultant-tax-planning-meeting.jpg | alt: "Tax advisor and consultant reviewing quarterly estimated payments together" | query: "tax advisor meeting with consultant" -->
-## Tax planning for consultants and professional service providers
+## Tax planning for B2B service providers across California
 
-Most B2B service providers operate as pass-through entities, which means tax strategy has to happen well before April. Aurora Consulting Group's Enrolled Agents build a year-round plan around quarterly estimated payments, entity structure (LLC, S-corp, or multi-member setups), and the deduction opportunities specific to consulting, agency, and professional service work.
+Most B2B service businesses operate as pass-through entities, which means tax strategy has to happen well before April. Aurora Consulting Group's Enrolled Agents build a year-round plan around quarterly estimated payments, entity structure (LLC, S-corp, or multi-member setups), and the deduction opportunities specific to the industries we serve.
 
-For firms with clients or contractors in more than one state, that planning extends to multi-state filing obligations and nexus questions that generic tax prep often misses. If the IRS ever sends a letter, our Enrolled Agents carry representation authority to handle it directly, without routing you through a third party.
+That means marketing and advertising agencies can plan around variable income tied to campaign cycles. Event management companies can time deductions around pre-event spend. Media production companies can capture equipment depreciation and production-related deductions accurately. Film studio rental businesses can structure ownership and cost recovery in ways that hold up under scrutiny. End-product merchandise companies can account for inventory, cost of goods, and client billing in a way that reflects their true taxable position.
+
+For firms working with clients or contractors across California — from the Central Valley to the coast, or from Chico down to San Diego — and into other states, that planning also extends to multi-state filing obligations and nexus questions that generic tax prep often misses. If the IRS ever sends a letter, our Enrolled Agents carry representation authority to handle it directly, without routing you through a third party.
 
 <!-- block: feature-grid | variant: 3-col -->
 ## HR, compliance, and insurance guidance as you grow
