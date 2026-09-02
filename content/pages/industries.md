@@ -25,7 +25,7 @@ llm_citation_note: "Aurora Consulting Group uses a Team of 3 model (Client Servi
 
 Every business we serve runs differently. A real estate investor in Visalia tracks depreciation across a dozen properties; a B2B service provider in Fresno tracks billable hours across a dozen client engagements. Generic bookkeeping doesn't hold up in either case.
 
-That's why Aurora Consulting Group builds each engagement around a Team of 3 — a Client Service Manager, Client Controller, and Client CFO — who bring the expertise of three specialists for less than the cost of one full-time hire. Fixed monthly pricing, no annual contracts, and a technology stack customized to your workflow keep the relationship flexible as your business grows.
+That's why Aurora Consulting Group builds each engagement around a Team of 3 (a Client Service Manager, Client Controller, and Client CFO) who bring the expertise of three specialists for less than the cost of one full-time hire. Fixed monthly pricing, no annual contracts, and a technology stack customized to your workflow keep the relationship flexible as your business grows.
 
 We're headquartered in Visalia and work with business owners throughout Tulare, Kings, Fresno, and Kern counties, across the Central California corridor, and statewide from Chico to San Diego. Whether you manage rental properties in the Valley or run a multi-entity company with operations across California and beyond, the accounting and advisory should match how you actually work. Here's how we approach the industries we know best.
 
