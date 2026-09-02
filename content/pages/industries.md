@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "industry-advisory-meeting.jpg"
 hero_image_alt: "Advisor and small business owner reviewing financial reports together in an office"
-hero_subhead: "Fixed-fee advisory shaped around the compliance, cash flow, and reporting needs of your specific industry — serving Visalia, Tulare, Kings, Fresno, and Kern counties and business owners across California from Chico to San Diego"
+hero_subhead: "Fixed-fee advisory shaped around the compliance, cash flow, and reporting needs of your specific industry, serving Visalia, Tulare, Kings, Fresno, and Kern counties and business owners across California from Chico to San Diego"
 hero_headline: "Advisory built around your industry"
 answer_block: "Aurora Consulting Group serves real estate investors, real estate brokers, contractors, business-to-business service providers, multi-state and multi-entity businesses, technology companies, professionals and consultants, and nonprofits. The firm is headquartered in Visalia and serves clients throughout Tulare, Kings, Fresno, and Kern counties, across Central California, and statewide from Chico to San Diego. Each engagement runs on a Team of 3 advisory model — Client Service Manager, Client Controller, and Client CFO — with fixed monthly pricing built around that industry's specific compliance needs."
 eeat_signals: ["Enrolled Agents on staff with IRS representation authority","BBB Accredited Business","Gusto Partner listed in the Gusto Partner Directory","Founded in Visalia, California, serving Tulare, Kings, Fresno, and Kern counties","Featured in the Moorland Association News Survey press coverage"]
