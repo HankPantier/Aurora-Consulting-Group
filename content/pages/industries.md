@@ -107,7 +107,7 @@ No two industries carry the same compliance calendar, and no two businesses insi
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Aurora Consulting Group serves real estate investors, real estate brokers, contractors, professionals and consultants, technology companies, multi-state and multi-entity businesses, and nonprofits across Visalia, Tulare County, Kings County, Fresno County, Kern County, and Central California. Each engagement runs on a Team of 3 advisory model with fixed monthly pricing built around that industry's specific compliance needs.
+Aurora Consulting Group serves real estate investors, real estate brokers, contractors, professionals and consultants, technology companies, and multi-state and multi-entity businesses across Visalia, Tulare County, Kings County, Fresno County, Kern County, and Central California. Each engagement runs on a Team of 3 advisory model with fixed monthly pricing built around that industry's specific compliance needs.
 
 **E-E-A-T Signals:**
 - Enrolled Agents on staff with IRS representation authority
