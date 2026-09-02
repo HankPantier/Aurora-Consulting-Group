@@ -26,7 +26,7 @@ Aurora Consulting Group built its Team of 3 model for exactly this kind of compl
 <!-- block: checklist-section | variant: with-image | image: b2b-financial-challenges.jpg | alt: "Consultant reviewing client billing reports on a laptop at a desk" | query: "consultant reviewing financial reports laptop" -->
 ## Common financial challenges we solve
 
-B2B service firms tend to hit the same walls as they grow, and most generic bookkeeping setups aren't built to catch them. These show up across every industry we serve — from marketing and advertising agencies in Fresno to event management companies in Visalia to media production firms working across Central California.
+B2B service firms tend to hit the same walls as they grow, and most generic bookkeeping setups aren't built to catch them. These show up across every industry we serve, from marketing and advertising agencies in Fresno to event management companies in Visalia to media production firms working across Central California.
 
 - Billable costs and overhead expenses get lumped together, hiding which client engagements, events, or productions are actually profitable
 - Cash flow swings sharply between invoicing cycles — especially for event firms carrying pre-event expenses, production companies waiting on project sign-off, or merchandise businesses fronting inventory costs before client payment
