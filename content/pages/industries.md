@@ -128,7 +128,7 @@ Aurora Consulting Group serves real estate investors, real estate brokers, contr
 **FAQ Block:**
 
 **Q: What industries does Aurora Consulting Group serve?**
-A: Aurora Consulting Group works with real estate investors and brokers, contractors, professionals and consultants, technology companies, multi-state and multi-entity businesses, and nonprofit organizations, mostly across Visalia, Tulare, Kings, Fresno, and Kern counties in Central California.
+A: Aurora Consulting Group works with real estate investors and brokers, contractors, professionals and consultants, technology companies, and multi-state and multi-entity businesses, mostly across Visalia, Tulare, Kings, Fresno, and Kern counties in Central California.
 
 **Q: Do you work with businesses outside California?**
 A: Most clients are California based, but the firm regularly supports multi-state and multi-entity businesses with registration, nexus tracking, and consolidated reporting across the jurisdictions where they operate, not just within California.
