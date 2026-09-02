@@ -33,7 +33,7 @@ B2B service firms tend to hit the same walls as they grow, and most generic book
 - Advertising and marketing agencies running retainer and project fees simultaneously can't see true margin by client without hours of manual reconciliation
 - Film studio rentals and media production companies struggle to track equipment costs, crew labor, and facility overhead against each production's revenue
 - End-product merchandise companies face the added complexity of inventory valuation, vendor payments, and client billing that don't always land in the same period
-- Multiple client contracts with different billing structures — retainer, project-based, hourly, or milestone — complicate revenue recognition across the board
+- Multiple client contracts with different billing structures (retainer, project-based, hourly, or milestone) complicate revenue recognition across the board
 - Owners across Tulare, Kings, Fresno, and Kern counties can't get a clear financial picture without a bookkeeping structure built around how their specific business actually earns revenue
 
 The fix isn't more spreadsheets. It's a bookkeeping structure designed around how your business model actually works.
