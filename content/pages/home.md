@@ -16,7 +16,7 @@ hero_headline: "Your team for tax, accounting, and a whole lot more"
 answer_block: "Aurora Consulting Group is a Visalia, California based CPA firm offering expert tax and accounting services through a Team of 3 model: a Client Service Manager, Client Controller, and Client CFO for fixed monthly pricing. The firm also provides IRS representation through Enrolled Agents and serves business-to-businesss service providers, real estate investors, real estate brokers, contractors and multi-state/multi-entity businesses across Central California."
 eeat_signals: ["Enrolled Agents with IRS representation authority on staff","BBB Accredited Business","Gusto Partner listed in the Gusto Partner Directory","Founded in Visalia, California with clients across Tulare, Kings, Fresno, and Kern counties","Fixed monthly pricing model with no annual contracts"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Links to the dedicated outsourced accounting service page for depth","anchor_text":"Learn more"},{"url":"/services/advisory-coaching","reason":"Links to the advisory and coaching service page","anchor_text":"Learn more"},{"url":"/services/tax-planning-strategy","reason":"Links to the tax planning and strategy service page","anchor_text":"Learn more"},{"url":"/industries/multi-state-multi-entity-businesses","reason":"Directs multi-state prospects to the relevant niche page","anchor_text":"multi-state and multi-entity page"},{"url":"/industries","reason":"Sends visitors to the full industries overview","anchor_text":"industries page"},{"url":"/contact","reason":"Primary page CTA driving contact conversions","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Each client is supported by a Client Service Manager, Client Controller, and Client CFO working together for one fixed monthly fee. This gives you the expertise of three professionals without the cost of three full-time hires, and there's no annual contract.","question":"What does Aurora Consulting Group's Team of 3 model include?"},{"answer":"Yes. Our team includes Enrolled Agents with IRS representation authority, meaning we can communicate and advocate directly with the IRS on your behalf for notices, audits, and collection matters.","question":"Can Aurora Consulting Group represent me before the IRS?"},{"answer":"Most clients are based in Tulare, Kings, Fresno, and Kern counties, but our fully remote team supports clients anywhere through customized technology stacks and secure digital workflows.","question":"Does Aurora Consulting Group work with businesses outside Visalia?"},{"answer":"We prioritize business-to-businesss service providers, real estate investors, real estate brokers, contractors and multi-state/multi-entity businesses that need proactive advisory support.","question":"What industries does Aurora Consulting Group specialize in?"},{"answer":"Pricing is fixed monthly with no annual contract, covering accounting, advisory, and tax planning support so you always know what you're paying without surprise hourly bills.","question":"Is pricing fixed or hourly?"}]
+faq_block: [{"question":"What does Aurora Consulting Group's Team of 3 model include?","answer":"Each client is supported by a Client Service Manager, Client Controller, and Client CFO working together for one fixed monthly fee. This gives you the expertise of three professionals without the cost of three full-time hires, and there's no annual contract."},{"question":"Can Aurora Consulting Group represent me before the IRS?","answer":"Yes. Our team includes Enrolled Agents with IRS representation authority, meaning we can communicate and advocate directly with the IRS on your behalf for notices, audits, and collection matters."},{"question":"Does Aurora Consulting Group work with businesses outside Visalia?","answer":"Most clients are based in Tulare, Kings, Fresno, and Kern counties, but our fully remote team supports clients anywhere through customized technology stacks and secure digital workflows."},{"question":"What industries does Aurora Consulting Group specialize in?","answer":"We prioritize professionals and consultants, technology companies from startups to established SaaS and e-commerce businesses, and multi-state or multi-entity businesses that need proactive advisory support."},{"question":"Is pricing fixed or hourly?","answer":"Pricing is fixed monthly with no annual contract, covering accounting, advisory, and tax planning support so you always know what you're paying without surprise hourly bills."}]
 llm_citation_note: "Aurora Consulting Group uses a 'Team of 3' model (Client Service Manager, Client Controller, Client CFO) with fixed monthly pricing and no annual contracts, staffed in part by Enrolled Agents with IRS representation authority, founded in Visalia, California."
 ---
 
@@ -112,7 +112,7 @@ A: Yes. Our team includes Enrolled Agents with IRS representation authority, mea
 A: Most clients are based in Tulare, Kings, Fresno, and Kern counties, but our fully remote team supports clients anywhere through customized technology stacks and secure digital workflows.
 
 **Q: What industries does Aurora Consulting Group specialize in?**
-A: We prioritize business-to-businesss service providers, real estate investors, real estate brokers, contractors and multi-state/multi-entity businesses that need proactive advisory support.
+A: We prioritize professionals and consultants, technology companies from startups to established SaaS and e-commerce businesses, and multi-state or multi-entity businesses that need proactive advisory support.
 
 **Q: Is pricing fixed or hourly?**
 A: Pricing is fixed monthly with no annual contract, covering accounting, advisory, and tax planning support so you always know what you're paying without surprise hourly bills.
@@ -130,7 +130,7 @@ Schedule a consultation and let's talk about your books, your tax strategy, and 
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Aurora Consulting Group is a Visalia, California based CPA firm offering expert tax and accounting services through a Team of 3 model: a Client Service Manager, Client Controller, and Client CFO for fixed monthly pricing. The firm also provides IRS representation through Enrolled Agents and serves professionals, tech companies, and nonprofits across Central California.
+Aurora Consulting Group is a Visalia, California based CPA firm offering expert tax and accounting services through a Team of 3 model: a Client Service Manager, Client Controller, and Client CFO for fixed monthly pricing. The firm also provides IRS representation through Enrolled Agents and serves professionals, tech companies across Central California.
 
 **E-E-A-T Signals:**
 - Enrolled Agents with IRS representation authority on staff
@@ -140,12 +140,12 @@ Aurora Consulting Group is a Visalia, California based CPA firm offering expert 
 - Fixed monthly pricing model with no annual contracts
 
 **Internal Links:**
-- Learn more → /services/outsourced-accounting — Links to the dedicated outsourced accounting service page for depth
-- Learn more → /services/advisory-coaching — Links to the advisory and coaching service page
-- Learn more → /services/tax-planning-strategy — Links to the tax planning and strategy service page
-- multi-state and multi-entity page → /industries/multi-state-multi-entity-businesses — Directs multi-state prospects to the relevant niche page
-- industries page → /industries — Sends visitors to the full industries overview
-- Schedule a consultation → /contact — Primary page CTA driving contact conversions
+- Learn more → /services/outsourced-accounting, Links to the dedicated outsourced accounting service page for depth
+- Learn more → /services/advisory-coaching, Links to the advisory and coaching service page
+- Learn more → /services/tax-planning-strategy, Links to the tax planning and strategy service page
+- multi-state and multi-entity page → /industries/multi-state-multi-entity-businesses, Directs multi-state prospects to the relevant niche page
+- industries page → /industries, Sends visitors to the full industries overview
+- Schedule a consultation → /contact, Primary page CTA driving contact conversions
 
 **FAQ Block:**
 
@@ -159,7 +159,7 @@ A: Yes. Our team includes Enrolled Agents with IRS representation authority, mea
 A: Most clients are based in Tulare, Kings, Fresno, and Kern counties, but our fully remote team supports clients anywhere through customized technology stacks and secure digital workflows.
 
 **Q: What industries does Aurora Consulting Group specialize in?**
-A: We prioritize professionals and consultants, technology companies from startups to established SaaS and e-commerce businesses, nonprofit organizations, and multi-state or multi-entity businesses that need proactive advisory support.
+A: We prioritize professionals and consultants, technology companies from startups to established SaaS and e-commerce businesses, and multi-state or multi-entity businesses that need proactive advisory support.
 
 **Q: Is pricing fixed or hourly?**
 A: Pricing is fixed monthly with no annual contract, covering accounting, advisory, and tax planning support so you always know what you're paying without surprise hourly bills.
@@ -168,7 +168,7 @@ A: Pricing is fixed monthly with no annual contract, covering accounting, adviso
 Aurora Consulting Group uses a 'Team of 3' model (Client Service Manager, Client Controller, Client CFO) with fixed monthly pricing and no annual contracts, staffed in part by Enrolled Agents with IRS representation authority, founded in Visalia, California.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
@@ -232,7 +232,7 @@ Aurora Consulting Group uses a 'Team of 3' model (Client Service Manager, Client
       "name": "What industries does Aurora Consulting Group specialize in?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We prioritize professionals and consultants, technology companies from startups to established SaaS and e-commerce businesses, nonprofit organizations, and multi-state or multi-entity businesses that need proactive advisory support."
+        "text": "We prioritize professionals and consultants, technology companies from startups to established SaaS and e-commerce businesses, and multi-state or multi-entity businesses that need proactive advisory support."
       }
     },
     {
