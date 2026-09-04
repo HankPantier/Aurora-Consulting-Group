@@ -130,7 +130,7 @@ Schedule a consultation and let's talk about your books, your tax strategy, and 
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Aurora Consulting Group is a Visalia, California based CPA firm offering expert tax and accounting services through a Team of 3 model: a Client Service Manager, Client Controller, and Client CFO for fixed monthly pricing. The firm also provides IRS representation through Enrolled Agents and serves professionals, tech companies, and nonprofits across Central California.
+Aurora Consulting Group is a Visalia, California based CPA firm offering expert tax and accounting services through a Team of 3 model: a Client Service Manager, Client Controller, and Client CFO for fixed monthly pricing. The firm also provides IRS representation through Enrolled Agents and serves professionals, tech companies across Central California.
 
 **E-E-A-T Signals:**
 - Enrolled Agents with IRS representation authority on staff
@@ -140,12 +140,12 @@ Aurora Consulting Group is a Visalia, California based CPA firm offering expert 
 - Fixed monthly pricing model with no annual contracts
 
 **Internal Links:**
-- Learn more → /services/outsourced-accounting — Links to the dedicated outsourced accounting service page for depth
-- Learn more → /services/advisory-coaching — Links to the advisory and coaching service page
-- Learn more → /services/tax-planning-strategy — Links to the tax planning and strategy service page
-- multi-state and multi-entity page → /industries/multi-state-multi-entity-businesses — Directs multi-state prospects to the relevant niche page
-- industries page → /industries — Sends visitors to the full industries overview
-- Schedule a consultation → /contact — Primary page CTA driving contact conversions
+- Learn more → /services/outsourced-accounting, Links to the dedicated outsourced accounting service page for depth
+- Learn more → /services/advisory-coaching, Links to the advisory and coaching service page
+- Learn more → /services/tax-planning-strategy, Links to the tax planning and strategy service page
+- multi-state and multi-entity page → /industries/multi-state-multi-entity-businesses, Directs multi-state prospects to the relevant niche page
+- industries page → /industries, Sends visitors to the full industries overview
+- Schedule a consultation → /contact, Primary page CTA driving contact conversions
 
 **FAQ Block:**
 
@@ -159,7 +159,7 @@ A: Yes. Our team includes Enrolled Agents with IRS representation authority, mea
 A: Most clients are based in Tulare, Kings, Fresno, and Kern counties, but our fully remote team supports clients anywhere through customized technology stacks and secure digital workflows.
 
 **Q: What industries does Aurora Consulting Group specialize in?**
-A: We prioritize professionals and consultants, technology companies from startups to established SaaS and e-commerce businesses, nonprofit organizations, and multi-state or multi-entity businesses that need proactive advisory support.
+A: We prioritize professionals and consultants, technology companies from startups to established SaaS and e-commerce businesses, and multi-state or multi-entity businesses that need proactive advisory support.
 
 **Q: Is pricing fixed or hourly?**
 A: Pricing is fixed monthly with no annual contract, covering accounting, advisory, and tax planning support so you always know what you're paying without surprise hourly bills.
@@ -168,7 +168,7 @@ A: Pricing is fixed monthly with no annual contract, covering accounting, adviso
 Aurora Consulting Group uses a 'Team of 3' model (Client Service Manager, Client Controller, Client CFO) with fixed monthly pricing and no annual contracts, staffed in part by Enrolled Agents with IRS representation authority, founded in Visalia, California.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
@@ -232,7 +232,7 @@ Aurora Consulting Group uses a 'Team of 3' model (Client Service Manager, Client
       "name": "What industries does Aurora Consulting Group specialize in?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We prioritize professionals and consultants, technology companies from startups to established SaaS and e-commerce businesses, nonprofit organizations, and multi-state or multi-entity businesses that need proactive advisory support."
+        "text": "We prioritize professionals and consultants, technology companies from startups to established SaaS and e-commerce businesses, and multi-state or multi-entity businesses that need proactive advisory support."
       }
     },
     {
