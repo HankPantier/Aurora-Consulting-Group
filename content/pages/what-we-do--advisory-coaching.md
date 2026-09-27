@@ -83,7 +83,7 @@ Four times a year, we step back from the month-to-month and look at KPIs, tax po
 Questions don't wait for a scheduled call. You reach your Team of 3 directly, and pricing stays fixed each month with no annual contract locking you in.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Business Coaching Services | Aurora Consulting Group LLC
+## Frequently Asked Questions About Business Coaching Services
 
 **Q: What is included in business coaching services at Aurora Consulting Group?**
 A: Coaching includes two tracks: financial strategy coaching covering cash flow, KPIs, and pricing decisions, and personal leadership coaching covering mindset, delegation, and work-life balance. Both are delivered by your Client CFO as part of the Team of 3 model.

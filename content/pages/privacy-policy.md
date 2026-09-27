@@ -60,7 +60,7 @@ You have the right to ask what personal information we hold, request corrections
 - Ask questions about how your financial data moves through our systems
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Privacy Policy | Aurora Consulting Group LLC
+## Frequently Asked Questions About Privacy Policy
 
 **Q: Does Aurora Consulting Group sell my personal information?**
 A: No. Aurora Consulting Group LLC does not sell client or website visitor data to third parties. Information is used only to deliver outsourced accounting, tax planning, and advisory services, and to communicate with you about your engagement.

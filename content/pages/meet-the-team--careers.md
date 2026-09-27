@@ -74,7 +74,7 @@ We treat credentials as career investments, not checkboxes. Team members pursuin
 Multi-state and multi-entity work is where the firm is growing fastest, so team members who develop expertise in state nexus rules, intercompany transactions, and consolidated reporting find themselves handling increasingly complex client relationships. Technology fluency matters too: each client runs on a customized stack, and comfort learning new platforms translates directly into career advancement.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Careers | Aurora Consulting Group LLC
+## Frequently Asked Questions About Careers
 
 **Q: Does Aurora Consulting Group hire remote accounting staff?**
 A: Yes. The firm operates fully remote and hires across its Team of 3 model, Client Service Manager, Client Controller, and Client CFO roles, along with Enrolled Agent and tax strategy positions supporting clients across Central California.

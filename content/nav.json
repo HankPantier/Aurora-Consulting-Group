@@ -49,19 +49,19 @@
       "url": "/meet-the-team",
       "children": [
         {
-          "label": "Meet Our Team | Aurora Consulting Group LLC",
+          "label": "Meet Our Team",
           "url": "/meet-the-team/your-team"
         },
         {
-          "label": "Our Mission | Aurora Consulting Group LLC",
+          "label": "Our Mission",
           "url": "/meet-the-team/our-mission"
         },
         {
-          "label": "How We Serve | Aurora Consulting Group LLC",
+          "label": "How We Serve",
           "url": "/meet-the-team/how-we-serve"
         },
         {
-          "label": "Careers | Aurora Consulting Group LLC",
+          "label": "Careers",
           "url": "/meet-the-team/careers"
         }
       ]
@@ -75,18 +75,22 @@
       "url": "/resources",
       "children": [
         {
-          "label": "Insights | Aurora Consulting Group LLC",
+          "label": "Insights",
           "url": "/resources/insights"
         },
         {
-          "label": "Forms, Documents & Links | Aurora Consulting Group LLC",
+          "label": "Forms, Documents & Links",
           "url": "/resources/forms-documents-links"
         }
       ]
     },
     {
-      "label": "Contact Us | Aurora Consulting Group LLC",
+      "label": "Contact Us",
       "url": "/contact"
     }
-  ]
+  ],
+  "cta": {
+    "label": "Contact us",
+    "url": "/contact"
+  }
 }

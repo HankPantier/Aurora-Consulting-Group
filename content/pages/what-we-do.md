@@ -89,7 +89,7 @@ There's no annual contract locking you in. If the fit isn't right, either side c
 Compare that to hourly billing that punishes you for asking questions, or a bundled contract that locks you into services you don't need yet. Fixed monthly pricing keeps budgeting straightforward, and it keeps the Team of 3 accountable to deliver value, not just renew a contract.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Outsourced Accounting Solutions | Aurora Consulting Group LLC
+## Frequently Asked Questions About Outsourced Accounting Solutions
 
 **Q: What is outsourced accounting?**
 A: Outsourced accounting means hiring an outside team, rather than in-house staff, to handle bookkeeping, reconciliations, and financial reporting. Aurora pairs each client with a Client Service Manager, Client Controller, and Client CFO for a fraction of one full-time salary.

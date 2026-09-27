@@ -98,7 +98,7 @@ Clients describe the team as compassionate and practical, the kind of firm that 
 None of that replaces a conversation. If you want to know whether this team fits how your business actually runs, the fastest way to find out is to talk with us directly.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Meet Our Team | Aurora Consulting Group LLC
+## Frequently Asked Questions About Meet Our Team
 
 **Q: What is Aurora Consulting Group's Team of 3 model?**
 A: Every client gets a Client Service Manager, Client Controller, and Client CFO working together, giving you the combined expertise of three professionals for less than the cost of one full-time in-house hire.

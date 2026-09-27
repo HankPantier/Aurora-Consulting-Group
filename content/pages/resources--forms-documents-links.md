@@ -87,7 +87,7 @@ A checklist tells you what's missing. It doesn't tell you what to do about it, a
 Most clients get more value from these documents in the context of a fixed-monthly relationship than they would trying to piece together answers on their own. If you'd like a second set of eyes on any of the forms above, [schedule a consultation](/contact) and we'll walk through them together.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Forms, Documents & Links | Aurora Consulting Group LLC
+## Frequently Asked Questions About Forms, Documents & Links
 
 **Q: Are these accounting forms free to download?**
 A: Yes, these checklists and worksheets are provided as a resource for prospective and current clients. They're most useful when reviewed alongside your Client Service Manager, Client Controller, and Client CFO during a scheduled consultation.

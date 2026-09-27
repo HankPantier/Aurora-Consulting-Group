@@ -59,7 +59,7 @@ Bookkeeping practices, technology stacks, and back-office workflows for technolo
 [Read more](/services/outsourced-accounting)
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Insights | Aurora Consulting Group LLC
+## Frequently Asked Questions About Insights
 
 **Q: What topics does the Aurora Consulting Group Insights hub cover?**
 A: Insights covers tax planning, HR and compliance updates, cash flow strategy, and accounting practices for professionals, technology companies, nonprofits, and multi-state or multi-entity businesses. Content reflects real questions the firm's Enrolled Agents and Client CFOs handle for clients each month.

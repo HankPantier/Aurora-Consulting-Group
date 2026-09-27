@@ -86,7 +86,7 @@ Hourly billing creates an incentive to work slowly and a habit of dreading the i
 You'll know the cost of working with us before you sign anything, and you're free to leave if the fit changes. That's the kind of transparency we'd want from an advisor of our own.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About How We Serve | Aurora Consulting Group LLC
+## Frequently Asked Questions About How We Serve
 
 **Q: What does Aurora Consulting Group's Team of 3 include?**
 A: Every client works with a Client Service Manager, Client Controller, and Client CFO. Together they cover daily communication, accurate bookkeeping, and strategic financial guidance, giving you three specialists for less than the cost of hiring one in-house accountant.
