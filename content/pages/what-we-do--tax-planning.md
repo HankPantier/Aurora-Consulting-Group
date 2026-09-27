@@ -89,7 +89,7 @@ Tax planning shouldn't come with a bill that changes based on how many questions
 If your business changes, whether you add an entity, hire your first employee, or expand into a new state, your plan adjusts and so does the pricing conversation, openly and in advance. No retainer surprises, no by-the-hour clock running during a planning call. Clients tell us this is the difference between calling with a question and avoiding the phone because they're worried about the invoice.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Tax Planning & Preparation Services | Aurora Consulting Group
+## Frequently Asked Questions About Tax Planning & Preparation Services
 
 **Q: What is the difference between tax planning and tax preparation?**
 A: Tax preparation is filing an accurate return once a year. Tax planning is the year-round strategy work, entity elections, timing decisions, and quarterly estimates, that determines what that return will actually say. Aurora does both, built around ongoing planning conversations.

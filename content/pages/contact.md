@@ -51,7 +51,7 @@ We spend 20 to 30 minutes learning your business, your entity structure, and whe
 If it's a fit, you'll get a proposal with fixed monthly pricing built around your Team of 3, tied to the work your business actually needs. No long-term lock-in, no surprise hourly billing.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Contact Us | Aurora Consulting Group LLC
+## Frequently Asked Questions About Contact Us
 
 **Q: How much does Aurora Consulting Group charge?**
 A: Pricing is a fixed monthly fee based on the scope of your accounting, tax, and advisory needs, not hourly billing. There are no annual contracts, so the fee can adjust as your business grows or your needs change.

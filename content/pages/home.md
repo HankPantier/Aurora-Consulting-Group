@@ -100,7 +100,7 @@ Aurora Consulting Group was founded in Visalia, and most of our clients are base
 Our team operates fully remote, connected through customized technology stacks and secure digital workflows designed around each client's business, not a one-size-fits-all portal. You get the same responsiveness, the same faces on video calls, and the same fixed monthly invoice, whether your office is in Visalia or three states away.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Expert Tax & Accounting Services | Aurora Consulting Group
+## Frequently Asked Questions About Expert Tax & Accounting Services
 
 **Q: What does Aurora Consulting Group's Team of 3 model include?**
 A: Each client is supported by a Client Service Manager, Client Controller, and Client CFO working together for one fixed monthly fee. This gives you the expertise of three professionals without the cost of three full-time hires, and there's no annual contract.

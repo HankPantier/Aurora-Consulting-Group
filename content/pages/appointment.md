@@ -82,7 +82,7 @@ Fixed monthly pricing and no annual contracts mean the first call carries zero l
 Based in Visalia, California, our team meets with business owners across Tulare, Kings, Fresno, and Kern counties, and with clients statewide who prefer to work entirely online.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Schedule an Appointment | Aurora Consulting Group LLC
+## Frequently Asked Questions About Schedule an Appointment
 
 **Q: What happens during my first call with Aurora Consulting Group?**
 A: Your first call is led by a Client Service Manager and runs 30 to 45 minutes. We'll discuss your entity structure, current bookkeeping setup, and the challenges pulling your attention away from running your business, then outline clear next steps if we're a good fit.

@@ -82,7 +82,7 @@ Aurora Consulting Group started in Visalia, California, and most of our clients 
 Being remote from the start let that same team take on clients with operations in other states without missing a step. Multi-state and multi-entity businesses get the same Team of 3 structure, the same fixed monthly pricing, and the same Enrolled Agent representation, wherever the entities are registered.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Meet Our Team | Aurora Consulting Group LLC
+## Frequently Asked Questions About Meet Our Team
 
 **Q: What is the Team of 3 model at Aurora Consulting Group?**
 A: Every client is assigned a Client Service Manager, Client Controller, and Client CFO. Together they cover day-to-day bookkeeping, financial review, and strategic decision-making, giving clients three specialists' expertise for less than the cost of one full-time hire.

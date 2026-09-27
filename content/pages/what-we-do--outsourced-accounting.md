@@ -104,7 +104,7 @@ Pricing scales with real factors: number of entities, transaction volume, payrol
 If your needs change, your plan changes with them, discussed openly at your next advisory meeting rather than buried in fine print months later.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Bookkeeping, Tax & QuickBooks Experts | Aurora Consulting Group
+## Frequently Asked Questions About Bookkeeping, Tax & QuickBooks Experts
 
 **Q: What does outsourced bookkeeping with Aurora Consulting Group include?**
 A: Your plan covers daily bookkeeping, bank and credit card reconciliations, monthly financial statements, payroll coordination through Gusto, and QuickBooks setup or cleanup, all managed by a Client Service Manager, Client Controller, and Client CFO on a technology stack built for your business.

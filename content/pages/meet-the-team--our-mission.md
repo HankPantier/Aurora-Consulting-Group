@@ -71,7 +71,7 @@ icon: HeartPulse
 Nonprofits answer to boards, grantors, and the communities they serve. Meticulous accounting and transparent reporting aren't optional here. They're the foundation of trust the mission depends on.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Our Mission | Aurora Consulting Group LLC
+## Frequently Asked Questions About Our Mission
 
 **Q: What is Aurora Consulting Group's mission?**
 A: To empower entrepreneurs by building enduring relationships through strategic tax planning, meticulous accounting, insightful advisory, and supportive coaching. The firm was founded in Visalia, California, to give business owners a year-round financial team instead of a seasonal tax preparer.

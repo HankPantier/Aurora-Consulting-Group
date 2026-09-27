@@ -69,7 +69,7 @@ We'd rather show you how an advisory relationship actually works than tell you i
 These aren't polished case studies written to sell a service. They're the kind of practical takeaways you'd get sitting across the table from your Client CFO, because that relationship-driven approach is the whole point of how we work.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Category: Blog | Aurora Consulting Group LLC
+## Frequently Asked Questions About Category: Blog
 
 **Q: What topics does the Aurora Consulting Group blog cover?**
 A: The blog covers tax planning, outsourced accounting, HR and compliance, multi-state and multi-entity operations, and advisory coaching, with a focus on professionals, technology companies, and nonprofit organizations.

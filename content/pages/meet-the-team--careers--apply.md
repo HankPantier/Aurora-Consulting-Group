@@ -114,7 +114,7 @@ If you'd rather talk before applying, you can [schedule a consultation](/contact
 Tell us a bit about yourself below: your resume, the position you're interested in, and a short note on why Aurora caught your attention. We read every application personally, and we'll follow up directly, whether the answer is yes or not yet.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Apply Now | Careers | Aurora Consulting Group LLC
+## Frequently Asked Questions About Apply Now
 
 **Q: Does Aurora Consulting Group offer remote accounting jobs?**
 A: Yes. Aurora is a fully remote firm founded in Visalia, California, and every position, from staff accountant to tax strategist, works remotely with a customized digital workflow built for each client relationship.
