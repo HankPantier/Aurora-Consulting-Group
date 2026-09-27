@@ -88,5 +88,9 @@
       "label": "Contact Us",
       "url": "/contact"
     }
-  ]
+  ],
+  "cta": {
+    "label": "Contact us",
+    "url": "/contact"
+  }
 }
