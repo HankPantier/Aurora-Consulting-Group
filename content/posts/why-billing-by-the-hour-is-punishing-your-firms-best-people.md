@@ -74,4 +74,4 @@ Often, yes. Reputable cost segregation firms will quote a fixed fee based on pro
 **How does Aurora Consulting Group price its own services?**
 Fixed monthly pricing, with no annual contract required. You get a Client Service Manager, Controller, and CFO for less than the cost of one full-time hire, and the fee doesn't change because a filing got complicated or a deal closed late. It's the same alignment we're recommending you look for elsewhere.
 
-If you're evaluating how your attorneys, consultants, or your own service business charge for their time, we'd like to walk through it with you. [Contact Aurora Consulting Group](/contact) to set up a conversation about your next deal or your own pricing model.
+If you're a law firm, consulting firm, or other professional service business rethinking how you bill for your team's time, we'd like to walk through it with you. [Contact Aurora Consulting Group](/contact) to set up a conversation about your pricing model.
