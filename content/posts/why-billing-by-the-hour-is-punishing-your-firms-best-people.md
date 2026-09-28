@@ -63,17 +63,17 @@ That certainty matters especially for [business-to-business service providers](/
 
 ## Common Questions
 
-**What's the real difference between value-based pricing and hourly billing?**
-Hourly billing charges for time spent; value-based pricing charges for the outcome delivered, usually as a flat fee or milestone fee agreed before the work starts. For a real estate investor, that means an entity formation or cost segregation study has a known cost before you commit, instead of an open-ended invoice.
+**How do I know if my firm's engagements are predictable enough for a flat fee?**
+Look at the work you handle most often. If you can describe the deliverable and the typical steps to get there before the engagement starts, such as a standard entity formation, a routine compliance review, or a recurring retainer, it's a strong candidate for a flat or milestone fee. Genuinely unpredictable work, like contested litigation, usually still needs an hourly structure.
 
-**Should I push my attorney or consultant to quote a flat fee?**
-Yes, for any work with a predictable scope, such as LLC formation, standard purchase agreements, or a routine 1031 exchange. Ask for the flat fee and compare it to what a similar engagement would run hourly. Complex litigation or contested disputes are the exception, since the scope genuinely isn't known upfront.
+**Will moving to value-based pricing change how I manage cash flow?**
+It can, in a good way. A flat or milestone fee is easier to forecast than fluctuating hourly invoices, which makes revenue more predictable month to month. That's also where an advisory relationship helps, modeling out what the shift does to your margins before you roll it out firm-wide.
 
-**Does value-based pricing work for cost segregation studies?**
-Often, yes. Reputable cost segregation firms will quote a fixed fee based on property size, asset class, and complexity rather than billing hourly for the engineer's site time. Get that quote in writing before the study starts, and confirm what happens if the property has unusual features that add scope.
+**How long does it take to transition a law firm or consulting firm to value-based fees?**
+Most firms phase it in rather than converting everything at once. Start with your two or three most repeatable services, price those as flat fees, and expand once you've confirmed the pricing holds up against your actual delivery costs. A full transition usually happens over several engagement cycles, not overnight.
 
 **How does Aurora Consulting Group price its own services?**
-Fixed monthly pricing, with no annual contract required. You get a Client Service Manager, Controller, and CFO for less than the cost of one full-time hire, and the fee doesn't change because a filing got complicated or a deal closed late. It's the same alignment we're recommending you look for elsewhere.
+Fixed monthly pricing, with no annual contract required. You get a Client Service Manager, Client Controller, and Client CFO for less than the cost of one full-time hire, and the fee doesn't change because a filing got complicated or a project ran long. It's the same alignment we're recommending you look for in your own firm.
 
 If you're a law firm, consulting firm, or other professional service business rethinking how you bill for your team's time, we'd like to walk through it with you. [Contact Aurora Consulting Group](/contact) to set up a conversation about your pricing model.
 
