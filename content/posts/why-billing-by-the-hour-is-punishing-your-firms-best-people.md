@@ -15,6 +15,7 @@ secondary_keywords: ["alternative to hourly billing", "law firm value-based fees
 canonical_url: https://auroracgllc.com/resources/why-billing-by-the-hour-is-punishing-your-firms-best-people
 schema_markup: "FAQPage"
 answer_block: "Value-based pricing charges clients for the outcome a firm delivers instead of the hours logged, which means a law firm or consulting firm's most efficient people stop generating smaller invoices for better work. It removes the built-in incentive hourly billing creates to work slowly, and it gives firms a pricing model that rewards expertise instead of penalizing it."
+faq_block: [{"question":"What's the real difference between value-based pricing and hourly billing?","answer":"Hourly billing charges for time spent; value-based pricing charges for the outcome delivered, usually as a flat fee or milestone fee agreed before the work starts. For a law firm or consulting firm, that means efficiency and expertise get rewarded instead of shrinking the invoice."},{"question":"Won't value-based pricing cost my firm revenue if my team works faster?","answer":"Not if it's priced correctly. The fee is set by the value of the outcome, not the hours it took, so a faster, more experienced team member delivers the same fee for less internal cost, which actually improves your margin instead of shrinking it."},{"question":"Which services should a professional service firm move to value-based pricing first?","answer":"Start with the most predictable, repeatable work, such as standard entity formation, routine contract or compliance review, and recurring client retainers. These have a scope you can define upfront, which makes them the easiest to price as a flat or milestone fee."},{"question":"Does every engagement need to move away from hourly billing?","answer":"No. Complex litigation or genuinely open-ended engagements often still need hourly billing because the scope can't be known in advance. Most firms end up with a mix, with value-based fees on the recurring, definable work and hourly billing reserved for the truly unpredictable engagements."},{"question":"How does Aurora Consulting Group price its own services?","answer":"Fixed monthly pricing, with no annual contract required. You get a Client Service Manager, Client Controller, and Client CFO for less than the cost of one full-time hire, and the fee doesn't change because a filing got complicated or a project ran long. It's the same alignment we recommend firms build into their own pricing."}]
 ---
 One of our clients, a small consulting firm with a senior partner who could untangle a client's operational problem in half the time it took a junior associate, ran into an uncomfortable pattern. The partner's fastest, sharpest work generated smaller invoices than the associate's slower version of the same engagement. Clients weren't complaining, they were thrilled with the outcome, but internally the firm was quietly punishing its best person for being good at the job.
 
@@ -75,3 +76,21 @@ Often, yes. Reputable cost segregation firms will quote a fixed fee based on pro
 Fixed monthly pricing, with no annual contract required. You get a Client Service Manager, Controller, and CFO for less than the cost of one full-time hire, and the fee doesn't change because a filing got complicated or a deal closed late. It's the same alignment we're recommending you look for elsewhere.
 
 If you're a law firm, consulting firm, or other professional service business rethinking how you bill for your team's time, we'd like to walk through it with you. [Contact Aurora Consulting Group](/contact) to set up a conversation about your pricing model.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: What's the real difference between value-based pricing and hourly billing?**
+A: Hourly billing charges for time spent; value-based pricing charges for the outcome delivered, usually as a flat fee or milestone fee agreed before the work starts. For a law firm or consulting firm, that means efficiency and expertise get rewarded instead of shrinking the invoice.
+
+**Q: Won't value-based pricing cost my firm revenue if my team works faster?**
+A: Not if it's priced correctly. The fee is set by the value of the outcome, not the hours it took, so a faster, more experienced team member delivers the same fee for less internal cost, which actually improves your margin instead of shrinking it.
+
+**Q: Which services should a professional service firm move to value-based pricing first?**
+A: Start with the most predictable, repeatable work, such as standard entity formation, routine contract or compliance review, and recurring client retainers. These have a scope you can define upfront, which makes them the easiest to price as a flat or milestone fee.
+
+**Q: Does every engagement need to move away from hourly billing?**
+A: No. Complex litigation or genuinely open-ended engagements often still need hourly billing because the scope can't be known in advance. Most firms end up with a mix, with value-based fees on the recurring, definable work and hourly billing reserved for the truly unpredictable engagements.
+
+**Q: How does Aurora Consulting Group price its own services?**
+A: Fixed monthly pricing, with no annual contract required. You get a Client Service Manager, Client Controller, and Client CFO for less than the cost of one full-time hire, and the fee doesn't change because a filing got complicated or a project ran long. It's the same alignment we recommend firms build into their own pricing.
