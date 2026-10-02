@@ -158,7 +158,6 @@ Aurora Consulting Group's tax planning service is staffed by Enrolled Agents wit
   "@type": "Organization",
   "name": "Aurora Consulting Group LLC",
   "url": "https://auroracgllc.com",
-  "logo": "https://auroracgllc.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/aurora-consulting-group-llc",
     "https://maps.google.com/?cid=632333444639769377&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
